@@ -1,0 +1,265 @@
+/* @license | MyFonts Webfont Build ID 3867246 */
+
+@font-face {
+  font-family: "AllianceNo2Light";
+  src: url('font/AllianceNo2Light/font.woff2') format('woff2'), url('webFonts/AllianceNo2Light/font.woff') format('woff');
+}
+@font-face {
+  font-family: "AllianceNo2Regular";
+  src: url('font/AllianceNo2Regular/font.woff2') format('woff2'), url('webFonts/AllianceNo2Regular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "AllianceNo2Medium";
+  src: url('font/AllianceNo2Medium/font.woff2') format('woff2'), url('webFonts/AllianceNo2Medium/font.woff') format('woff');
+}
+@font-face {
+  font-family: "AllianceNo2SemiBold";
+  src: url('font/AllianceNo2SemiBold/font.woff2') format('woff2'), url('webFonts/AllianceNo2SemiBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "AllianceNo2Bold";
+  src: url('font/AllianceNo2Bold/font.woff2') format('woff2'), url('webFonts/AllianceNo2Bold/font.woff') format('woff');
+}
+
+
+:root {
+  --darkblue: #002155;
+
+
+  --fontbig: 130px;
+  --fontbutton: 20px;
+  --fonttext: 20px;
+
+
+  --fontsubtitle: 30px;
+  --fontsubsubtitle: 25px;
+
+  --fontsmall: 18px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--darkblue);
+}
+
+/*----------------------------------
+  Font
+-----------------------------------*/
+h1, h2, h3, h4, p, a, li, button {
+  font-family: 'AllianceNo2Regular', Helvetica, Sans-Serif;
+  font-weight: normal;
+  font-size: var(--fonttext);
+  color: #ffffff;
+  letter-spacing: 0.25px;
+  line-height: 1.75rem;
+  text-decoration: none;
+  list-style: none;
+  -webkit-font-smoothing: antialiased;
+  hyphens: auto;
+  -webkit-hyphens: auto; 
+  -ms-hyphens: auto; 
+}
+
+h1.big {
+  font-family: 'AllianceNo2Medium', Helvetica, Sans-Serif;
+  background: #ffffff;
+  background: linear-gradient(180deg, rgb(117, 124, 138) 10%, rgba(255,255,255,1) 25%, rgba(255,255,255,1) 60%, rgba(102,108,119,1) 70%, rgba(255,255,255,1) 80%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-transform: uppercase;
+  font-size: var(--fontbig);
+  line-height: 140px;
+}
+
+nav li a {
+  font-family: 'AllianceNo2Medium', Helvetica, Sans-Serif;
+}
+
+
+
+/*----------------------------------
+  Header
+-----------------------------------*/
+
+nav {
+  position: fixed;
+  z-index: 10;
+  width: calc(100% - 60px);
+  margin: 30px;
+  padding: 30px;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid 2px #ffffff;
+  background-color: var(--darkblue);
+}
+
+.logoC{
+  display: flex;
+}
+
+.logo {
+  display: inline-block;
+  font-size: var(--fonttext);
+  color: var(--fontwhite);
+  font-weight: 400;
+  margin: 0;
+  padding-left: 10px;
+  vertical-align: super;
+  line-height: 1.5rem;
+}
+
+.nav-list {
+  margin: 0;
+  display: flex;
+  gap: 30px;
+}
+
+
+/*----------------------------------
+  Basic
+-----------------------------------*/
+.main {
+  margin: 0 auto;
+  max-width: 1240px;
+  position: relative;
+  z-index: 2;
+  opacity: 1;
+  transition: opacity 1s;
+}
+
+
+/*----------------------------------
+  Intro
+-----------------------------------*/
+
+
+/*----------------------------------
+  Subpage
+-----------------------------------*/
+
+
+
+
+/*----------------------------------
+  Footer
+-----------------------------------*/
+
+.angebotnavfooter {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+footer {
+  display: flex;
+  z-index: 2;
+  position: relative;
+  justify-content: center;
+  flex-direction: row;
+  gap: 40px;
+  margin: 50px auto 30px;
+  max-width: 900px;
+}
+
+footer a {
+  display: block;
+  color: var(--yellowgold);
+  font-size: var(--fontsmall);
+  border-left: solid 2px var(--yellowgold);
+  padding-left: 15px;
+}
+
+/*----------------------------------
+    Impressum Datenschutz
+-----------------------------------*/
+.datenschutz {
+  margin-bottom: 150px;
+}
+.datenschutz h3 {
+  margin: 40px 0 0;
+}
+.datenschutz li {
+  padding: 10px 0;
+}
+/*----------------------------------
+    Cookiebanner
+-----------------------------------*/
+
+#cookiebanner {
+  position: fixed;
+  bottom: -300px;
+  left: 40px;
+  border-radius: 5px;
+  width: 350px;
+  background-color: white;
+  padding: 15px;
+  z-index: 9999;
+  transition: bottom 0.5s cubic-bezier(0.2, 0.8, 0.3, 2);
+}
+
+#cookiebanner p {
+  color: var(--funkblue);
+  margin: 0;
+}
+
+#cookiebanner.visible {
+  bottom: 40px;
+}
+
+#cookiebanner button {
+  
+  letter-spacing: 0;
+  text-decoration: none; 
+}
+
+#declineBtn, #acceptBtn {
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+#declineBtn {
+  padding: 10px 20px;
+  background:none;
+  border: 1px solid var(--funkblue); 
+  color: var(--funkblue);
+  opacity: 0.5;
+}
+
+#acceptBtn {
+  border: none;
+  padding: 10px 40px;
+  background: var(--funkblue);
+  color: white;
+  margin-right: 5px;
+}
+
+#acceptBtn:hover,
+#declineBtn:hover {
+  transition: opacity 0.5s ease-in-out;
+  opacity: 0.75; ;
+}
+
+
+/*----------------------------------
+  Responsiv
+-----------------------------------*/
+
+
+@media (max-width: 1200px) {
+  
+}
+
+@media (max-width: 960px) {
+  
+}
+
+@media (max-width: 768px) {
+  
+}
