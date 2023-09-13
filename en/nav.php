@@ -9,10 +9,10 @@
             <div class="bar"></div>
         </div>
         <ul class="nav-list" id="navList">
-            <li><a href="uebermich">Produkte</a></li>
-            <li><a href="uebermich">Unternehmen</a></li>
-            <li><a href="preise">Kontakt</a></li>
-            <li><a href="/">DE</a> | <a href="en/">EN</a></li>
+            <li><a href="uebermich">Products</a></li>
+            <li><a href="uebermich">Company</a></li>
+            <li><a href="preise">Contact</a></li>
+            <li><a href="../">DE</a> | <a href="index">EN</a></li>
         </ul>
     </div>
 </nav>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
@@ -8,6 +8,13 @@
     <meta name="description" content="........">
     <meta name="keywords" content="........">
     <link rel="canonical" href="https://biltec.ch" />
+
+    <link rel="alternate" hreflang="de" href="https://www.biltec.ch/" />
+    <link rel="alternate" hreflang="en" href="https://www.biltec.ch/en" />
+    <link rel="stylesheet" href="../main.css" />
+
+    <?php require_once 'head.php'; ?>
+    
 
 </head>
 
@@ -18,7 +25,7 @@
         
     <?php require_once 'nav.php'; ?>
     <?php require_once 'footer.php'; ?>
-    <?php require_once 'script.php'; ?>
-    <?php require_once 'googleanalytics.php'; ?>
+    <?php require_once '../script.php'; ?>
+    <?php require_once '../googleanalytics.php'; ?>
 </body>
 </html>
