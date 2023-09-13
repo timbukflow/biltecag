@@ -1,5 +1,5 @@
 <nav>
-    <a href="/en" class="logoC">
+    <a href="index" class="logoC">
         <h1 class="logo">Biltec AG</h1>
     </a>
     <div class="navbar">
@@ -12,7 +12,7 @@
             <li><a href="products">Products</a></li>
             <li><a href="uebermich">Company</a></li>
             <li><a href="preise">Contact</a></li>
-            <li><a href="../">DE</a> | <a href="/en">EN</a></li>
+            <li><a href="../">DE</a> | <a href="index">EN</a></li>
         </ul>
     </div>
 </nav>
