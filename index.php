@@ -12,6 +12,8 @@
     <link rel="alternate" hreflang="de" href="https://www.biltec.ch/" />
     <link rel="alternate" hreflang="en" href="https://www.biltec.ch/en" />
 
+    <link rel="stylesheet" href="main.css" />
+
     <?php require_once 'head.php'; ?>
 </head>
 
