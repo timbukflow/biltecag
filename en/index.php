@@ -9,9 +9,6 @@
     <meta name="keywords" content="........">
     <link rel="canonical" href="https://biltec.ch" />
 
-    
-
-    <?php require_once 'head.php'; ?>
 </head>
 
 <body>

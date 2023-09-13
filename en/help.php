@@ -11,7 +11,6 @@
 
     <link rel="stylesheet" href="../main.css" />
 
-    <?php require_once 'head.php'; ?>
 </head>
 
 <body>
