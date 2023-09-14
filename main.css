@@ -133,10 +133,28 @@ nav {
   transition: opacity 1s;
 }
 
+.holder {
+  background-color: blue;
+  width: 100%;
+  height: 500px;
+}
+.holder2 {
+  background-color: blue;
+  width: 100%;
+  height: 1000px;
+}
+
 
 /*----------------------------------
   Intro
 -----------------------------------*/
+
+#container {
+  width: 100%;
+  height: 800px;
+  background-image: url('./img/rotativ0.png');
+  background-size: cover;
+}
 
 
 /*----------------------------------

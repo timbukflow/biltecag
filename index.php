@@ -20,8 +20,16 @@
 <body>
     <section class="main">
         <h1 class="big">Ihre CNC-<br>Profis</h1>
+
+        <div class="holder">hold</div>
+        <div id="container"></div>
+        <div class="holder2">hold</div>
+
+    
     </section>
-        
+    
+
+
     <?php require_once 'nav.php'; ?>
     <?php require_once 'footer.php'; ?>
     <?php require_once 'script.php'; ?>
