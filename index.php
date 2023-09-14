@@ -20,9 +20,9 @@
 <body>
     <section class="main">
         <h1 class="big">Ihre CNC-<br>Profis</h1>
-
-        <div class="holder">hold</div>
-        <div id="container"></div>
+        <div id="container">
+            <img id="animatedImage" src="./img/rotativ0.webp">
+        </div>
         <div class="holder2">hold</div>
 
     
