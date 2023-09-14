@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
     const container = document.getElementById('container');
-    const totalFrames = 40;
+    const totalFrames = 5;
     
     let last_known_scroll_position = 0;
     
