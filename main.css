@@ -151,14 +151,15 @@ nav {
 
 #container {
   width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    display: flex;
+    overflow: hidden;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 
 #container img {
-  width: 80%;
+  width: 150%;
 }
 
 

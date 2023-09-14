@@ -19,7 +19,7 @@ window.addEventListener('scroll', function() {
   }
 
   const scroll_position = window.scrollY - container.offsetTop;
-  let frameIndex = Math.floor(scroll_position / 15);
+  let frameIndex = Math.floor(scroll_position / 12);
   
   frameIndex = Math.max(0, Math.min(frameIndex, totalFrames - 1));
 
