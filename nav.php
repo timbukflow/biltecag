@@ -12,7 +12,7 @@
             <li><a href="produkte">Produkte</a></li>
             <li><a href="uebermich">Unternehmen</a></li>
             <li><a href="preise">Kontakt</a></li>
-            <li><a href="index">DE</a> | <a href="en/">EN</a></li>
+            <li><a href="index">DE</a>  |  <a class="passiv" href="en/">EN</a></li>
         </ul>
     </div>
 </nav>

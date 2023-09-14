@@ -20,11 +20,45 @@
 <body>
     <section class="main">
         <h1 class="big">Ihre CNC-<br>Profis</h1>
-        <div id="container">
-            <img id="animatedImage" src="./img/rotativ0.webp">
+        <h2 class="headline">
+            Die <strong>BILTEC AG</strong> ist Ihr vielseitiger Partner, wenn es um CNC-Fertigung, Konstruktion, Messtechnik und Montage von Baugruppen geht. Wir sind nicht nur Spezialisten für Druckzubehör, sondern übernehmen auch gerne Aufträge, bei denen kreative Ideen und technisches Know-how gefragt sind.
+        </h2>
+
+        <article class="teaser">
+            <div id="rotativ" class="animatC">
+                <img id="rotativImg" src="./img/rotativ0.webp">
+                <p>Behandlung: induktionsgehärtet<br>chemisch vernickelt</p>
+            </div>
+            <h2 class="big fadein">Rotativ</h2>
+            <h3 class="headline fadein">
+                Mit Hilfe unseres Dreh- und Fräscenters sowie unseren CNC-Rundschleifmaschinen fertigen wir Bauteile von hoher Komplexität – und zwar in einem wirtschaftlich attraktiven Rahmen.
+            </h3>
+            <div class="teaserBtn fadein">
+                <button><a href="rotativeloesungen">Rotative Lösungen</a></button>
+                <button class="white"><a href="rotativeloesungen#druckzubehoer">Druckzubehör</a></button>
+            </div>
+        </article>
+
+        <article class="teaser">
+            <div id="kubisch" class="animatC">
+                <img id="kubischImg" src="./img/rotativ0.webp">
+                <p>Behandlung: induktionsgehärtet<br>chemisch vernickelt</p>
+            </div>
+            <h2 class="big fadein">Kubisch</h2>
+            <h3 class="headline fadein">
+                Dank unseren 4- und 5-Achs-Fräszentren fertigen wir sämtliche gewünschten Bauteile in der zugesicherten Qualität – eine für Sie auch wirtschaftlich höchst attraktive Lösung.
+            </h3>
+            <div class="teaserBtn fadein">
+                <button><a href="rotativeloesungen">Kubische Lösungen</a></button>
+            </div>
+        </article>
+
+        <div class="holder2">hold</div>
+        
+        <div id="kubisch" class="animatC">
+            <img id="kubischImg" src="./img/kubisch0.webp">
         </div>
         <div class="holder2">hold</div>
-
     
     </section>
     

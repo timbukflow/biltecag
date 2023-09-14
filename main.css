@@ -24,9 +24,12 @@
 
 :root {
   --darkblue: #002155;
+  --lightblue: #0066FF;
+  --lightblueactiv: #4690ff;
 
 
   --fontbig: 130px;
+  --fonttitle: 30px;
   --fontbutton: 20px;
   --fonttext: 20px;
 
@@ -55,8 +58,8 @@ h1, h2, h3, h4, p, a, li, button {
   font-weight: normal;
   font-size: var(--fonttext);
   color: #ffffff;
-  letter-spacing: 0.25px;
-  line-height: 1.75rem;
+  letter-spacing: 0.5px;
+  line-height: 1.4;
   text-decoration: none;
   list-style: none;
   -webkit-font-smoothing: antialiased;
@@ -65,7 +68,8 @@ h1, h2, h3, h4, p, a, li, button {
   -ms-hyphens: auto; 
 }
 
-h1.big {
+h1.big,
+h2.big {
   font-family: 'AllianceNo2Medium', Helvetica, Sans-Serif;
   background: #ffffff;
   background: linear-gradient(180deg, rgb(117, 124, 138) 10%, rgba(255,255,255,1) 25%, rgba(255,255,255,1) 60%, rgba(102,108,119,1) 70%, rgba(255,255,255,1) 80%);
@@ -73,12 +77,65 @@ h1.big {
   -webkit-text-fill-color: transparent;
   text-transform: uppercase;
   font-size: var(--fontbig);
-  line-height: 140px;
+  line-height: 1.05;
+  margin-top: 200px;
+  margin-bottom: 60px;
+}
+h2.big {
+  margin-top: 30px;
+  margin-bottom: 60px;
 }
 
-nav li a {
-  font-family: 'AllianceNo2Medium', Helvetica, Sans-Serif;
+h2.headline,
+h3.headline {
+  font-size: var(--fonttitle);
+  margin-left: 20%;
+  margin-bottom: 80px;
 }
+h3.headline {
+  margin-bottom: 40px;
+}
+
+strong {
+  font-family: 'AllianceNo2Semibold', Helvetica, Sans-Serif;
+}
+
+button {
+  background-color: var(--lightblue);
+  border: none;
+  line-height: 1;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+  margin: 0;
+  margin-right: 15px;
+  padding: 15px 25px;
+  border-radius: 50px;
+  transition: padding 0.5s, background-color 0.5s;
+}
+
+button:hover {
+  padding: 15px 40px;
+  background-color: var(--lightblueactiv);
+}
+
+button.white {
+  background-color: white;
+  transition: padding 0.5s;
+}
+button.white a {
+  color: var(--lightblue);
+}
+
+a {
+  font-family: 'AllianceNo2Medium', Helvetica, Sans-Serif;
+  font-size: var(--fontbutton);
+}
+
+.passiv {
+  opacity: 0.5;
+}
+
 
 
 
@@ -87,16 +144,17 @@ nav li a {
 -----------------------------------*/
 
 nav {
-  position: relative;
+  position: fixed;
   z-index: 10;
   width: calc(100% - 60px);
-  margin: 30px;
+  margin: 0 30px;
   padding: 30px;
   top: 0;
   display: flex;
   justify-content: space-between;
-  border-bottom: solid 2px #ffffff;
+  border-bottom: solid 1px #ffffff;
   background-color: var(--darkblue);
+  transition: top 0.5s ease-in-out;
 }
 
 .logoC{
@@ -126,6 +184,7 @@ nav {
 -----------------------------------*/
 .main {
   margin: 0 auto;
+  padding: 0 30px;
   max-width: 1240px;
   position: relative;
   z-index: 2;
@@ -134,33 +193,54 @@ nav {
 }
 
 .holder {
-  background-color: blue;
+ 
   width: 100%;
   height: 500px;
 }
 .holder2 {
-  background-color: blue;
+  
   width: 100%;
   height: 2000px;
 }
 
 
+.fadein { 
+  opacity: 0.25;
+  transform: translateY(100px);
+  transition: opacity 1s, transform 1s;
+  will-change: opacity, transform;
+}
+
+
 /*----------------------------------
-  Intro
+  Teaser
 -----------------------------------*/
-
-#container {
+.teaser {
+  margin-bottom: 140px;
+}
+.animatC {
   width: 100%;
-    display: flex;
-    overflow: hidden;
-    justify-content: flex-start;
-    align-items: center;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+}
+.animatC img {
+  width: 100%;
+}
+
+.animatC p {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.teaserBtn {
+  margin-left: 20%;
 }
 
 
-#container img {
-  width: 150%;
-}
 
 
 
