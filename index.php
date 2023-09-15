@@ -25,7 +25,7 @@
         </h2>
 
         <article class="teaser">
-            <div id="rotativ" class="animatC">
+            <div id="rotativ" class="animatC fadein">
                 <img id="rotativImg" src="./img/rotativ0.webp">
                 <p>Behandlung: induktionsgehärtet<br>chemisch vernickelt</p>
             </div>
@@ -40,8 +40,8 @@
         </article>
 
         <article class="teaser">
-            <div id="kubisch" class="animatC">
-                <img id="kubischImg" src="./img/rotativ0.webp">
+            <div id="kubisch" class="animatC fadein">
+                <img id="kubischImg" src="./img/kubisch0.webp">
                 <p>Behandlung: induktionsgehärtet<br>chemisch vernickelt</p>
             </div>
             <h2 class="big fadein">Kubisch</h2>
@@ -52,15 +52,32 @@
                 <button><a href="rotativeloesungen">Kubische Lösungen</a></button>
             </div>
         </article>
-
-        <div class="holder2">hold</div>
-        
-        <div id="kubisch" class="animatC">
-            <img id="kubischImg" src="./img/kubisch0.webp">
-        </div>
-        <div class="holder2">hold</div>
-    
     </section>
+
+    <section class="mainfull">
+        <div class="numbers fadein">
+            <div><h3 class="title"><span class="counter" data-target="100">0</span>Tonnen Stahl</h3></div>
+            <div><h3 class="title"><span class="counter" data-target="300">0</span>Tonnen Aluminium</h3></div>
+            <div><h3 class="title"><span class="counter" data-target="40">0</span>Tonnen Edelstahl</h3></div>
+        </div>
+        <div class="imgC fadein">
+            <img src="img/biltec-werkstoff.jpg" alt=".......">
+        </div>
+        <div class="description">
+            <p>
+                Dies ist die durchschnittliche Menge an Metallen, die wir in unseren Werkhallen pro Jahr verarbeiten.
+            </p>
+        </div>
+
+
+    </section>
+
+        
+       
+        
+    
+    
+    
     
 
 
