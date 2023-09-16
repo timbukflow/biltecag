@@ -33,12 +33,15 @@
   --fonttitle: 30px;
   --fontbutton: 20px;
   --fonttext: 20px;
-
-
-  --fontsubtitle: 30px;
-  --fontsubsubtitle: 25px;
-
   --fontsmall: 18px;
+
+  --fontregular: 'AllianceNo2Regular', Helvetica, Sans-Serif;
+  --fontmedium: 'AllianceNo2Medium', Helvetica, Sans-Serif;
+  --fontsemibold: 'AllianceNo2Semibold', Helvetica, Sans-Serif;
+
+  --grid: 1240px;
+  --gridfull: 2000px
+
 }
 
 * {
@@ -55,7 +58,7 @@ body {
   Font
 -----------------------------------*/
 h1, h2, h3, h4, p, a, li, button {
-  font-family: 'AllianceNo2Regular', Helvetica, Sans-Serif;
+  font-family: var(--fontregular);
   font-weight: normal;
   font-size: var(--fonttext);
   color: #ffffff;
@@ -71,7 +74,7 @@ h1, h2, h3, h4, p, a, li, button {
 
 h1.big,
 h2.big {
-  font-family: 'AllianceNo2Medium', Helvetica, Sans-Serif;
+  font-family: var(--fontmedium);
   background: #ffffff;
   background: linear-gradient(180deg, rgb(117, 124, 138) 10%, rgba(255,255,255,1) 25%, rgba(255,255,255,1) 60%, rgba(102,108,119,1) 70%, rgba(255,255,255,1) 80%);
   -webkit-background-clip: text;
@@ -103,7 +106,7 @@ h3.headline {
 }
 
 strong {
-  font-family: 'AllianceNo2Semibold', Helvetica, Sans-Serif;
+  font-family: var(--fontsemibold)
 }
 
 button {
@@ -134,8 +137,13 @@ button.white a {
 }
 
 a {
-  font-family: 'AllianceNo2Medium', Helvetica, Sans-Serif;
+  font-family: var(--fontregular);
   font-size: var(--fontbutton);
+  transition: color 0.5s;
+}
+
+a:hover {
+  color: var(--lightblue);
 }
 
 .passiv {
@@ -191,15 +199,23 @@ nav {
 .main {
   margin: 0 auto;
   padding: 0 30px;
-  max-width: 1240px;
+  max-width: var(--grid);
   position: relative;
 }
 
 .mainfull {
   margin: 0 auto 120px;
   padding: 0 30px;
-  max-width: 2000px;
+  max-width: var(--gridfull);
   position: relative;
+}
+
+.mainfully {
+  margin: 0 auto;
+  padding: 0 30px;
+  width: 100%;
+  position: relative;
+  background-color: white;
 }
 
 .imgC {
@@ -217,12 +233,16 @@ nav {
 .description {
   margin: 0 auto;
   padding: 0 30px;
-  max-width: 1240px;
+  max-width: var(--grid);
   position: relative;
 }
 .description p {
   margin-left: 50%;
   padding-top: 30px;
+}
+
+.icons {
+  
 }
 
 .fadein { 
@@ -275,7 +295,7 @@ nav {
 .numbers {
   display: flex;
   gap: 30px;
-  max-width: 1240px;
+  max-width: var(--grid);
   margin: 0 auto 60px;
   justify-content: space-between;
 }
@@ -311,30 +331,44 @@ nav {
   Footer
 -----------------------------------*/
 
-.angebotnavfooter {
-  display: flex;
-  height: 100vh;
-  align-items: center;
-  justify-content: center;
-}
-
 footer {
   display: flex;
-  z-index: 2;
   position: relative;
   justify-content: center;
   flex-direction: row;
-  gap: 40px;
-  margin: 50px auto 30px;
-  max-width: 900px;
+  margin: 0 30px;
+  border-top: solid 1px #ffffff;
+  max-width: var(--gridfull);
 }
 
-footer a {
-  display: block;
-  color: var(--yellowgold);
+footer a,
+footer li {
   font-size: var(--fontsmall);
-  border-left: solid 2px var(--yellowgold);
-  padding-left: 15px;
+}
+
+footer div {
+  padding: 30px 10px;
+  flex-basis: 100%;
+}
+
+.totop {
+  font-size: var(--fonttitle);
+}
+
+footer ul {
+  padding-left: 0;
+  margin: 0;  
+}
+
+.footernav {
+  display: flex;
+}
+.footernav ul {
+  flex-basis: 100%;
+}
+
+.footernav .group {
+  margin-top: 25px;
 }
 
 /*----------------------------------

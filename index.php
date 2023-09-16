@@ -68,18 +68,32 @@
                 Dies ist die durchschnittliche Menge an Metallen, die wir in unseren Werkhallen pro Jahr verarbeiten.
             </p>
         </div>
-
-
     </section>
+
+    <section class="mainfully">
+        <div class="icons fadein">
+            <div>
+                <img src="" alt="">
+                <h3 class="title">Tonnen Stahl</h3>
+                <p>..........</p>
+            </div>
+            <div><h3 class="title"><span class="counter" data-target="300">0</span>Tonnen Aluminium</h3></div>
+            <div><h3 class="title"><span class="counter" data-target="40">0</span>Tonnen Edelstahl</h3></div>
+        </div>
+        <div class="imgC fadein">
+            <img src="img/biltec-werkstoff.jpg" alt=".......">
+        </div>
+        <div class="description">
+            <p>
+                Dies ist die durchschnittliche Menge an Metallen, die wir in unseren Werkhallen pro Jahr verarbeiten.
+            </p>
+        </div>
+    </section>
+
+
 
         
        
-        
-    
-    
-    
-    
-
 
     <?php require_once 'nav.php'; ?>
     <?php require_once 'footer.php'; ?>
