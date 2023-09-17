@@ -56,9 +56,9 @@
 
     <section class="mainfull">
         <div class="numbers fadein">
-            <div><h3 class="title"><span class="counter" data-target="100">0</span>Tonnen Stahl</h3></div>
-            <div><h3 class="title"><span class="counter" data-target="300">0</span>Tonnen Aluminium</h3></div>
-            <div><h3 class="title"><span class="counter" data-target="40">0</span>Tonnen Edelstahl</h3></div>
+            <div><h3><span class="counter" data-target="100">0</span>Tonnen Stahl</h3></div>
+            <div><h3><span class="counter" data-target="300">0</span>Tonnen Aluminium</h3></div>
+            <div><h3><span class="counter" data-target="40">0</span>Tonnen Edelstahl</h3></div>
         </div>
         <div class="imgC fadein">
             <img src="img/biltec-werkstoff.jpg" alt=".......">
@@ -70,27 +70,62 @@
         </div>
     </section>
 
-    <section class="mainfully">
-        <div class="icons fadein">
-            <div>
-                <img src="" alt="">
-                <h3 class="title">Tonnen Stahl</h3>
-                <p>..........</p>
+    <section class="mainwhite">
+        <div class="subtitle">
+            <h2>Was Sie alles von uns haben</h2>
+        </div>
+        <div class="gridC fadein">
+            <div class="iconC">
+                <img src="img/biltec-icon-spitzentechnologie.svg" alt="biltec icon spitzentechnologie">
+                <h3>Spitzentechnologie</h3>
+                <p>
+                    Die <strong>BILTEC AG</strong> steht nie still. So inte-grieren wir ständig die modernsten Technologien in unseren Fertigungs-park und entwickeln uns laufend weiter, damit unsere Produkte jederzeit dem aktuellsten Stand entsprechen.
+                </p>
             </div>
-            <div><h3 class="title"><span class="counter" data-target="300">0</span>Tonnen Aluminium</h3></div>
-            <div><h3 class="title"><span class="counter" data-target="40">0</span>Tonnen Edelstahl</h3></div>
+            <div class="iconC">
+                <img src="img/biltec-icon-wirtschaftlichkeit.svg" alt="biltec icon wirtschaftlichkeit">
+                <h3>Wirtschaftlichkeit</h3>
+                <p>
+                    Die <strong>BILTEC AG</strong> steht für eine effiziente Produktion – dank hoher Verfügbar-keit, durchdachten Prozessen, einem modernen Maschinenpark sowie Energieeffizienz.
+                </p>
+            </div>
+            <div class="iconC">
+                <img src="img/biltec-icon-partnerschaft.svg" alt="biltec icon partnerschaft">
+                <h3>Partnerschaft</h3>
+                <p>
+                    Die <strong>BILTEC AG</strong> steht Kunden als starker Partner zur Seite, vom ersten Kontakt bis zur Auslieferung und darüber hinaus. Unsere vielen langjährigen Beziehungen sind der Beweis.
+                </p>
+            </div>
         </div>
-        <div class="imgC fadein">
-            <img src="img/biltec-werkstoff.jpg" alt=".......">
-        </div>
-        <div class="description">
-            <p>
-                Dies ist die durchschnittliche Menge an Metallen, die wir in unseren Werkhallen pro Jahr verarbeiten.
-            </p>
+        <div class="gridC fadein">
+            <div class="iconC">
+                <img src="img/biltec-icon-verantwortung.svg" alt="biltec icon verantwortung">
+                <h3>Verantwortung</h3>
+                <p>
+                    Die <strong>BILTEC AG</strong> ist sich der Verantwortung gegenüber ihren Stakeholdern, der Gesellschaft sowie der Umwelt bewusst. Nachhaltigkeit haben wir deshalb fest in unserem Unternehmen verankert und unser tägliches Handeln darauf abgestimmt.
+                </p>
+            </div>
+            <div class="iconC">
+                <img src="img/biltec-icon-zuverlaessigkeit.svg" alt="biltec icon zuverlässigkeit">
+                <h3>Zuverlässigkeit</h3>
+                <p>
+                    Auf die <strong>BILTEC AG</strong> ist Verlass. Als erfahrener und kompetenter Partner liefern wir in höchster Qualität – termingerecht und zu den vereinbarten Konditionen.
+                </p>
+            </div>
+            <div class="iconC">
+                <img src="img/biltec-icon-flexibilitaet.svg" alt="biltec icon flexibilität">
+                <h3>Flexibilität</h3>
+                <p>
+                    Die <strong>BILTEC AG</strong> steht für eine klare Haltung: Wir loten die Grenzen des Machbaren immer wieder neu aus. Das heisst, unsere Spezialisten setzen immer alles daran, die Wünsche der Kunden zu erfüllen.
+                </p>
+            </div>
         </div>
     </section>
+    
+    <section>
 
-
+    
+    </section>
 
         
        

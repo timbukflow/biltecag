@@ -27,7 +27,8 @@
   --lightblue: #0066FF;
   --lightblueactiv: #4690ff;
 
-  
+  --fontcolor: #2D405C;
+
   --fontnr: 170px;
   --fontbig: 130px;
   --fonttitle: 30px;
@@ -90,19 +91,35 @@ h2.big {
   margin-bottom: 60px;
 }
 
-h2.title,
-h3.title {
+h2, h3 {
   font-size: var(--fonttitle);
 }
 
 h2.headline,
 h3.headline {
-  font-size: var(--fonttitle);
   margin-left: 20%;
   margin-bottom: 80px;
 }
 h3.headline {
   margin-bottom: 40px;
+}
+
+.subtitle {
+  margin: 0 auto 90px;
+  max-width: var(--grid);
+}
+.subtitle h2 {
+  border-bottom: 2px solid var(--fontcolor);
+  padding-bottom: 7px;
+}
+
+.mainwhite h3 {
+  color: var(--lightblue);
+}
+
+.mainwhite h2,
+.mainwhite p {
+color: var(--fontcolor);
 }
 
 strong {
@@ -210,12 +227,12 @@ nav {
   position: relative;
 }
 
-.mainfully {
-  margin: 0 auto;
-  padding: 0 30px;
-  width: 100%;
-  position: relative;
+.mainwhite {
   background-color: white;
+  margin: 40px 30px 0px;
+  max-width: var(--gridfull);
+  padding: 40px 0 0;
+  border-radius: 20px 0 20px 0;
 }
 
 .imgC {
@@ -241,8 +258,21 @@ nav {
   padding-top: 30px;
 }
 
-.icons {
-  
+.gridC {
+  display: flex;
+  gap: 30px;
+  max-width: var(--grid);
+  margin: 0 auto;
+}
+
+.iconC {
+ margin-bottom: 100px;
+ width: 100%;
+}
+
+.iconC img {
+  width: 92px;
+  height: 92px;
 }
 
 .fadein { 
