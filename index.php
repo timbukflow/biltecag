@@ -122,9 +122,35 @@
         </div>
     </section>
     
-    <section>
-
-    
+    <section class="mainsubnav">
+        <div class="subnav fadein">
+            <div class="subnavimg">
+                <img src="img/biltec-werkstoff.jpg" alt=".......">
+            </div>
+            <div class="subnavcontent">
+                <h2 >Biltec AG - Ihr CNC-Profis</h2>
+                <p>
+                    Seit über zwanzig Jahren sind wir am Markt. Heute sind wir weit über die Schweiz hinaus bekannt als renom-mierter Anbieter von mechanischen Fertigungsteilen höchster Güteklasse.
+                </p>
+            </div>
+            <button>
+                <a href="unternehmen">Unternehmen</a>
+            </button>
+        </div>
+        <div class="subnav fadein">
+            <div class="subnavimg">
+                <img src="img/biltec-werkstoff.jpg" alt=".......">
+            </div>
+            <div class="subnavcontent">
+                <h2 >Biltec AG - Ihr CNC-Profis</h2>
+                <p>
+                    Seit über zwanzig Jahren sind wir am Markt. Heute sind wir weit über die Schweiz hinaus bekannt als renom-mierter Anbieter von mechanischen Fertigungsteilen höchster Güteklasse.
+                </p>
+            </div>
+            <button>
+                <a href="unternehmen">Unternehmen</a>
+            </button>
+        </div>
     </section>
 
         

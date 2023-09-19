@@ -113,12 +113,14 @@ h3.headline {
   padding-bottom: 7px;
 }
 
-.mainwhite h3 {
+.mainwhite h3,
+.mainsubnav h2 {
   color: var(--lightblue);
 }
 
 .mainwhite h2,
-.mainwhite p {
+.mainwhite p,
+.mainsubnav p {
 color: var(--fontcolor);
 }
 
@@ -358,6 +360,54 @@ nav {
 -----------------------------------*/
 
 
+
+
+/*----------------------------------
+  Footer Subnav
+-----------------------------------*/
+
+.mainsubnav {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  margin: 80px auto 120px;
+  padding: 0 30px;
+  max-width: var(--gridfull);
+  position: relative;
+}
+
+.subnav {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  flex-basis: 100%;
+  border-radius: 20px 0 20px 0;
+  align-items: flex-start;
+}
+
+.subnavimg {
+  display: flex;
+  overflow: hidden;
+  border-radius: 20px 0 0 0;
+  height: 300px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.subnavimg img {
+  width: 100%;
+}
+
+.subnavcontent {
+  padding: 20px 50px 50px;
+}
+
+.subnav button {
+  position: absolute;
+  bottom: -30px;
+  left: 40px;
+}
 
 
 /*----------------------------------
