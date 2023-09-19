@@ -126,6 +126,16 @@ strong {
   font-family: var(--fontsemibold)
 }
 
+a {
+  font-family: var(--fontregular);
+  font-size: var(--fontbutton);
+  transition: color 0.5s;
+}
+
+a:hover {
+  color: var(--lightblue);
+}
+
 button {
   background-color: var(--lightblue);
   border: none;
@@ -144,22 +154,15 @@ button:hover {
   padding: 15px 40px;
   background-color: var(--lightblueactiv);
 }
+button a:hover {
+  color: white;
+}
 
 button.white {
   background-color: white;
   transition: padding 0.5s;
 }
 button.white a {
-  color: var(--lightblue);
-}
-
-a {
-  font-family: var(--fontregular);
-  font-size: var(--fontbutton);
-  transition: color 0.5s;
-}
-
-a:hover {
   color: var(--lightblue);
 }
 
