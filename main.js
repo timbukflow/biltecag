@@ -1,5 +1,6 @@
 $( document ).ready(function() {
     /////////// Navigation ///////////
+    // Nav fadin fadout on scroll
     const nav = document.querySelector('nav');
     let lastScrollTop = 0;
     const navShowThreshold = 100;
@@ -15,6 +16,13 @@ $( document ).ready(function() {
         lastScrollTop = scrollTop;
         }
     });
+
+    // Nav Submenu
+    $('.menu').hover(function() {
+      $(this).find('.submenu').slideToggle();
+    });
+
+
 
     /////////// Animation Start ///////////
     // Funktion zum Vorladen der Bilder

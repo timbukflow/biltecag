@@ -211,8 +211,37 @@ nav {
 .nav-list {
   margin: 0;
   display: flex;
-  gap: 30px;
+  text-align: right;
 }
+
+.nav-list ul {
+  padding: 0;
+}
+
+.menu:first-child {
+  width: 210px;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 190px;
+}
+
+.submenu {
+  display: none;
+}
+
+.submenu li {
+  padding-bottom: 5px;
+}
+
+.konlang {
+  padding-left: 55px;
+}
+
+
 
 
 /*----------------------------------
