@@ -50,29 +50,162 @@
 </head>
 
 <body>
-    <section class="mainfull">
-        <article class="main">
-            <h1 class="big">Produkte</h1>
-            <h2 class="headline">
+    <header class="main">
+        <h1 class="big">Produkte</h1>
+        <h2 class="headline">
                 Wir sind in der Schweiz zuhause und setzen vor Ort auf eine Reihe von Horizontalmaschinen, mit denen wir Präzisionskomponenten aus praktisch allen wichtigen metallischen Werkstoffen herstellen. Um die hohe Qualität unserer Erzeugnisse sicherzustellen, nutzen wir einen modernen <a class="textlink" href="unternehmen#maschinenpark">Maschinenpark</a>.
-            </h2>
-        </article>
+        </h2>
+    </header>
 
-        <div class="imgC fadein">
+    <main class="mainfull">
+        <section class="imgC fadein">
             <picture>
-                <source type="image/webp" srcset="img/advokatur-treuhand-falkenstein-st-gallen-christa-rempfler-musiknoten-schwizer-design.webp" >
-                <source type="image/jpg" srcset="img/advokatur-treuhand-falkenstein-st-gallen-christa-rempfler-musiknoten-schwizer-design.jpg" >
-                <img src="img/advokatur-treuhand-falkenstein-st-gallen-christa-rempfler-musiknoten-schwizer-design.jpg" alt="portrait von christa rempfler advokatur am falkenstein mit braunen haaren und brille musiknoten in der hand im auf grauem hintergrund mit fliegenden musiknoten." loading="lazy">
+                 <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-praezisionsfertigung-metallischer-komponenten-schweiz.webp" >
+                <source type="image/jpg" srcset="img/biltec-cnc-profis-produkte-praezisionsfertigung-metallischer-komponenten-schweiz.jpg" >
+                <img src="img/biltec-cnc-profis-produkte-praezisionsfertigung-metallischer-komponenten-schweiz.jpg" alt="Präzisionsfertigung kubischer und rotativer metallischer Komponenten in der Schweiz." loading="lazy">
             </picture>
-        </div>
-        
-        <article class="main pkonst">
-            <div class=""></div>
-        </article>
-        
-    </section>
+        </section>
+            
+        <section class="main pcadcont fadein">
+            <picture>
+                <source type="image/webp" srcset="img/biltec-cnc-profis-konstruktion-cad-cam.webp" >
+                <source type="image/jpg" srcset="img/biltec-cnc-profis-konstruktion-cad-cam.jpg" >
+                <img src="img/biltec-cnc-profis-konstruktion-cad-cam.jpg" alt="Computer-Aided Design und Computer-Aided Manufacturing Konstruktion mit Top Solid" loading="lazy">
+            </picture>
+            <div>
+                <h2>Konstruktion/CAD/CAM</h2>
+                <p>
+                    In der CAD / CAM Konstruktion setzen wir auf Top Solid – so können wir auf jeden Wunsch eingehen. Die freie Modellierung ist dabei die Basis massgefertigter Lösungen, die wir gezielt nach Ihrem Anspruch und Ihrem Bedarf umsetzen. Vertrauen Sie auf unsere langjährige Erfahrung in der Konstruktion von CAD / CAM.
+                </p>
+            </div>
+        </section>
 
-        
+        <section>
+            <div class="prosubnav fadein">
+                <div class="prosubnavcontent">
+                    <h2>Rotative Lösungen Druckzubehör</h2>
+                    <p>
+                        Mit Hilfe unseres Dreh- und Fräscenters sowie unseren CNC-Rundschleifmaschinen fertigen wir Bauteile von hoher Komplexität – und zwar in einem wirtschaftlich attraktiven Rahmen.
+                    </p>
+                    <button>
+                        <a href="produkte">Rotative Lösungen</a>
+                    </button>
+                </div>
+                <div class="prosubnavimg right">
+                    <picture>
+                        <source type="image/webp" srcset="img/biltec-cnc-profis-rotative-loesungen-druckzubehoer-teaser.webp" >
+                        <source type="image/jpg" srcset="img/biltec-cnc-profis-rotative-loesungen-druckzubehoer-teaser.jpg" >
+                        <img src="img/biltec-cnc-profis-rotative-loesungen-druckzubehoer-teaser.jpg" alt="Dreh- und Fräscenter sowie CNC-Rundschleifmaschinen für komplexe Bauteile" loading="lazy">
+                    </picture>
+                </div> 
+            </div>
+            <div class="prosubnav fadein">
+                <div class="prosubnavimg left">
+                    <picture>
+                        <source type="image/webp" srcset="img/biltec-cnc-profis-kubische-loesungen-teaser.webp" >
+                        <source type="image/jpg" srcset="img/biltec-cnc-profis-kubische-loesungen-teaser.jpg" >
+                        <img src="img/biltec-cnc-profis-kubische-loesungen-teaser.jpg" alt="Präzise kubische Fertigung mit 4- und 5-Achs-Fräszentren." loading="lazy">
+                    </picture>
+                </div> 
+                <div class="prosubnavcontent">
+                    <h2>Kubische Lösungen</h2>
+                    <p>
+                        Dank unseren 4- und 5-Achs-Fräszentren fertigen wir sämtliche gewünschten Bauteile in der zugesicherten Qualität – eine für Sie auch wirtschaftlich höchst attraktive Lösung.
+                    </p>
+                    <button class="right">
+                        <a href="produkte">Kubische Lösungen</a>
+                    </button>
+                </div>
+            </div>
+            <div class="prosubnav fadein">
+                <div class="prosubnavcontent">
+                    <h2>Baugruppenmontage</h2>
+                    <p>
+                        Indem Sie uns mit einer kompletten Baugruppenmontage beauftragen, sparen Sie Zeit und Geld, sodass sich Ihre Effizienz erhöht und Ihr Unternehmen wirtschaftlicher arbeitet.
+                    </p>
+                    <button>
+                        <a href="produkte">Baugruppenmontage</a>
+                    </button>
+                </div>
+                <div class="prosubnavimg right">
+                    <picture>
+                        <source type="image/webp" srcset="img/biltec-cnc-profis-baugruppenmontage-teaser.webp" >
+                        <source type="image/jpg" srcset="img/biltec-cnc-profis-rotative-loesungen-druckzubehoer-teaser.jpg" >
+                        <img src="img/biltec-cnc-profis-baugruppenmontage-teaser.jpg" alt="Effiziente Baugruppenmontage für Zeit- und Kostenersparnis." loading="lazy">
+                    </picture>
+                </div> 
+            </div>
+        </section>
+
+        <section class="main">
+            <div class="subtitle fadein">
+                <h2 class="white">Fakten</h2>
+            </div>
+            <div class="numbers fadein">
+                <div class="nprod">
+                    <h3><span class="counter" data-target="18">0</span></h3>
+                    <h2>Mitarbeitende</h2>
+                    <p>
+                        Wir sind klein, aber leistungsfähig. Und wir wollen auch nicht um jeden Preis wachsen, dafür schätzen wir unsere familiäre Kultur zu sehr.
+                    </p>
+                </div>
+                <div class="nprod">
+                    <h3><span class="counter" data-target="24">0</span></h3>
+                    <h2>24/7 Produktivität</h2>
+                    <p>
+                        Wenn es sein muss, legen wir auch mal eine Extraschicht ein. Unser Fokus liegt immer darauf, unsere Kunden bestmöglich zu bedienen.
+                    </p>
+                </div>
+                <div class="nprod">
+                    <h3><span class="counter" data-target="5000">0</span></h3>
+                    <h2>Serienartikel</h2>
+                    <p>
+                        Wir sind in der glücklichen Lage, fast jeden Kundenwunsch erfüllen zu können. &laquo;Geht nicht, gibt's nicht&raquo; lautet entsprechend unser Motto.
+                    </p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div class="mainsubnav">
+        <div class="subnav fadein">
+            <div class="subnavimg">
+                <picture>
+                    <source type="image/webp" srcset="img/biltec-cnc-profis-teaser-unternehmen.webp" >
+                    <source type="image/jpg" srcset="img/biltec-cnc-profis-teaser-unternehmen.jpg" >
+                    <img src="img/biltec-cnc-profis-teaser-unternehmen.jpg" alt="biltec cnc profis teaser unternehmen" loading="lazy">
+                </picture>
+            </div>
+            <div class="subnavcontent">
+                <h2 >Biltec AG - Ihr CNC-Profis</h2>
+                <p>
+                    Seit über zwanzig Jahren sind wir am Markt. Heute sind wir weit über die Schweiz hinaus bekannt als renommierter Anbieter von mechanischen Fertigungsteilen höchster Güteklasse.
+                </p>
+            </div>
+            <button>
+                <a href="unternehmen">Unternehmen</a>
+            </button>
+        </div>
+        <div class="subnav fadein">
+            <div class="subnavimg">
+                <picture>
+                    <source type="image/webp" srcset="img/biltec-cnc-profis-teaser-ansprechpartner.webp" >
+                    <source type="image/jpg" srcset="img/biltec-cnc-profis-teaser-ansprechpartner.jpg" >
+                    <img src="img/biltec-cnc-profis-teaser-ansprechpartner.jpg" alt="biltec cnc profis teaser ansprechpartner" loading="lazy">
+                </picture>
+            </div>
+            <div class="subnavcontent">
+                <h2>Wir sind gerne für Sie da!</h2>
+                <p>
+                    Sie haben Fragen zu unseren Leistungen oder möchten von der hohen Qualität unserer Produkte und Lösungen profitieren? Dann melden Sie sich bei uns – wir freuen uns!
+                </p>
+            </div>
+            <button>
+                <a href="kontakt">Ansprechpartner</a>
+            </button>
+        </div>
+    </div>
+    
     <?php require_once 'nav.php'; ?>
     <?php require_once 'footer.php'; ?>
     <?php require_once 'script.php'; ?>

@@ -81,7 +81,7 @@
 </head>
 
 <body>
-    <section class="main">
+    <header class="main">
         <h1 class="big">Ihre CNC-<br>Profis</h1>
         <h2 class="headline">
             Die <strong>BILTEC AG</strong> ist Ihr vielseitiger Partner, wenn es um CNC-Fertigung, Konstruktion, Messtechnik und Montage von Baugruppen geht. Wir sind nicht nur Spezialisten für Druckzubehör, sondern übernehmen auch gerne Aufträge, bei denen kreative Ideen und technisches Know-how gefragt sind.
@@ -115,9 +115,9 @@
                 <button><a href="rotativeloesungen">Kubische Lösungen</a></button>
             </div>
         </article>
-    </section>
+    </header>
 
-    <section class="mainfull">
+    <div class="mainfull">
         <div class="numbers fadein">
             <div><h3><span class="counter" data-target="100">0</span>Tonnen Stahl</h3></div>
             <div><h3><span class="counter" data-target="300">0</span>Tonnen Aluminium</h3></div>
@@ -135,9 +135,9 @@
                 Dies ist die durchschnittliche Menge an Metallen, die wir in unseren Werkhallen pro Jahr verarbeiten.
             </p>
         </div>
-    </section>
+    </div>
 
-    <section class="mainwhite">
+    <main class="mainwhite">
         <div class="subtitle">
             <h2>Was Sie alles von uns haben</h2>
         </div>
@@ -146,7 +146,7 @@
                 <img src="img/biltec-icon-spitzentechnologie.svg" alt="biltec icon spitzentechnologie">
                 <h3>Spitzentechnologie</h3>
                 <p>
-                    Die <strong>BILTEC AG</strong> steht nie still. So inte-grieren wir ständig die modernsten Technologien in unseren Fertigungs-park und entwickeln uns laufend weiter, damit unsere Produkte jederzeit dem aktuellsten Stand entsprechen.
+                    Die <strong>BILTEC AG</strong> steht nie still. So integrieren wir ständig die modernsten Technologien in unseren Fertigungspark und entwickeln uns laufend weiter, damit unsere Produkte jederzeit dem aktuellsten Stand entsprechen.
                 </p>
             </div>
             <div class="iconC">
@@ -187,9 +187,9 @@
                 </p>
             </div>
         </div>
-    </section>
+    </main>
     
-    <section class="mainsubnav">
+    <div class="mainsubnav">
         <div class="subnav fadein">
             <div class="subnavimg">
                 <picture>
@@ -226,7 +226,7 @@
                 <a href="produkte">Produkte</a>
             </button>
         </div>
-    </section>
+    </div>
 
         
        
@@ -234,6 +234,7 @@
     <?php require_once 'nav.php'; ?>
     <?php require_once 'footer.php'; ?>
     <?php require_once 'script.php'; ?>
+    <script src="animation.js"></script>
     <?php require_once 'googleanalytics.php'; ?>
 </body>
 </html>

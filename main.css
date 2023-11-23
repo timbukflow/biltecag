@@ -111,16 +111,21 @@ h3.headline {
 .subtitle h2 {
   border-bottom: 2px solid var(--fontcolor);
   padding-bottom: 7px;
+
+}.subtitle h2.white {
+  border-bottom: 1px solid white;
 }
 
 .mainwhite h3,
-.mainsubnav h2 {
+.mainsubnav h2,
+.prosubnav h2 {
   color: var(--lightblue);
 }
 
 .mainwhite h2,
 .mainwhite p,
-.mainsubnav p {
+.mainsubnav p,
+.prosubnav p {
 color: var(--fontcolor);
 }
 
@@ -141,7 +146,7 @@ a:hover {
 a.textlink {
   font-size:  var(--fonttitle);
   padding-bottom: 2px;
-  border-bottom: 2px solid;
+  border-bottom: 1px solid;
 ;
 }
 
@@ -246,9 +251,6 @@ nav {
   padding-left: 55px;
 }
 
-
-
-
 /*----------------------------------
   Basic
 -----------------------------------*/
@@ -282,7 +284,8 @@ nav {
   justify-content: center;
 }
 
-.imgC img {
+picture,
+img {
   width: 100%;
 }
 
@@ -318,10 +321,6 @@ nav {
   transform: translateY(100px);
   transition: transform 1s;
   will-change: transform;
-}
-
-.textlink {
-
 }
 
 
@@ -389,13 +388,68 @@ nav {
   -webkit-text-fill-color: transparent;
 }
 
-
-
-
+.numbers .nprod span {
+  font-size: var(--fontbig);
+}
 
 /*----------------------------------
   Subpage
 -----------------------------------*/
+
+
+/*----------------------------------
+  Produkte
+-----------------------------------*/
+.pcadcont {
+  display: flex;
+  gap: 40px;
+  margin: 150px auto;
+  align-items: center;
+}
+.pcadcont div {
+  flex-basis: 70%;
+}
+
+.prosubnav {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  border-radius: 20px 0 20px 0;
+  align-items: flex-start;
+  margin-bottom: 120px;
+}
+
+.prosubnavcontent {
+  flex-basis: 40%;
+  padding: 20px 50px 50px;
+}
+
+.prosubnavimg {
+  flex-basis: 60%;
+  display: flex;
+  overflow: hidden;
+  height: 420px;
+  justify-content: center;
+  align-items: center;
+}
+.prosubnavimg.right {
+  border-radius: 0 0 20px 0;
+}
+.prosubnavimg.left {
+  border-radius: 20px 0 0 0;
+}
+
+.prosubnav button {
+  position: absolute;
+  bottom: -30px;
+  left: 40px;
+}
+
+.prosubnav button.right {
+  right: 40px;
+  left: auto;
+}
+
 
 
 
@@ -433,10 +487,6 @@ nav {
   align-items: center;
 }
 
-.subnavimg img {
-  width: 100%;
-}
-
 .subnavcontent {
   padding: 20px 50px 50px;
 }
@@ -459,7 +509,6 @@ footer {
   flex-direction: row;
   margin: 0 30px;
   border-top: solid 1px #ffffff;
-  max-width: var(--gridfull);
 }
 
 footer a,
