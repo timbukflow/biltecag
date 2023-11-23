@@ -27,16 +27,16 @@
     <meta name="msapplication-TileColor" content="#151515">
     <meta name="theme-color" content="#151515">
 
-    <meta property="og:title" content="Biltec AG | Ihre CNC-Profis">
-    <meta property="og:description" content="BILTEC AG - Ihr verlässlicher Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und kreative Lösungen mit modernster Technologie, Wirtschaftlichkeit und Nachhaltigkeit.">
+    <meta property="og:title" content="Biltec AG | Produkte">
+    <meta property="og:description" content="Entdecken Sie unsere hochwertigen Produkte bei Biltec AG. Wir bieten Präzisionskomponenten aus einer Vielzahl metallischer Werkstoffe, maßgefertigte Lösungen, CAD / CAM-Konstruktion, rotative und kubische Fertigung sowie effiziente Baugruppenmontage.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://biltec.ch">
+    <meta property="og:url" content="https://biltec.ch/produkte">
     <meta property="og:image" content="https://biltec.ch/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Biltec AG | Ihre CNC-Profis">
-    <meta name="twitter:description" content="BILTEC AG - Ihr verlässlicher Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und kreative Lösungen mit modernster Technologie, Wirtschaftlichkeit und Nachhaltigkeit.">
+    <meta name="twitter:title" content="Biltec AG | Produkte">
+    <meta name="twitter:description" content="Entdecken Sie unsere hochwertigen Produkte bei Biltec AG. Wir bieten Präzisionskomponenten aus einer Vielzahl metallischer Werkstoffe, maßgefertigte Lösungen, CAD / CAM-Konstruktion, rotative und kubische Fertigung sowie effiziente Baugruppenmontage.">
     <meta name="twitter:image" content="https://biltec.ch/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
