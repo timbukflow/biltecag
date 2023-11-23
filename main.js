@@ -18,8 +18,20 @@ $( document ).ready(function() {
     });
 
     // Nav Submenu
-    $('.menu').hover(function() {
-      $(this).find('.submenu').slideToggle();
+    $('.menu').mouseenter(function() {
+      $(this).find('.submenu').stop(true).slideDown(300, 'linear');
+    }).mouseleave(function() {
+      $(this).find('.submenu').stop(true).slideUp(300, 'linear');
+    });
+
+    // Nav Bookmark 
+    $('.scroll').click(function() {
+      var superscroll = $(this).attr('data-scroll');
+      $('html,body').animate({scrollTop:$(superscroll).offset().top}, 1000, 'easeInOutExpo');
+      $('.navigation').removeClass('navigation_toggled');
+      $('body').removeClass('noscroll');
+      $('.dropdown').slideUp();
+      $('#kontakt').html("Kontakt");
     });
 
 

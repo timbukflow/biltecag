@@ -5,16 +5,79 @@
     <meta charset="UTF-8">
     <title>Biltec AG | Ihre CNC-Profis</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="........">
-    <meta name="keywords" content="........">
+
+    <meta name="description" content="BILTEC AG - Ihr verlässlicher Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und kreative Lösungen mit modernster Technologie, Wirtschaftlichkeit und Nachhaltigkeit.">
+    <meta name="keywords" content="CNC-Fertigung, Konstruktion, Messtechnik, Baugruppenmontage, Druckzubehör, kreative Lösungen, moderne Technologie, Wirtschaftlichkeit, Nachhaltigkeit, Verlässlichkeit, Flexibilität, Biltec">
+    <meta name="author" content="Biltec AG">
     <link rel="canonical" href="https://biltec.ch" />
-    
+
     <link rel="alternate" hreflang="de" href="https://www.biltec.ch/" />
     <link rel="alternate" hreflang="en" href="https://www.biltec.ch/en" />
 
+    <meta name="robots" content="index, follow" /> 
+    <meta http-equiv="cache-control" content="public, max-age=3600" />
+    <meta http-equiv="pragma" content="cache" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#2740fe">
+    <meta name="msapplication-TileColor" content="#151515">
+    <meta name="theme-color" content="#151515">
+
+    <meta property="og:title" content="Biltec AG | Ihre CNC-Profis">
+    <meta property="og:description" content="BILTEC AG - Ihr verlässlicher Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und kreative Lösungen mit modernster Technologie, Wirtschaftlichkeit und Nachhaltigkeit.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://biltec.ch">
+    <meta property="og:image" content="https://biltec.ch/img/og-image.jpg">
+    <meta property="og:locale" content="de_CH">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Biltec AG | Ihre CNC-Profis">
+    <meta name="twitter:description" content="BILTEC AG - Ihr verlässlicher Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und kreative Lösungen mit modernster Technologie, Wirtschaftlichkeit und Nachhaltigkeit.">
+    <meta name="twitter:image" content="https://biltec.ch/img/twitter-image.jpg">
+
+    <meta name="format-detection" content="telephone=yes">
+    <meta property="business:contact_data:street_address" content="Unterlettenstrasse 10">
+    <meta property="business:contact_data:locality" content="Widnau"> 
+    <meta property="business:contact_data:region" content="9443">
+    <meta property="business:contact_data:postal_code" content="9443">
+    <meta property="business:contact_data:country_name" content="Switzerland">
+    
     <link rel="stylesheet" href="main.css" />
 
-    <?php require_once 'head.php'; ?>
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Biltec AG Ihre CNC-Profis",
+        "description": "BILTEC AG - Ihr verlässlicher Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und kreative Lösungen mit modernster Technologie, Wirtschaftlichkeit und Nachhaltigkeit.",
+        "url": "https://biltec.ch",
+        "telephone": "+41717201787",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Unterlettenstrasse 10",
+            "addressLocality": "Widnau",
+            "postalCode": "9443",
+            "addressCountry": "Switzerland"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.413573600699436",
+            "longitude": "9.646431871008453"
+        },
+        "openingHours": "Mo-Fr 07:30-17:00",
+        "currenciesAccepted": "CHF",
+        "sameAs": [
+            "https://www.linkedin.com/in/dietmar-thoeny-63bb3482/"
+        ],
+        "founder": {
+            "@type": "Person",
+            "name": "Dietmar Thoeny"
+        }
+    }
+    </script>
 </head>
 
 <body>
@@ -61,7 +124,11 @@
             <div><h3><span class="counter" data-target="40">0</span>Tonnen Edelstahl</h3></div>
         </div>
         <div class="imgC fadein">
-            <img src="img/biltec-werkstoff.jpg" alt=".......">
+            <picture>
+                <source type="image/webp" srcset="img/biltec-cnc-profis-kubisch-werkstoffe-stahl-aluminium-edelstahl.webp" >
+                <source type="image/jpg" srcset="img/biltec-cnc-profis-kubisch-werkstoffe-stahl-aluminium-edelstahl.jpg" >
+                <img src="img/biltec-cnc-profis-kubisch-werkstoffe-stahl-aluminium-edelstahl.jpg" alt="biltec cnc profis kubischer werkstoffe aus stahl aluminium edelstahl" loading="lazy">
+            </picture>
         </div>
         <div class="description">
             <p>
@@ -125,12 +192,16 @@
     <section class="mainsubnav">
         <div class="subnav fadein">
             <div class="subnavimg">
-                <img src="img/biltec-werkstoff.jpg" alt=".......">
+                <picture>
+                    <source type="image/webp" srcset="img/biltec-cnc-profis-teaser-unternehmen.webp" >
+                    <source type="image/jpg" srcset="img/biltec-cnc-profis-teaser-unternehmen.jpg" >
+                    <img src="img/biltec-cnc-profis-teaser-unternehmen.jpg" alt="biltec cnc profis teaser unternehmen" loading="lazy">
+                </picture>
             </div>
             <div class="subnavcontent">
                 <h2 >Biltec AG - Ihr CNC-Profis</h2>
                 <p>
-                    Seit über zwanzig Jahren sind wir am Markt. Heute sind wir weit über die Schweiz hinaus bekannt als renom-mierter Anbieter von mechanischen Fertigungsteilen höchster Güteklasse.
+                    Seit über zwanzig Jahren sind wir am Markt. Heute sind wir weit über die Schweiz hinaus bekannt als renommierter Anbieter von mechanischen Fertigungsteilen höchster Güteklasse.
                 </p>
             </div>
             <button>
@@ -139,16 +210,20 @@
         </div>
         <div class="subnav fadein">
             <div class="subnavimg">
-                <img src="img/biltec-werkstoff.jpg" alt=".......">
+                <picture>
+                    <source type="image/webp" srcset="img/biltec-cnc-profis-teaser-prudukte.webp" >
+                    <source type="image/jpg" srcset="img/biltec-cnc-profis-teaser-prudukte.jpg" >
+                    <img src="img/biltec-cnc-profis-teaser-prudukte.jpg" alt="biltec cnc profis teaser produkte" loading="lazy">
+                </picture>
             </div>
             <div class="subnavcontent">
-                <h2 >Biltec AG - Ihr CNC-Profis</h2>
+                <h2>Wir haben Ihnen viel zu bieten</h2>
                 <p>
-                    Seit über zwanzig Jahren sind wir am Markt. Heute sind wir weit über die Schweiz hinaus bekannt als renom-mierter Anbieter von mechanischen Fertigungsteilen höchster Güteklasse.
+                    Wir setzen vor Ort auf eine Reihe von Horizontalmaschinen, mit denen wir Präzisionskomponenten aus praktisch allen wichtigen metallischen Werkstoffen herstellen. Von der Konstruktion/CAD/CAM bis zur Baugruppenmontage.
                 </p>
             </div>
             <button>
-                <a href="unternehmen">Unternehmen</a>
+                <a href="produkte">Produkte</a>
             </button>
         </div>
     </section>

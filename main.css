@@ -41,7 +41,7 @@
   --fontsemibold: 'AllianceNo2Semibold', Helvetica, Sans-Serif;
 
   --grid: 1240px;
-  --gridfull: 2000px
+  --gridfull: 2000px;
 
 }
 
@@ -62,7 +62,7 @@ h1, h2, h3, h4, p, a, li, button {
   font-family: var(--fontregular);
   font-weight: normal;
   font-size: var(--fonttext);
-  color: #ffffff;
+  color: white;
   letter-spacing: 0.5px;
   line-height: 1.4;
   text-decoration: none;
@@ -76,7 +76,7 @@ h1, h2, h3, h4, p, a, li, button {
 h1.big,
 h2.big {
   font-family: var(--fontmedium);
-  background: #ffffff;
+  background: white;
   background: linear-gradient(180deg, rgb(117, 124, 138) 10%, rgba(255,255,255,1) 25%, rgba(255,255,255,1) 60%, rgba(102,108,119,1) 70%, rgba(255,255,255,1) 80%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -138,6 +138,13 @@ a:hover {
   color: var(--lightblue);
 }
 
+a.textlink {
+  font-size:  var(--fonttitle);
+  padding-bottom: 2px;
+  border-bottom: 2px solid;
+;
+}
+
 button {
   background-color: var(--lightblue);
   border: none;
@@ -173,8 +180,6 @@ button.white a {
 }
 
 
-
-
 /*----------------------------------
   Header
 -----------------------------------*/
@@ -182,9 +187,9 @@ button.white a {
 nav {
   position: fixed;
   z-index: 10;
-  width: calc(100% - 60px);
-  margin: 0 30px;
-  padding: 30px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 30px 60px;
   top: 0;
   display: flex;
   justify-content: space-between;
@@ -263,10 +268,10 @@ nav {
 
 .mainwhite {
   background-color: white;
-  margin: 40px 30px 0px;
+  margin: 40px 0px;
   max-width: var(--gridfull);
-  padding: 40px 0 0;
-  border-radius: 20px 0 20px 0;
+  padding: 40px 60px 0;
+  border-radius: 0 0 20px 0;
 }
 
 .imgC {
@@ -313,6 +318,10 @@ nav {
   transform: translateY(100px);
   transition: transform 1s;
   will-change: transform;
+}
+
+.textlink {
+
 }
 
 
