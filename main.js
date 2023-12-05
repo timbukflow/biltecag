@@ -55,7 +55,6 @@ $( document ).ready(function() {
     $(window).on('scroll', checkFadeIn);
     checkFadeIn();
 
-
     /////////// Counter /////////////
     $(window).scroll(() => {
       $('.counter:not([data-counted="true"])').each(function() {
@@ -74,6 +73,16 @@ $( document ).ready(function() {
         }
       });
     }).trigger('scroll');
+
+     /////////// Product Button Img Rotation /////////////
+    $(".proC button").hover(
+      function() {
+        $(this).closest('.proC').find('picture').find('img').addClass('img-rotate');
+      }, 
+      function() {
+          $(this).closest('.proC').find('picture').find('img').removeClass('img-rotate');
+      }
+  );
       
 
 });

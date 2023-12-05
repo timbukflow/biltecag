@@ -11,7 +11,7 @@
         <ul class="nav-list">
             <li class="menu"><a href="produkte">Produkte</a>
                 <ul class="submenu">
-                    <li><a href="#">Rotative Lösungen</a></li>
+                    <li><a href="rotative-loesungen">Rotative Lösungen</a></li>
                     <li><a href="#">Kubische Lösungen</a></li>
                     <li><a href="#">Baugruppenmontage</a></li>
                 </ul>

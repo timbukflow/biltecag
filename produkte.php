@@ -60,7 +60,7 @@
     <main class="mainfull">
         <section class="imgC fadein">
             <picture>
-                 <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-praezisionsfertigung-metallischer-komponenten-schweiz.webp" >
+                <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-praezisionsfertigung-metallischer-komponenten-schweiz.webp" >
                 <source type="image/jpg" srcset="img/biltec-cnc-profis-produkte-praezisionsfertigung-metallischer-komponenten-schweiz.jpg" >
                 <img src="img/biltec-cnc-profis-produkte-praezisionsfertigung-metallischer-komponenten-schweiz.jpg" alt="Präzisionsfertigung kubischer und rotativer metallischer Komponenten in der Schweiz." loading="lazy">
             </picture>
@@ -69,8 +69,8 @@
         <section class="main pcadcont fadein">
             <picture>
                 <source type="image/webp" srcset="img/biltec-cnc-profis-konstruktion-cad-cam.webp" >
-                <source type="image/jpg" srcset="img/biltec-cnc-profis-konstruktion-cad-cam.jpg" >
-                <img src="img/biltec-cnc-profis-konstruktion-cad-cam.jpg" alt="Computer-Aided Design und Computer-Aided Manufacturing Konstruktion mit Top Solid" loading="lazy">
+                <source type="image/png" srcset="img/biltec-cnc-profis-konstruktion-cad-cam.png" >
+                <img src="img/biltec-cnc-profis-konstruktion-cad-cam.png" alt="Computer-Aided Design und Computer-Aided Manufacturing Konstruktion mit Top Solid" loading="lazy">
             </picture>
             <div>
                 <h2>Konstruktion/CAD/CAM</h2>
@@ -88,7 +88,7 @@
                         Mit Hilfe unseres Dreh- und Fräscenters sowie unseren CNC-Rundschleifmaschinen fertigen wir Bauteile von hoher Komplexität – und zwar in einem wirtschaftlich attraktiven Rahmen.
                     </p>
                     <button>
-                        <a href="produkte">Rotative Lösungen</a>
+                        <a href="rotative-loesungen">Rotative Lösungen</a>
                     </button>
                 </div>
                 <div class="prosubnavimg right">

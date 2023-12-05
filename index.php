@@ -90,14 +90,14 @@
         <article class="teaser">
             <div id="rotativ" class="animatC fadein">
                 <img id="rotativImg" src="./img/rotativ0.webp">
-                <p>Behandlung: induktionsgehärtet<br>chemisch vernickelt</p>
+                <p>Plattenzylinder - Druckindustrie<br>Abmasse: Ø200x630 <br> Material: Wälzlagerstahl</p>
             </div>
             <h2 class="big fadein">Rotativ</h2>
             <h3 class="headline fadein">
                 Mit Hilfe unseres Dreh- und Fräscenters sowie unseren CNC-Rundschleifmaschinen fertigen wir Bauteile von hoher Komplexität – und zwar in einem wirtschaftlich attraktiven Rahmen.
             </h3>
             <div class="teaserBtn fadein">
-                <button><a href="rotativeloesungen">Rotative Lösungen</a></button>
+                <button><a href="rotative-loesungen">Rotative Lösungen</a></button>
                 <button class="white"><a href="rotativeloesungen#druckzubehoer">Druckzubehör</a></button>
             </div>
         </article>
