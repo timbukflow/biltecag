@@ -74,7 +74,7 @@ $( document ).ready(function() {
       });
     }).trigger('scroll');
 
-     /////////// Product Button Img Rotation /////////////
+    /////////// Product Button Img Rotation /////////////
     $(".proC button").hover(
       function() {
         $(this).closest('.proC').find('picture').find('img').addClass('img-rotate');
@@ -82,7 +82,23 @@ $( document ).ready(function() {
       function() {
           $(this).closest('.proC').find('picture').find('img').removeClass('img-rotate');
       }
-  );
+    );
+
+    /////////// Bookmark Animation /////////////
+    $(".bookmark").click(function(e) {
+      var currentPage = window.location.pathname.split("/").pop();
+      var targetPage = $(this).attr('href').split("#")[0];
+      var targetId = $(this).data('target');
+
+      if (targetId && targetPage) {
+          if (currentPage === targetPage || targetPage === '') {
+              e.preventDefault();
+              $('html, body').animate({
+                  scrollTop: $(targetId).offset().top
+              }, 1000);
+          }
+      }
+    });
       
 
 });

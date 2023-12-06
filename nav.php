@@ -12,15 +12,15 @@
             <li class="menu"><a href="produkte">Produkte</a>
                 <ul class="submenu">
                     <li><a href="rotative-loesungen">Rotative Lösungen</a></li>
-                    <li><a href="#">Kubische Lösungen</a></li>
-                    <li><a href="#">Baugruppenmontage</a></li>
+                    <li><a href="kubische-loesungen">Kubische Lösungen</a></li>
+                    <li><a href="baugruppenmontage">Baugruppenmontage</a></li>
                 </ul>
             </li>
-            <li class="menu"><a href="produkte">Unternehmen</a>
+            <li class="menu"><a href="unternehmen">Unternehmen</a>
                 <ul class="submenu">
-                    <li><a href="#">Qualität first</a></li>
-                    <li><a href="#">Maschinenpark</a></li>
-                    <li><a href="#">Ansprechpersonen</a></li>
+                    <li><a href="unternehmen#qualitaet-first" class="bookmark" data-target="#qualitaet-first">Qualität first</a></li>
+                    <li><a href="unternehmen#maschinenpark" class="bookmark" data-target="#maschinenpark">Maschinenpark</a></li>
+                    <li><a href="unternehmen#ansprechpersonen" class="bookmark" data-target="#ansprechpersonen">Ansprechpersonen</a></li>
                 </ul>
             </li>
             <li class="konlang"><a href="preise">Kontakt</a></li>

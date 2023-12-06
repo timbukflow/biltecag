@@ -50,7 +50,7 @@
 </head>
 
 <body>
-    <header class="main">
+    <header class="main fadein">
         <h1 class="big">Rotative Lösungen</h1>
         <h2 class="headline">
             Mit Hilfe unseres Dreh- und Fräscenters sowie unseren CNC- Rundschleifmaschinen fertigen wir Bauteile von höchster Komplexität. Ausserdem sind wir Spezialisten, wenn es um die Fertigung von Druckzylindern sowie Schablonen- und Siebringe für den Flexo- und Offset- sowie den maschinellen Buchdruck geht.
@@ -76,23 +76,23 @@
             <picture>
                 <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-aussen.webp" >
                 <source type="image/jpg" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-aussen.jpg" >
-                <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer.jpg" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-aussen" loading="lazy">
+                <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-aussen.jpg" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-aussen" loading="lazy">
             </picture>
             <div class="imgC50">
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-innenraum.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-innenraum.jpg" >
-                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer.jpg" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-innenraum" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-innenraum.jpg" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-innenraum" loading="lazy">
                 </picture>
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-teil.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-teil.jpg" >
-                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-teil.jpg" alt="bbiltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-teil" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-teil.jpg" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-teil" loading="lazy">
                 </picture>
             </div>
         </section>
 
-        <section class="main spacer">
+        <section class="main spacer" id="druckzubehoer">
             <div class="subtitle  fadein">
                 <h2 class="white">Druckzubehör</h2>
             </div>
@@ -226,11 +226,11 @@
                 </picture>
                 <h3>Pumpengehäuse</h3>
                 <p>
-                    Halbleiterindustrie<br>
-                    Abmasse: Ø400x80<br>
-                    Material: Aluminium<br>
+                    Fluid Industrie<br>
+                    Abmasse: Ø250x500<br>
+                    Material: Chromstahl<br>
                 </p>
-                <a href="mailto:miodrag.kostic@biltec.ch?subject=Anfrage%20Pumpengehäuse">
+                <a href="mailto:marcel.grueninger(at)biltec.ch?subject=Anfrage%20Pumpengehäuse">
                     <button>Anfrage & Bestellung</button> 
                 </a>
             </div>
@@ -256,7 +256,7 @@
                 <a href="unternehmen">Unternehmen</a>
             </button>
         </div>
-        <!-- Kontakt -->
+        <!-- Kontakt - Miodrag Kostic< -->
         <div class="subnav subcontact fadein">
             <div class="subnavimg">
                 <picture>
@@ -268,7 +268,7 @@
             <div class="subnavcontent">
                 <h2>Miodrag Kostic</h2>
                 <p>
-                    Fachverantwortlicher rotativ <br>
+                    Fachverantwortlicher rotativ <br><br>
                     <a href="tel:+41717201787">Telefon +41 71 720 17 87</a><br>
                     <a href="mailto:miodrag.kostic@biltec.ch">miodrag.kostic(at)biltec.ch</a><br>
                     <a href="https://www.linkedin.com/in/.............../">Linkedin</a><br>

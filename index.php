@@ -81,7 +81,7 @@
 </head>
 
 <body>
-    <header class="main">
+    <header class="main fadein">
         <h1 class="big">Ihre CNC-<br>Profis</h1>
         <h2 class="headline">
             Die <strong>BILTEC AG</strong> ist Ihr vielseitiger Partner, wenn es um CNC-Fertigung, Konstruktion, Messtechnik und Montage von Baugruppen geht. Wir sind nicht nur Spezialisten für Druckzubehör, sondern übernehmen auch gerne Aufträge, bei denen kreative Ideen und technisches Know-how gefragt sind.
@@ -98,7 +98,7 @@
             </h3>
             <div class="teaserBtn fadein">
                 <button><a href="rotative-loesungen">Rotative Lösungen</a></button>
-                <button class="white"><a href="rotativeloesungen#druckzubehoer">Druckzubehör</a></button>
+                <button class="white"><a href="rotative-loesungen#druckzubehoer">Druckzubehör</a></button>
             </div>
         </article>
 
@@ -112,7 +112,7 @@
                 Dank unseren 4- und 5-Achs-Fräszentren fertigen wir sämtliche gewünschten Bauteile in der zugesicherten Qualität – eine für Sie auch wirtschaftlich höchst attraktive Lösung.
             </h3>
             <div class="teaserBtn fadein">
-                <button><a href="rotativeloesungen">Kubische Lösungen</a></button>
+                <button><a href="kubische-loesungen">Kubische Lösungen</a></button>
             </div>
         </article>
     </header>
@@ -138,7 +138,7 @@
     </div>
 
     <main class="mainwhite">
-        <div class="subtitle">
+        <div class="subtitle fadein">
             <h2>Was Sie alles von uns haben</h2>
         </div>
         <div class="gridC fadein">

@@ -50,7 +50,7 @@
 </head>
 
 <body>
-    <header class="main">
+    <header class="main fadein">
         <h1 class="big">Produkte</h1>
         <h2 class="headline">
                 Wir sind in der Schweiz zuhause und setzen vor Ort auf eine Reihe von Horizontalmaschinen, mit denen wir Präzisionskomponenten aus praktisch allen wichtigen metallischen Werkstoffen herstellen. Um die hohe Qualität unserer Erzeugnisse sicherzustellen, nutzen wir einen modernen <a class="textlink" href="unternehmen#maschinenpark">Maschinenpark</a>.
@@ -113,7 +113,7 @@
                         Dank unseren 4- und 5-Achs-Fräszentren fertigen wir sämtliche gewünschten Bauteile in der zugesicherten Qualität – eine für Sie auch wirtschaftlich höchst attraktive Lösung.
                     </p>
                     <button class="right">
-                        <a href="produkte">Kubische Lösungen</a>
+                        <a href="kubische-loesungen">Kubische Lösungen</a>
                     </button>
                 </div>
             </div>
@@ -124,7 +124,7 @@
                         Indem Sie uns mit einer kompletten Baugruppenmontage beauftragen, sparen Sie Zeit und Geld, sodass sich Ihre Effizienz erhöht und Ihr Unternehmen wirtschaftlicher arbeitet.
                     </p>
                     <button>
-                        <a href="produkte">Baugruppenmontage</a>
+                        <a href="baugruppenmontage">Baugruppenmontage</a>
                     </button>
                 </div>
                 <div class="prosubnavimg right">
