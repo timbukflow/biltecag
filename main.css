@@ -41,8 +41,8 @@
   --fontmedium: 'AllianceNo2Medium', Helvetica, Sans-Serif;
   --fontsemibold: 'AllianceNo2Semibold', Helvetica, Sans-Serif;
 
-  --grid: 1240px;
-  --gridfull: 2000px;
+  --grid: 1600px;
+  --gridfull: 1800px;
 
 }
 
@@ -478,12 +478,15 @@ img {
   padding-bottom: 70px;
 }
 .proC {
+  display: flex;
   margin-bottom: 60px;
   width: 100%;
   padding-top: 30px;
   overflow: hidden;
   background-color: var(--lightgrey);
   border-radius: 20px 0 20px 0;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .proC h3,
@@ -546,6 +549,7 @@ img {
   display: flex;
   overflow: hidden;
   border-radius: 20px 0 0 0;
+  width: 100%;
   height: 300px;
   flex-direction: column;
   justify-content: center;
