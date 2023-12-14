@@ -207,10 +207,11 @@ nav {
   z-index: 10;
   width: 100%;
   margin: 0 auto;
-  padding: 30px 60px;
+  padding: 20px 60px;
   top: 0;
   display: flex;
   justify-content: space-between;
+  align-items: flex-start;
   border-bottom: solid 1px #ffffff;
   background-color: var(--darkblue);
   transition: top 0.5s ease-in-out;
@@ -218,19 +219,28 @@ nav {
 
 .logoC{
   display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.logoC img{
+  width: 45px;
 }
 
 .logo {
   display: inline-block;
-  font-size: var(--fonttext);
+  padding-bottom: 5px;
+  font-family: var(--fontsemibold);
+  font-size: var(--fonttitle);
   color: var(--fontwhite);
+  text-transform: uppercase;
   font-weight: 400;
   margin: 0;
-  padding-left: 10px;
-  vertical-align: super;
   line-height: 1.5rem;
+  letter-spacing: 1.5px;
 }
-
+.navbar {
+  padding-top: 10px;
+}
 .nav-list {
   margin: 0;
   display: flex;
@@ -553,6 +563,26 @@ img {
   margin: 10px 0;
 }
 
+/*----------------------------------
+  Kontakt
+-----------------------------------*/
+
+.contact {
+  display: flex;
+  gap: 30px;
+  max-width: var(--grid);
+  margin: 0 auto 60px;
+}
+.contact div {
+  flex-basis: 100%;
+}
+
+.contact h2 {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid white;
+}
+
 
 /*----------------------------------
   Footer Subnav
@@ -575,6 +605,15 @@ img {
   flex-basis: 100%;
   border-radius: 20px 0 20px 0;
   align-items: flex-start;
+}
+
+.subtext {
+  display: flex;
+  align-items: flex-end;
+  padding-right: 60px;
+}
+.subtext p {
+  color: white;
 }
 
 .subcontact {
@@ -621,6 +660,11 @@ img {
   flex-basis: 100%;
 }
 
+.footerfirst {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 .totop {
   font-size: var(--fonttitle);
 }
@@ -658,7 +702,13 @@ footer ul {
   margin-bottom: 150px;
 }
 .datenschutz h3 {
-  margin: 40px 0 0;
+  margin: 60px 0 0;
+  padding-bottom: 20px;
+  border-bottom: 1px solid white;
+  width: 50%;
+}
+.datenschutz p {
+  width: 50%;
 }
 .datenschutz li {
   padding: 10px 0;

@@ -233,27 +233,63 @@
         </div>
     </div>
 
+    <!-- Ansprechpersonen -->
+    <div class="main fadein" id="ansprechpersonen">
+        <h1 class="big">Wir sind gerne für Sie da</h1>
+        <h2 class="headline">
+            Ihre Idee steht für uns immer am Anfang. Um sie zu einem fixfertigen Produkt zu entwickeln und dieses dann auch in grosser Stückzahl herstellen zu können, bringen wir neben modernster Technologie unsere ganze Erfahrung ein.
+            <br><br>
+            Wir? Das ist ein Team aus kompetenten, engagierten und leidenschaftlichen CNC-Profis. Sie alle arbeiten Hand in Hand, damit sich Ihre Idee von A bis Z perfekt realisiert. Das gibt Ihnen die nötige Planungssicherheit und gleichzeitig einen maximalen Einblick in den gesamten Produktionsprozess.
+        </h2>
+    </div>
 
     <div class="mainsubnav">
-        <div class="subnav fadein">
+        <!-- Kontakt - Intro -->
+        <div class="subtext subcontact fadein">
+            <p>
+                Sie haben Fragen zu unseren Leistungen oder möchten von der hohen Qualität unserer Produkte und Lösungen profitieren? Dann melden Sie sich bei uns – wir freuen uns!
+            </p>
+        </div>
+        <!-- Kontakt - Dietmar Thöny -->
+        <div class="subnav subcontact fadein">
             <div class="subnavimg">
                 <picture>
-                    <source type="image/webp" srcset="img/biltec-cnc-profis-teaser-unternehmen.webp" >
-                    <source type="image/jpg" srcset="img/biltec-cnc-profis-teaser-unternehmen.jpg" >
-                    <img src="img/biltec-cnc-profis-teaser-unternehmen.jpg" alt="biltec cnc profis teaser unternehmen" loading="lazy">
+                    <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-dietmar-thoeny.webp" >
+                    <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-dietmar-thoeny.jpg" >
+                    <img src="img/biltec-cnc-profis-ansprechperson-dietmar-thoeny.jpg" alt="biltec-cnc-profis-ansprechperson-dietmar-thoeny" loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
-                <h2 >Biltec AG - Ihr CNC-Profis</h2>
+                <h2>Dietmar Thöny</h2>
                 <p>
-                    Seit über zwanzig Jahren sind wir am Markt. Heute sind wir weit über die Schweiz hinaus bekannt als renommierter Anbieter von mechanischen Fertigungsteilen höchster Güteklasse.
+                    CEO<br><br>
+                    <a href="tel:+41717201787">Telefon +41 71 720 17 87</a><br>
+                    <a href="mailto:dietmar.thoeny@biltec.ch">dietmar.thoeny(at)biltec.ch</a><br>
+                    <a href="https://www.linkedin.com/in/dietmar-thoeny-63bb3482/">Linkedin</a><br>
                 </p>
             </div>
-            <button>
-                <a href="unternehmen">Unternehmen</a>
-            </button>
         </div>
-        <!-- Kontakt - Miodrag Kostic< -->
+        <!-- Kontakt - Werner Fäh -->
+        <div class="subnav subcontact fadein">
+            <div class="subnavimg">
+                <picture>
+                    <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-werner-faeh.webp" >
+                    <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-werner-faeh.jpg" >
+                    <img src="img/biltec-cnc-profis-ansprechperson-werner-faeh.jpg" alt="biltec-cnc-profis-ansprechperson-werner-faeh" loading="lazy">
+                </picture>
+            </div>
+            <div class="subnavcontent">
+                <h2>Werner Fäh</h2>
+                <p>
+                    Prozess und Qualität <br><br>
+                    <a href="tel:+41717201787">Telefon +41 71 720 17 87</a><br>
+                    <a href="mailto:werner.faeh@biltec.ch">werner.faeh(at)biltec.ch</a><br>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="mainsubnav">
+        <!-- Kontakt - Miodrag Kostic -->
         <div class="subnav subcontact fadein">
             <div class="subnavimg">
                 <picture>
@@ -269,6 +305,43 @@
                     <a href="tel:+41717201787">Telefon +41 71 720 17 87</a><br>
                     <a href="mailto:miodrag.kostic@biltec.ch">miodrag.kostic(at)biltec.ch</a><br>
                     <a href="https://www.linkedin.com/in/.............../">Linkedin</a><br>
+                </p>
+            </div>
+        </div>
+        <!-- Kontakt - Marcel Grüninger -->
+        <div class="subnav subcontact fadein">
+            <div class="subnavimg">
+                <picture>
+                    <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-marcel-grueninger.webp" >
+                    <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-marcel-grueninger.jpg" >
+                    <img src="img/biltec-cnc-profis-ansprechperson-marcel-grueninger.jpg" alt="biltec-cnc-profis-ansprechperson-marcel-grueninger" loading="lazy">
+                </picture>
+            </div>
+            <div class="subnavcontent">
+                <h2>Marcel Grüninger</h2>
+                <p>
+                    Fachverantwortlicher kubisch<br>
+                    Qualitätssicherung<br><br>
+                    <a href="tel:+41717201787">Telefon +41 71 720 17 87</a><br>
+                    <a href="mailto:marcel.grueninger@biltec.ch">marcel.grueninger(at)biltec.ch</a><br>
+                </p>
+            </div>
+        </div>
+        <!-- Kontakt - Sandy Oehler -->
+        <div class="subnav subcontact fadein">
+            <div class="subnavimg">
+                <picture>
+                    <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-sandy-oehler.webp" >
+                    <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-sandy-oehler.jpg" >
+                    <img src="img/biltec-cnc-profis-ansprechperson-sandy-oehler.jpg" alt="biltec-cnc-profis-ansprechperson-sandy-oehler" loading="lazy">
+                </picture>
+            </div>
+            <div class="subnavcontent">
+                <h2>Sandy Oehler</h2>
+                <p>
+                    Administration <br><br>
+                    <a href="tel:+41717201787">Telefon +41 71 720 17 87</a><br>
+                    <a href="mailto:sandy.oehler@biltec.ch">sandy.oehler(at)biltec.ch</a><br>
                 </p>
             </div>
         </div>

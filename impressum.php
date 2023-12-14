@@ -8,23 +8,20 @@
     <meta name="author" content="Biltec AG ">
     <meta name="robots" content="noindex"> 
 
-    <!-- Favicon einfügen -->
+    <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+    <link rel="icon" type="image/png" href="/assets/images/favicon.png">
 
     <link rel="stylesheet" href="main.css" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
-
 </head>
 
 <body>
-    <section class="datenschutz">
-        <h1>Impressum</h1>
+    <section class="datenschutz main">
+        <h1 class="big">Impressum</h1>
         <h3 class="">Verantwortlich für den Inhalt:</h3>
         <p>
             Biltec AG <br>
             Unterlettenstrasse 10<br>
-            9443 Widnau<br><br>
+            CH-9443 Widnau<br><br>
             Telefon +41 71 720 17 87<br>
             info@biltec.ch<br>
             <a href="https://biltec.ch">www.biltec.ch</a>
@@ -35,11 +32,17 @@
             Das Copyright für sämtliche Inhalte dieser Website liegt bei Biltec AG, 9443 Widnau.
         </p>
 
-        <h3 class="">Konzept und Technische Umsetzung</h3>
+        <h3 class="">Webdesign und Code</h3>
         <p>Schwizer Design GmbH<br>
         Gallusstrasse 43<br>
         CH-9000 St. Gallen<br>
         <a href="https://schwizerdesign.ch">schwizerdesign.ch</a></p>
+
+        <h3>Fotografie</h3>
+        <p>Anna-Tina Eberhard<br>
+        Davidstrasse 42<br>
+        CH-9000 St. Gallen<br>
+        <a href="https://at-eberhard.ch/" target="_blank">at-eberhard.ch</a></p>
 
         <h3 class="">Haftungshinweis</h3>
         <p>Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschliesslich deren Betreiber verantwortlich.</p>

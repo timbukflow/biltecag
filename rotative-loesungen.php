@@ -271,7 +271,6 @@
                     Fachverantwortlicher rotativ <br><br>
                     <a href="tel:+41717201787">Telefon +41 71 720 17 87</a><br>
                     <a href="mailto:miodrag.kostic@biltec.ch">miodrag.kostic(at)biltec.ch</a><br>
-                    <a href="https://www.linkedin.com/in/.............../">Linkedin</a><br>
                 </p>
             </div>
         </div>

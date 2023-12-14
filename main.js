@@ -94,7 +94,7 @@ $( document ).ready(function() {
           if (currentPage === targetPage || targetPage === '') {
               e.preventDefault();
               $('html, body').animate({
-                  scrollTop: $(targetId).offset().top
+                  scrollTop: $(targetId).offset().top - 200
               }, 1000);
           }
       }

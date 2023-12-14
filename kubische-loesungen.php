@@ -226,7 +226,6 @@
                     Qualitätssicherung<br><br>
                     <a href="tel:+41717201787">Telefon +41 71 720 17 87</a><br>
                     <a href="mailto:marcel.grueninger@biltec.ch">marcel.grueninger(at)biltec.ch</a><br>
-                    <a href="https://www.linkedin.com/in/.............../">Linkedin</a><br>
                 </p>
             </div>
         </div>

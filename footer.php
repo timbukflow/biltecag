@@ -1,7 +1,8 @@
 <footer>
     <div class="footercont fadein">
-        <div>
+        <div class="footerfirst">
             <a class="totop" href="index">BILTEC AG <br> Ihre CNC-Profis</a>
+            <a href="download/biltec-ag-sqs-zertifikat.pdf" target="_blank"> Wir sind SQS-zertifiziert.</a>
         </div>
         <div class="footernav">
             <ul>

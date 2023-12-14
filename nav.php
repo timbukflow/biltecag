@@ -1,5 +1,6 @@
 <nav>
     <a href="index" class="logoC">
+        <img src="img/biltec-cnc-profis-logo.svg" alt="">
         <h1 class="logo">Biltec AG</h1>
     </a>
     <div class="navbar">
@@ -23,7 +24,7 @@
                     <li><a href="unternehmen#ansprechpersonen" class="bookmark" data-target="#ansprechpersonen">Ansprechpersonen</a></li>
                 </ul>
             </li>
-            <li class="konlang"><a href="preise">Kontakt</a></li>
+            <li class="konlang"><a href="kontakt">Kontakt</a></li>
             <li class="konlang"><a href="index">DE</a>  |  <a class="passiv" href="en/">EN</a></li>
         </ul>
     </div>
