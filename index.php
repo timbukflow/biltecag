@@ -22,9 +22,9 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#2740fe">
-    <meta name="msapplication-TileColor" content="#151515">
-    <meta name="theme-color" content="#151515">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#4690ff">
+    <meta name="msapplication-TileColor" content="#002155">
+    <meta name="theme-color" content="#ffffff">
 
     <meta property="og:title" content="Biltec AG | Ihre CNC-Profis">
     <meta property="og:description" content="BILTEC AG - Ihr verlässlicher Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und kreative Lösungen mit modernster Technologie, Wirtschaftlichkeit und Nachhaltigkeit.">
