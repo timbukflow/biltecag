@@ -60,6 +60,7 @@
             "@type": "PostalAddress",
             "streetAddress": "Unterlettenstrasse 10",
             "addressLocality": "Widnau",
+            "addressRegion": "SG",
             "postalCode": "9443",
             "addressCountry": "CH"
         },
