@@ -70,7 +70,7 @@
                 "postalCode": "9443",
                 "addressCountry": "CH"
             }
-        },
+        }
     }
     </script>
 </head>

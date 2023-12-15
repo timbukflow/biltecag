@@ -52,7 +52,7 @@
     {
         "@context": "http://schema.org",
         "@type": "Service",
-        "serviceType": "CAD / CAM-Konstruktion, rotative und kubische CNC-Fertigung, Baugruppenmontage ",
+        "serviceType": "CAD / CAM-Konstruktion, rotative und kubische CNC-Fertigung, Baugruppenmontage",
         "provider": {
             "@type": "Organization",
             "name": "Biltec AG",
@@ -70,9 +70,10 @@
                 "postalCode": "9443",
                 "addressCountry": "CH"
             }
-        },
+        }
     }
     </script>
+
 
 </head>
 
