@@ -23,9 +23,9 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#2740fe">
-    <meta name="msapplication-TileColor" content="#151515">
-    <meta name="theme-color" content="#151515">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#4690ff">
+    <meta name="msapplication-TileColor" content="#002155">
+    <meta name="theme-color" content="#ffffff">
 
     <meta property="og:title" content="Biltec AG | Kontakt">
     <meta property="og:description" content="Sie brauchen dringend ein ganz bestimmtes Teil? Oder haben erst eine Idee im Kopf? Vielleicht möchten Sie aber auch nur wissen, wie es gerade um unsere Auslastung steht? Oder Sie haben schon eine ganz konkrete Offert- oder Projektanfrage in petto? Wie auch immer – kommen Sie ungeniert auf uns zu – gerne auch bequem online.">
@@ -47,6 +47,39 @@
     <meta property="business:contact_data:country_name" content="Switzerland">
     
     <link rel="stylesheet" href="main.css" />
+
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Biltec AG",
+        "description": "BILTEC AG - Ihr verlässlicher Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und kreative Lösungen mit modernster Technologie, Wirtschaftlichkeit und Nachhaltigkeit.",
+        "url": "https://biltec.ch/kontakt",
+        "telephone": "+41717201787",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Unterlettenstrasse 10",
+            "addressLocality": "Widnau",
+            "postalCode": "9443",
+            "addressCountry": "CH"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.413573600699436",
+            "longitude": "9.646431871008453"
+        },
+        "openingHours": "Mo-Fr 07:30-16:30",
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "contactType": "Kundenservice",
+                "telephone": "+41717201787",
+                "email": "info@biltec.ch"
+            }
+        ]
+    }
+    </script>
+
 </head>
 
 <body>

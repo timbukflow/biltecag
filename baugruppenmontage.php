@@ -23,9 +23,9 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#2740fe">
-    <meta name="msapplication-TileColor" content="#151515">
-    <meta name="theme-color" content="#151515">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#4690ff">
+    <meta name="msapplication-TileColor" content="#002155">
+    <meta name="theme-color" content="#ffffff">
 
     <meta property="og:title" content="Biltec AG | Baugruppenmontage">
     <meta property="og:description" content="Steigern Sie Effizienz und Wirtschaftlichkeit Ihres Unternehmens mit unserer Baugruppenmontage. Profitieren Sie von unserem Alles-aus-einer-Hand-Ansatz, der Kosten und administrativen Aufwand reduziert, während wir komplexe Aufträge termingerecht und in höchster Qualität umsetzen.">
@@ -47,6 +47,32 @@
     <meta property="business:contact_data:country_name" content="Switzerland">
     
     <link rel="stylesheet" href="main.css" />
+
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Service",
+        "serviceType": "Baugruppenmontage",
+        "provider": {
+            "@type": "Organization",
+            "name": "Biltec AG",
+            "description": "Steigern Sie Effizienz und Wirtschaftlichkeit Ihres Unternehmens mit unserer Baugruppenmontage. Profitieren Sie von unserem Alles-aus-einer-Hand-Ansatz, der Kosten und administrativen Aufwand reduziert, während wir komplexe Aufträge termingerecht und in höchster Qualität umsetzen.",
+            "url": "https://biltec.ch/baugruppenmontage",
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+41717201787",
+                "contactType": "Kundenservice"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Unterlettenstrasse 10",
+                "addressLocality": "Widnau",
+                "postalCode": "9443",
+                "addressCountry": "CH"
+            }
+        },
+    }
+    </script>
 </head>
 
 <body>

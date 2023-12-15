@@ -1,0 +1,25 @@
+{
+    "name": "Biltec AG | Ihre CNC-Profis",
+    "short_name": "Biltec AG",
+    "description": "BILTEC AG - CNC-Fertigungsexperten. Wir bieten umfassende Lösungen in den Bereichen Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und innovative, wirtschaftliche und nachhaltige Technologien.",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "browser",
+    "background_color": "#002155",
+    "theme_color": "#002155",
+    "orientation": "any",
+    "scope": "/",
+    "lang": "de-CH",
+    "dir": "ltr"
+}

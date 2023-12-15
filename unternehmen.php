@@ -23,9 +23,9 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#2740fe">
-    <meta name="msapplication-TileColor" content="#151515">
-    <meta name="theme-color" content="#151515">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#4690ff">
+    <meta name="msapplication-TileColor" content="#002155">
+    <meta name="theme-color" content="#ffffff">
 
     <meta property="og:title" content="Biltec AG | Unternehmen">
     <meta property="og:description" content="Entdecken Sie hochwertige CNC-Fertigungslösungen von Biltec AG. Wir bieten präzise Entwicklung, Produktion und Montage mechanischer Teile. Unser Engagement für Qualität, das Null-Fehler-Prinzip und kundenspezifische Lösungen garantiert eine effektive Wertschöpfung für Unternehmen jeder Größe, sowohl in der Schweiz als auch international.">
@@ -47,6 +47,34 @@
     <meta property="business:contact_data:country_name" content="Switzerland">
     
     <link rel="stylesheet" href="main.css" />
+
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Biltec AG Unternehmen",
+        "url": "https://biltec.ch/unternehmen",
+        "contactPoint": [{
+            "@type": "ContactPoint",
+            "telephone": "+41717201787",
+            "contactType": "Kundenservice",
+            "email": "info@biltec.ch"
+        }],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Unterlettenstrasse 10",
+            "addressLocality": "Widnau",
+            "postalCode": "9443",
+            "addressCountry": "CH"
+        },
+        "sameAs": [
+            "https://www.linkedin.com/in/dietmar-thoeny-63bb3482/",
+            "https://www.linkedin.com/in/miodrag-kostic-b417332a3/",
+        ],
+        "founder": "Dietmar Thöny",
+        "foundingDate": "2002",
+    }
+    </script>
 </head>
 
 <body>

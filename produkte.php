@@ -23,9 +23,9 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#2740fe">
-    <meta name="msapplication-TileColor" content="#151515">
-    <meta name="theme-color" content="#151515">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#4690ff">
+    <meta name="msapplication-TileColor" content="#002155">
+    <meta name="theme-color" content="#ffffff">
 
     <meta property="og:title" content="Biltec AG | Produkte">
     <meta property="og:description" content="Entdecken Sie unsere hochwertigen Produkte bei Biltec AG. Wir bieten Präzisionskomponenten aus einer Vielzahl metallischer Werkstoffe, maßgefertigte Lösungen, CAD / CAM-Konstruktion, rotative und kubische Fertigung sowie effiziente Baugruppenmontage.">
@@ -47,6 +47,33 @@
     <meta property="business:contact_data:country_name" content="Switzerland">
     
     <link rel="stylesheet" href="main.css" />
+
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Service",
+        "serviceType": "CAD / CAM-Konstruktion, rotative und kubische CNC-Fertigung, Baugruppenmontage ",
+        "provider": {
+            "@type": "Organization",
+            "name": "Biltec AG",
+            "description": "Entdecken Sie unsere hochwertigen Produkte bei Biltec AG. Wir bieten Präzisionskomponenten aus einer Vielzahl metallischer Werkstoffe, maßgefertigte Lösungen, CAD / CAM-Konstruktion, rotative und kubische Fertigung sowie effiziente Baugruppenmontage.",
+            "url": "https://biltec.ch/produkte",
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+41717201787",
+                "contactType": "Kundenservice"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Unterlettenstrasse 10",
+                "addressLocality": "Widnau",
+                "postalCode": "9443",
+                "addressCountry": "CH"
+            }
+        },
+    }
+    </script>
+
 </head>
 
 <body>

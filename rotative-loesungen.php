@@ -23,9 +23,9 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#2740fe">
-    <meta name="msapplication-TileColor" content="#151515">
-    <meta name="theme-color" content="#151515">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#4690ff">
+    <meta name="msapplication-TileColor" content="#002155">
+    <meta name="theme-color" content="#ffffff">
 
     <meta property="og:title" content="Biltec AG | Rotative Lösungen | Druckzubehör">
     <meta property="og:description" content="Experte für rotative Lösungen und Druckzubehör in der CNC-Fertigung. Spezialisiert auf die präzise Produktion von Druckzylindern und Siebringen für Flexo-, Offset- und Buchdrucktechnik.">
@@ -47,6 +47,33 @@
     <meta property="business:contact_data:country_name" content="Switzerland">
     
     <link rel="stylesheet" href="main.css" />
+
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Service",
+        "serviceType": "Rotative Lösungen, Druckzubehör",
+        "provider": {
+            "@type": "Organization",
+            "name": "Biltec AG",
+            "description": "Experte für rotative Lösungen und Druckzubehör in der CNC-Fertigung. Spezialisiert auf die präzise Produktion von Druckzylindern und Siebringen für Flexo-, Offset- und Buchdrucktechnik.",
+            "url": "https://biltec.ch/rotative-loesungen",
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+41717201787",
+                "contactType": "Kundenservice"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Unterlettenstrasse 10",
+                "addressLocality": "Widnau",
+                "postalCode": "9443",
+                "addressCountry": "CH"
+            }
+        },
+    }
+    </script>
+    
 </head>
 
 <body>

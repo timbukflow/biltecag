@@ -51,33 +51,28 @@
     {
         "@context": "http://schema.org",
         "@type": "Organization",
-        "name": "Biltec AG Ihre CNC-Profis",
-        "description": "BILTEC AG - Ihr verlässlicher Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und kreative Lösungen mit modernster Technologie, Wirtschaftlichkeit und Nachhaltigkeit.",
+        "name": "Biltec AG",
+        "description": "BILTEC AG - Ihr Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage.",
         "url": "https://biltec.ch",
-        "telephone": "+41717201787",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+41717201787",
+            "contactType": "Kundenservice"
+        },
         "address": {
             "@type": "PostalAddress",
             "streetAddress": "Unterlettenstrasse 10",
             "addressLocality": "Widnau",
             "postalCode": "9443",
-            "addressCountry": "Switzerland"
+            "addressCountry": "CH"
         },
-        "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "47.413573600699436",
-            "longitude": "9.646431871008453"
-        },
-        "openingHours": "Mo-Fr 07:30-17:00",
-        "currenciesAccepted": "CHF",
         "sameAs": [
-            "https://www.linkedin.com/in/dietmar-thoeny-63bb3482/"
-        ],
-        "founder": {
-            "@type": "Person",
-            "name": "Dietmar Thoeny"
-        }
+            "https://www.linkedin.com/in/dietmar-thoeny-63bb3482/",
+            "https://www.linkedin.com/in/miodrag-kostic-b417332a3/"
+        ]
     }
     </script>
+
 </head>
 
 <body>
