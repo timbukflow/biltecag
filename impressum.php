@@ -6,7 +6,11 @@
     <title>Biltec AG  | Impressum</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Biltec AG ">
-    <meta name="robots" content="noindex"> 
+    <meta name="robots" content="noindex">
+    
+    <link rel="alternate" hreflang="de" href="https://www.biltec.ch/impressum" />
+    <link rel="alternate" hreflang="en" href="https://www.biltec.ch/en/legal-notice" />
+
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">

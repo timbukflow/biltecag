@@ -85,7 +85,7 @@
 
         <article class="teaser">
             <div id="rotativ" class="animatC fadein">
-                <img id="rotativImg" src="./img/rotativ0.webp">
+                <img id="rotativImg" src="img/rotativ0.webp" alt="Plattenzylinder für die Druckindustrie, gefertigt durch Biltec CNC-Fertigung. Abmessungen: Durchmesser 200mm x Länge 630mm, aus Wälzlagerstahl. Teil der rotativen Lösungen.">
                 <p>Plattenzylinder - Druckindustrie<br>Abmasse: Ø200x630 <br> Material: Wälzlagerstahl</p>
             </div>
             <h2 class="big fadein">Rotativ</h2>
@@ -100,7 +100,7 @@
 
         <article class="teaser">
             <div id="kubisch" class="animatC fadein">
-                <img id="kubischImg" src="./img/kubisch0.webp">
+                <img id="kubischImg" src="img/kubisch0.webp" alt="Dualadapter für die Optikindustrie, hergestellt durch Biltecs kubische CNC-Fertigung. Gefertigt aus hochfestem Aluminium. Spezialisiertes Bauteil für präzise Anwendungen.">
                 <p>Behandlung: induktionsgehärtet<br>chemisch vernickelt</p>
             </div>
             <h2 class="big fadein">Kubisch</h2>
@@ -123,7 +123,7 @@
             <picture>
                 <source type="image/webp" srcset="img/biltec-cnc-profis-kubisch-werkstoffe-stahl-aluminium-edelstahl.webp" >
                 <source type="image/jpg" srcset="img/biltec-cnc-profis-kubisch-werkstoffe-stahl-aluminium-edelstahl.jpg" >
-                <img src="img/biltec-cnc-profis-kubisch-werkstoffe-stahl-aluminium-edelstahl.jpg" alt="biltec cnc profis kubischer werkstoffe aus stahl aluminium edelstahl" loading="lazy">
+                <img src="img/biltec-cnc-profis-kubisch-werkstoffe-stahl-aluminium-edelstahl.jpg" alt="Verschiedene Werkstoffe für kubische CNC-Fertigung bei Biltec: Stahl, Aluminium und Edelstahl. Die Materialien symbolisieren die Vielseitigkeit und Qualität der Bearbeitungsmöglichkeiten." loading="lazy">
             </picture>
         </div>
         <div class="description">
@@ -191,7 +191,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-teaser-unternehmen.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-teaser-unternehmen.jpg" >
-                    <img src="img/biltec-cnc-profis-teaser-unternehmen.jpg" alt="biltec cnc profis teaser unternehmen" loading="lazy">
+                    <img src="img/biltec-cnc-profis-teaser-unternehmen.jpg" alt="CNC-Fertigungsanlage mit einer Auswahl verschiedener Bohrköpfe für rotative und kubische Bearbeitungsverfahren." loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
@@ -209,7 +209,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-teaser-prudukte.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-teaser-prudukte.jpg" >
-                    <img src="img/biltec-cnc-profis-teaser-prudukte.jpg" alt="biltec cnc profis teaser produkte" loading="lazy">
+                    <img src="img/biltec-cnc-profis-teaser-prudukte.jpg" alt="Innenansicht einer CNC-Maschine bei Biltec, spezialisiert auf rotative Fertigungen. Detailaufnahme zeigt Präzisionswerkzeuge und -komponenten in Aktion, verdeutlicht die technologische Expertise und Fertigungskompetenz im Bereich der rotativen CNC-Bearbeitung." loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
@@ -223,9 +223,6 @@
             </button>
         </div>
     </div>
-
-        
-       
 
     <?php require_once 'nav.php'; ?>
     <?php require_once 'footer.php'; ?>

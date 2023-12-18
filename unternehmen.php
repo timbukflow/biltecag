@@ -91,7 +91,7 @@
             <picture>
                 <source type="image/webp" srcset="img/biltec-cnc-profis-unternehmen-detail-werkzeug.webp" >
                 <source type="image/jpg" srcset="img/biltec-cnc-profis-unternehmen-detail-werkzeug.jpg" >
-                <img src="img/biltec-cnc-profis-unternehmen-detail-werkzeug.jpg" alt="biltec-cnc-profis-unternehmen-detail-werkzeug" loading="lazy">
+                <img src="img/biltec-cnc-profis-unternehmen-detail-werkzeug.jpg" alt="CNC-Fertigungsanlage mit einer Auswahl verschiedener Bohrköpfe und Werkzeuge für rotative und kubische Bearbeitungsverfahren." loading="lazy">
             </picture>
         </section>
             
@@ -105,18 +105,18 @@
             <picture>
                 <source type="image/webp" srcset="img/biltec-cnc-profis-unternehmen-detail-produkt.webp" >
                 <source type="image/jpg" srcset="img/biltec-cnc-profis-unternehmen-detail-produkt.jpg" >
-                <img src="img/biltec-cnc-profis-unternehmen-detail-produkt.jpg" alt="biltec-cnc-profis-unternehmen-detail-produkt" loading="lazy">
+                <img src="img/biltec-cnc-profis-unternehmen-detail-produkt.jpg" alt="Detailaufnahme eines präzise kubisch gefertigten Teils von Biltec, hervorgehoben durch die exakte Bearbeitung und hochwertige Verarbeitung." loading="lazy">
             </picture>
             <div class="imgC50">
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-unternehmen-detail-arbeit.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-unternehmen-detail-arbeit.jpg" >
-                    <img src="img/biltec-cnc-profis-unternehmen-detail-arbeit.jpg" alt="biltec-cnc-profis-unternehmen-detail-arbeit" loading="lazy">
+                    <img src="img/biltec-cnc-profis-unternehmen-detail-arbeit.jpg" alt="Detailaufnahme eines Biltec-Mitarbeiters, der mit sorgfältiger Handarbeit einem kubischen Produkt den letzten Schliff verleiht, um höchste Präzision und Qualität zu gewährleisten." loading="lazy">
                 </picture>
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-unternehmen-detail-maschine.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-unternehmen-detail-maschine.jpg" >
-                    <img src="img/biltec-cnc-profis-unternehmen-detail-maschine.jpg" alt="biltec-cnc-profis-unternehmen-detail-maschine" loading="lazy">
+                    <img src="img/biltec-cnc-profis-unternehmen-detail-maschine.jpg" alt="Nahaufnahme eines Biltec-Mitarbeiters, der sorgfältig eine kubische Fertigungsmaschine einstellt, um den nächsten Produktionsschritt vorzubereiten, wobei besonderer Wert auf Genauigkeit und Präzision gelegt wird." loading="lazy">
                 </picture>
             </div>
         </section>
@@ -136,7 +136,7 @@
             <picture>
                 <source type="image/webp" srcset="img/biltec-cnc-profis-unternehmen-qualitaet-first-mitutoyo.webp" >
                 <source type="image/jpg" srcset="img/biltec-cnc-profis-unternehmen-qualitaet-first-mitutoyo.jpg" >
-                <img src="img/biltec-cnc-profis-unternehmen-qualitaet-first-mitutoyo.jpg" alt="biltec-cnc-profis-unternehmen-qualitaet-first-mitutoyo" loading="lazy">
+                <img src="img/biltec-cnc-profis-unternehmen-qualitaet-first-mitutoyo.jpg" alt="Detailaufnahme der Qualitätssicherung bei Biltec, wobei die Präzision der Arbeiten anhand der Messmaschine Mitutoyo überprüft wird." loading="lazy">
             </picture>
         </section>
 
@@ -285,7 +285,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-dietmar-thoeny.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-dietmar-thoeny.jpg" >
-                    <img src="img/biltec-cnc-profis-ansprechperson-dietmar-thoeny.jpg" alt="biltec-cnc-profis-ansprechperson-dietmar-thoeny" loading="lazy">
+                    <img src="img/biltec-cnc-profis-ansprechperson-dietmar-thoeny.jpg" alt="Dietmar Thöny, CEO Biltec CNC-Profis" loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
@@ -304,7 +304,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-werner-faeh.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-werner-faeh.jpg" >
-                    <img src="img/biltec-cnc-profis-ansprechperson-werner-faeh.jpg" alt="biltec-cnc-profis-ansprechperson-werner-faeh" loading="lazy">
+                    <img src="img/biltec-cnc-profis-ansprechperson-werner-faeh.jpg" alt="Werner Fäh, Fachverantwortlicher für Prozess und Qualität bei Biltec CNC-Profis" loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
@@ -324,7 +324,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.jpg" >
-                    <img src="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.jpg" alt="biltec-cnc-profis-ansprechperson-miodrag-kostic" loading="lazy">
+                    <img src="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.jpg" alt="Miodrag Kostic, Fachverantwortlicher für rotative Fertigung bei Biltec CNC-Profis" loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
@@ -333,7 +333,7 @@
                     Fachverantwortlicher rotativ <br><br>
                     <a href="tel:+41717201787">Telefon +41 71 720 17 87</a><br>
                     <a href="mailto:miodrag.kostic@biltec.ch">miodrag.kostic(at)biltec.ch</a><br>
-                    <a href="https://www.linkedin.com/in/.............../">Linkedin</a><br>
+                    <a href="https://www.linkedin.com/in/miodrag-kostic-b417332a3/">Linkedin</a><br>
                 </p>
             </div>
         </div>
@@ -343,7 +343,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-marcel-grueninger.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-marcel-grueninger.jpg" >
-                    <img src="img/biltec-cnc-profis-ansprechperson-marcel-grueninger.jpg" alt="biltec-cnc-profis-ansprechperson-marcel-grueninger" loading="lazy">
+                    <img src="img/biltec-cnc-profis-ansprechperson-marcel-grueninger.jpg" alt="Marcel Grüninger, Fachverantwortlicher für kubische Fertigung und Qualitätssicherung bei Biltec CNC-Profis" loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
@@ -362,7 +362,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-sandy-oehler.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-sandy-oehler.jpg" >
-                    <img src="img/biltec-cnc-profis-ansprechperson-sandy-oehler.jpg" alt="biltec-cnc-profis-ansprechperson-sandy-oehler" loading="lazy">
+                    <img src="img/biltec-cnc-profis-ansprechperson-sandy-oehler.jpg" alt="Sandy Oehler, Administration bei Biltec CNC-Profis" loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">

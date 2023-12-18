@@ -122,7 +122,7 @@
             <picture>
                 <source type="image/webp" srcset="img/biltec-cnc-profis-kontakt.webp" >
                 <source type="image/jpg" srcset="img/biltec-cnc-profis-kontakt.jpg" >
-                <img src="img/biltec-cnc-profis-kontakt.jpg" alt="biltec-cnc-profis-kontakt" loading="lazy">
+                <img src="img/biltec-cnc-profis-kontakt.jpg" alt="Mitarbeiter der Biltec AG in einer technischen Diskussion, stehend in der Werkhalle, ausgedrückt durch zufriedene und glückliche Körpersprache. Die Szene illustriert das positive Arbeitsklima und die kooperative Teamarbeit in der Fertigungshalle des Unternehmens." loading="lazy">
             </picture>
         </section>
     </main>
@@ -151,7 +151,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-dietmar-thoeny.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-dietmar-thoeny.jpg" >
-                    <img src="img/biltec-cnc-profis-ansprechperson-dietmar-thoeny.jpg" alt="biltec-cnc-profis-ansprechperson-dietmar-thoeny" loading="lazy">
+                    <img src="img/biltec-cnc-profis-ansprechperson-dietmar-thoeny.jpg" alt="Dietmar Thöny, CEO Biltec CNC-Profis" loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
@@ -170,7 +170,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-werner-faeh.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-werner-faeh.jpg" >
-                    <img src="img/biltec-cnc-profis-ansprechperson-werner-faeh.jpg" alt="biltec-cnc-profis-ansprechperson-werner-faeh" loading="lazy">
+                    <img src="img/biltec-cnc-profis-ansprechperson-werner-faeh.jpg" alt="Werner Fäh, Fachverantwortlicher für Prozess und Qualität bei Biltec CNC-Profis" loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
@@ -190,7 +190,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.jpg" >
-                    <img src="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.jpg" alt="biltec-cnc-profis-ansprechperson-miodrag-kostic" loading="lazy">
+                    <img src="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.jpg" alt="Miodrag Kostic, Fachverantwortlicher für rotative Fertigung bei Biltec CNC-Profis" loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
@@ -199,7 +199,7 @@
                     Fachverantwortlicher rotativ <br><br>
                     <a href="tel:+41717201787">Telefon +41 71 720 17 87</a><br>
                     <a href="mailto:miodrag.kostic@biltec.ch">miodrag.kostic(at)biltec.ch</a><br>
-                    <a href="https://www.linkedin.com/in/.............../">Linkedin</a><br>
+                    <a href="https://www.linkedin.com/in/miodrag-kostic-b417332a3/">Linkedin</a><br>
                 </p>
             </div>
         </div>
@@ -209,7 +209,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-marcel-grueninger.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-marcel-grueninger.jpg" >
-                    <img src="img/biltec-cnc-profis-ansprechperson-marcel-grueninger.jpg" alt="biltec-cnc-profis-ansprechperson-marcel-grueninger" loading="lazy">
+                    <img src="img/biltec-cnc-profis-ansprechperson-marcel-grueninger.jpg" alt="Marcel Grüninger, Fachverantwortlicher für kubische Fertigung und Qualitätssicherung bei Biltec CNC-Profis" loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
@@ -228,7 +228,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-sandy-oehler.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-sandy-oehler.jpg" >
-                    <img src="img/biltec-cnc-profis-ansprechperson-sandy-oehler.jpg" alt="biltec-cnc-profis-ansprechperson-sandy-oehler" loading="lazy">
+                    <img src="img/biltec-cnc-profis-ansprechperson-sandy-oehler.jpg" alt="Sandy Oehler, Administration bei Biltec CNC-Profis" loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">

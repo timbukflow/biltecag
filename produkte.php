@@ -94,22 +94,23 @@
                 <img src="img/biltec-cnc-profis-produkte-praezisionsfertigung-metallischer-komponenten-schweiz.jpg" alt="Präzisionsfertigung kubischer und rotativer metallischer Komponenten in der Schweiz." loading="lazy">
             </picture>
         </section>
-            
-        <section class="main pcadcont fadein">
-            <picture>
-                <source type="image/webp" srcset="img/biltec-cnc-profis-konstruktion-cad-cam.webp" >
-                <source type="image/png" srcset="img/biltec-cnc-profis-konstruktion-cad-cam.png" >
-                <img src="img/biltec-cnc-profis-konstruktion-cad-cam.png" alt="Computer-Aided Design und Computer-Aided Manufacturing Konstruktion mit Top Solid" loading="lazy">
-            </picture>
-            <div>
-                <h2>Konstruktion/CAD/CAM</h2>
-                <p>
-                    In der CAD / CAM Konstruktion setzen wir auf Top Solid – so können wir auf jeden Wunsch eingehen. Die freie Modellierung ist dabei die Basis massgefertigter Lösungen, die wir gezielt nach Ihrem Anspruch und Ihrem Bedarf umsetzen. Vertrauen Sie auf unsere langjährige Erfahrung in der Konstruktion von CAD / CAM.
-                </p>
-            </div>
-        </section>
 
-        <section>
+        <section class="prosubnavC">
+            <div class="prosubnav fadein">
+                <div class="prosubnavimg left">
+                    <picture>
+                        <source type="image/webp" srcset="img/biltec-cnc-profis-konstruktion-cad-cam-teaser.webp" >
+                        <source type="image/png" srcset="img/biltec-cnc-profis-konstruktion-cad-cam-teaser.png" >
+                        <img src="img/biltec-cnc-profis-konstruktion-cad-cam.png" alt="Computer-Aided Design und Computer-Aided Manufacturing Konstruktion mit Top Solid" loading="lazy">
+                    </picture>
+                </div> 
+                <div class="prosubnavcontent">
+                    <h2>Konstruktion/CAD/CAM</h2>
+                    <p>
+                        In der CAD / CAM Konstruktion setzen wir auf Top Solid – so können wir auf jeden Wunsch eingehen. Die freie Modellierung ist dabei die Basis massgefertigter Lösungen, die wir gezielt nach Ihrem Anspruch und Ihrem Bedarf umsetzen. Vertrauen Sie auf unsere langjährige Erfahrung in der Konstruktion von CAD / CAM.
+                    </p>
+                </div>
+            </div>
             <div class="prosubnav fadein">
                 <div class="prosubnavcontent">
                     <h2>Rotative Lösungen Druckzubehör</h2>

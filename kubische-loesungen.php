@@ -90,18 +90,18 @@
             <picture>
                 <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen.webp" >
                 <source type="image/jpg" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen.jpg" >
-                <img src="img/biltec-cnc-profis-produkte-kubische-loesungen.jpg" alt="biltec-cnc-profis-produkte-kubische-loesungen" loading="lazy">
+                <img src="img/biltec-cnc-profis-produkte-kubische-loesungen.jpg" alt="Montage eines kubischen Fertigungsteils in 4- und 5-Achs-Fräszentren mit Pallettenbahnhöfen. Die Szene zeigt die Präzision und technische Fähigkeit der Fräszentren bei Biltec AG, die komplexe Bauteile effizient und präzise bearbeiten." loading="lazy">
             </picture>
             <div class="imgC50">
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen-detail.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen-detail.jpg" >
-                    <img src="img/biltec-cnc-profis-produkte-kubische-loesungen.jpg" alt="biltec-cnc-profis-produkte-kubische-loesungen-detail" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-kubische-loesungen.jpg" alt="Reihe von präzisionsgefertigten kubischen Teilen mit metallischer Spiegelung, sorgfältig angeordnet, demonstrierend die Detailgenauigkeit und Qualität der Biltec AG." loading="lazy">
                 </picture>
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen-work.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen-work.jpg" >
-                    <img src="img/biltec-cnc-profis-produkte-kubische-loesungen-work.jpg" alt="bbiltec-cnc-profis-produkte-kubische-loesungen-work" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-kubische-loesungen-work.jpg" alt="Montageprozess eines kubischen Fertigungsteils in 4- und 5-Achs-Fräszentren" loading="lazy">
                 </picture>
             </div>
         </section>
@@ -117,7 +117,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen-dualadapter.webp" >
                     <source type="image/png" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen-dualadapter.png" >
-                    <img src="img/biltec-cnc-profis-produkte-kubische-loesungen-dualadapter.png" alt="biltec-cnc-profis-produkte-kubische-loesungen-dualadapter" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-kubische-loesungen-dualadapter.png" alt="Biltec Produkt 'Dualadapter' für die Optikindustrie, Dimensionen 25x150x350 mm, hergestellt aus hochfestem Aluminium, zeigt die Kompetenz von Biltec in kubischer Lösung und Fertigung." loading="lazy">
                 </picture>
                 <h3>Dualadapter</h3>
                 <p>
@@ -134,7 +134,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen-flansch.webp" >
                     <source type="image/png" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen-flansch.png" >
-                    <img src="img/biltec-cnc-profis-produkte-kubische-loesungen-flansch.png" alt="biltec-cnc-profis-produkte-kubische-loesungen-flansch" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-kubische-loesungen-flansch.png" alt="Biltec Produkt 'Flansch' für die Halbleiterindustrie, gefertigt aus Aluminium, illustriert Biltecs Fähigkeiten in kubischer Lösung und Fertigung." loading="lazy">
                 </picture>
                 <h3>Flansch</h3> 
                 <p>
@@ -151,7 +151,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen-twin-x-gehaeuse.webp" >
                     <source type="image/png" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen-twin-x-gehaeuse.png" >
-                    <img src="img/biltec-cnc-profis-produkte-kubische-loesungen-twin-x-gehaeuse.png" alt="biltec-cnc-profis-produkte-kubische-loesungen-twin-x-gehaeuse" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-kubische-loesungen-twin-x-gehaeuse.png" alt="Biltec Produkt 'TWIN X Gehäuse' Elektronikgehäuse, gefertigt aus Aluminium, illustriert Biltecs Fähigkeiten in kubischer Lösung und Fertigung." loading="lazy">
                 </picture>
                 <h3>TWIN X Gehäuse</h3>
                 <p>
@@ -170,7 +170,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen-farbkammer.webp" >
                     <source type="image/png" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen-farbkammer.png" >
-                    <img src="img/biltec-cnc-profis-produkte-kubische-loesungen-farbkammer.png" alt="biltec-cnc-profis-produkte-kubische-loesungen-farbkammer" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-kubische-loesungen-farbkammer.png" alt="Biltec Produkt 'Farbkammer' für den Druckbereich, gefertigt aus Aluminium, illustriert Biltecs Fähigkeiten in kubischer Lösung und Fertigung." loading="lazy">
                 </picture>
                 <h3>Farbkammer</h3>
                 <p>
@@ -187,7 +187,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-pumpengehaeuse.webp" >
                     <source type="image/png" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-pumpengehaeuse.png" >
-                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-pumpengehaeuse.png" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-pumpengehaeuse" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-pumpengehaeuse.png" alt="Biltec Produkt 'Pumpengehäuse' für die Fluid Industrie, gefertigt aus Chromstahl, illustriert Biltecs Fähigkeiten in kubischer Lösung und Fertigung." loading="lazy">
                 </picture>
                 <h3>Pumpengehäuse</h3>
                 <p>
@@ -204,7 +204,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen-monvat-sitz-typ-c.webp" >
                     <source type="image/png" srcset="img/biltec-cnc-profis-produkte-kubische-loesungen-monvat-sitz-typ-c.png" >
-                    <img src="img/biltec-cnc-profis-produkte-kubische-loesungen-monvat-sitz-typ-c.png" alt="biltec-cnc-profis-produkte-kubische-loesungen-monvat-sitz-typ-c" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-kubische-loesungen-monvat-sitz-typ-c.png" alt="Biltec Produkt 'Monvat Sitz Typ c' für die Druckindustrie, gefertigt aus Vergütungsstahl, illustriert Biltecs Fähigkeiten in kubischer Lösung und Fertigung." loading="lazy">
                 </picture>
                 <h3>Monvat Sitz Typ c</h3>
                 <p>
@@ -225,7 +225,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-teaser-unternehmen.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-teaser-unternehmen.jpg" >
-                    <img src="img/biltec-cnc-profis-teaser-unternehmen.jpg" alt="biltec cnc profis teaser unternehmen" loading="lazy">
+                    <img src="img/biltec-cnc-profis-teaser-unternehmen.jpg" alt="CNC-Fertigungsanlage mit einer Auswahl verschiedener Bohrköpfe für rotative und kubische Bearbeitungsverfahren." loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
@@ -244,7 +244,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-marcel-grueninger.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-marcel-grueninger.jpg" >
-                    <img src="img/biltec-cnc-profis-ansprechperson-marcel-grueninger.jpg" alt="biltec-cnc-profis-ansprechperson-marcel-grueninger" loading="lazy">
+                    <img src="img/biltec-cnc-profis-ansprechperson-marcel-grueninger.jpg" alt="Marcel Grüninger, Fachverantwortlicher für kubische Fertigung und Qualitätssicherung bei Biltec CNC-Profis" loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">

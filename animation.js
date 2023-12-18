@@ -4,7 +4,7 @@ $( document ).ready(function() {
     function preloadImages(totalFrames, imagePrefix) {
         for (let i = 0; i < totalFrames; i++) {
         const img = new Image();
-        img.src = `./img/${imagePrefix}${i}.webp`;
+        img.src = `img/${imagePrefix}${i}.webp`;
         }
     }
   
@@ -37,7 +37,7 @@ $( document ).ready(function() {
         let frameIndex = Math.floor(scroll_position / 10);
         frameIndex = Math.max(0, Math.min(frameIndex, totalFrames - 1));
     
-        animatedImage.src = `./img/${imagePrefix}${frameIndex}.webp`;
+        animatedImage.src = `img/${imagePrefix}${frameIndex}.webp`;
         }
     
         window.addEventListener('scroll', handleScroll);

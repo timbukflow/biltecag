@@ -90,7 +90,7 @@
             <picture>
                 <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer.webp" >
                 <source type="image/jpg" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer.jpg" >
-                <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer.jpg" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer" loading="lazy">
+                <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer.jpg" alt="Einblick in Dreh- und Fräscenter sowie CNC-Rundschleifmaschinen für komplexe Bauteile im Bereich der rotativen Lösungen und Druckzubehör bei Biltec." loading="lazy">
             </picture>
         </section>
             
@@ -104,18 +104,18 @@
             <picture>
                 <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-aussen.webp" >
                 <source type="image/jpg" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-aussen.jpg" >
-                <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-aussen.jpg" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-aussen" loading="lazy">
+                <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-aussen.jpg" alt="Aussenansicht von Dreh- und Fräscenter sowie CNC-Rundschleifmaschinen für komplexe Bauteile im Bereich der rotativen Lösungen und Druckzubehör bei Biltec." loading="lazy">
             </picture>
             <div class="imgC50">
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-innenraum.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-innenraum.jpg" >
-                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-innenraum.jpg" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-innenraum" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-maschine-innenraum.jpg" alt="Nahaufnahme von CNC-Rundschleifmaschine für komplexe Bauteile im Bereich der rotativen Lösungen und Druckzubehör bei Biltec." loading="lazy">
                 </picture>
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-teil.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-teil.jpg" >
-                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-teil.jpg" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-teil" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-teil.jpg" alt="Druckzubehör Teile mit reflektion im Material" loading="lazy">
                 </picture>
             </div>
         </section>
@@ -135,7 +135,7 @@
             <picture>
                 <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-pumpengehaeuse-floor.webp" >
                 <source type="image/jpg" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-pumpengehaeuse-floor.jpg" >
-                <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-pumpengehaeuse-floor.jpg" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-pumpengehaeuse-floor" loading="lazy">
+                <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-pumpengehaeuse-floor.jpg" alt="Biltec CNC-Profis Pumpengehäuse auf dem Boden der Werkstatt als Teil der rotativen Lösungen und Druckzubehör-Produktion." loading="lazy">
             </picture>
         </section>
 
@@ -163,7 +163,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-aufnahme.webp" >
                     <source type="image/png" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-aufnahme.png" >
-                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-aufnahme.png" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-aufnahme" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-aufnahme.png" alt="Biltec Produkt 'Aufnahme' für den Maschinenbau, gefertigt aus Chromstahl, illustriert Biltecs Fähigkeiten in rotativer Lösung und Fertigung." loading="lazy">
                 </picture>
                 <h3>Aufnahme</h3>
                 <p>
@@ -180,7 +180,8 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-brille.webp" >
                     <source type="image/png" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-brille.png" >
-                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-brille.png" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-brille" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-brille.png" alt="oer-aufnahme.png" >
+                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-aufnahme.png" alt="Biltec Produkt 'Brille' für den Maschinenbau, gefertigt aus Chromstahl, illustriert Biltecs Fähigkeiten in rotativer Lösung und Fertigung." loading="lazy">
                 </picture>
                 <h3>Brille</h3>
                 <p>
@@ -197,7 +198,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-platte.webp" >
                     <source type="image/png" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-platte.png" >
-                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-platte.png" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-platte" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-platte.png" alt="Biltec Produkt 'Platte' für die Halbleiterindustrie, gefertigt aus Aluminium, illustriert Biltecs Fähigkeiten in rotativer Lösung und Fertigung." loading="lazy">
                 </picture>
                 <h3>Platte</h3>
                 <p>
@@ -216,7 +217,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-plattenzylinder.webp" >
                     <source type="image/png" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-plattenzylinder.png" >
-                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-plattenzylinder.png" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-plattenzylinder" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-plattenzylinder.png" alt="Biltec Produkt 'Plattenzylinder' für die Druckindustrie, gefertigt aus Wälzlagerstahl, illustriert Biltecs Fähigkeiten in rotativer Lösung und Fertigung." loading="lazy">
                 </picture>
                 <h3>Plattenzylinder</h3>
                 <p>
@@ -233,7 +234,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-welle.webp" >
                     <source type="image/png" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-welle.png" >
-                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-welle.png" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-welle" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-welle.png" alt="Biltec Produkt 'Welle' für die Druckindustrie, gefertigt aus Vergütungsstahl, illustriert Biltecs Fähigkeiten in rotativer Lösung und Fertigung." loading="lazy">
                 </picture>
                 <h3>Welle</h3>
                 <p>
@@ -250,7 +251,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-pumpengehaeuse.webp" >
                     <source type="image/png" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-pumpengehaeuse.png" >
-                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-pumpengehaeuse.png" alt="biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-pumpengehaeuse" loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-pumpengehaeuse.png" alt="Biltec Produkt 'Pumpengehäuse' für die Fluid Industrie, gefertigt aus Chromstahl, illustriert Biltecs Fähigkeiten in rotativer Lösung und Fertigung." loading="lazy">
                 </picture>
                 <h3>Pumpengehäuse</h3>
                 <p>
@@ -271,7 +272,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-teaser-unternehmen.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-teaser-unternehmen.jpg" >
-                    <img src="img/biltec-cnc-profis-teaser-unternehmen.jpg" alt="biltec cnc profis teaser unternehmen" loading="lazy">
+                    <img src="img/biltec-cnc-profis-teaser-unternehmen.jpg" alt="CNC-Fertigungsanlage mit einer Auswahl verschiedener Bohrköpfe für rotative und kubische Bearbeitungsverfahren." loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
@@ -290,7 +291,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.jpg" >
-                    <img src="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.jpg" alt="biltec-cnc-profis-ansprechperson-miodrag-kostic" loading="lazy">
+                    <img src="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.jpg" alt="Miodrag Kostic, Fachverantwortlicher für rotative Fertigung bei Biltec CNC-Profis" loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
@@ -299,6 +300,7 @@
                     Fachverantwortlicher rotativ <br><br>
                     <a href="tel:+41717201787">Telefon +41 71 720 17 87</a><br>
                     <a href="mailto:miodrag.kostic@biltec.ch">miodrag.kostic(at)biltec.ch</a><br>
+                    <a href="https://www.linkedin.com/in/miodrag-kostic-b417332a3/">Linkedin</a><br>
                 </p>
             </div>
         </div>

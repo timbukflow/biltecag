@@ -13,7 +13,7 @@
     <link rel="canonical" href="https://biltec.ch/baugruppenmontage" />
 
     <link rel="alternate" hreflang="de" href="https://www.biltec.ch/baugruppenmontage" />
-    <link rel="alternate" hreflang="en" href="https://www.biltec.ch/en/module-assembly" />
+    <link rel="alternate" hreflang="en" href="https://www.biltec.ch/en/component-assembly" />
 
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="public, max-age=3600" />
@@ -89,18 +89,18 @@
             <picture>
                 <source type="image/webp" srcset="img/biltec-cnc-profis-baugruppenmontage-schritt-eins.webp" >
                 <source type="image/jpg" srcset="img/biltec-cnc-profis-baugruppenmontage-schritt-eins.jpg" >
-                <img src="img/biltec-cnc-profis-baugruppenmontage-schritt-eins.jpg" alt="biltec-cnc-profis-baugruppenmontage-schritt-eins" loading="lazy">
+                <img src="img/biltec-cnc-profis-baugruppenmontage-schritt-eins.jpg" alt="Schritt eins der Baugruppenmontage bei Biltec AG, mit CNC-Profis, die an der präzisen Zusammenstellung von Komponenten arbeiten." loading="lazy">
             </picture>
             <div class="imgC50">
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-baugruppenmontage-schritt-zwei.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-baugruppenmontage-schritt-zwei.jpg" >
-                    <img src="img/biltec-cnc-profis-baugruppenmontage-schritt-zwei.jpg" alt="biltec-cnc-profis-baugruppenmontage-schritt-zwei" loading="lazy">
+                    <img src="img/biltec-cnc-profis-baugruppenmontage-schritt-zwei.jpg" alt="Schritt zwei der Baugruppenmontage bei Biltec AG, mit CNC-Profis, die an der präzisen Zusammenstellung von Komponenten arbeiten." loading="lazy">
                 </picture>
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-baugruppenmontage-schritt-drei.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-baugruppenmontage-schritt-drei.jpg" >
-                    <img src="img/biltec-cnc-profis-baugruppenmontage-schritt-drei.jpg" alt="biltec-cnc-profis-baugruppenmontage-schritt-drei" loading="lazy">
+                    <img src="img/biltec-cnc-profis-baugruppenmontage-schritt-drei.jpg" alt="Schritt drei der Baugruppenmontage bei Biltec AG, mit CNC-Profis, die an der präzisen Zusammenstellung von Komponenten arbeiten." loading="lazy">
                 </picture>
             </div>
         </section>
@@ -129,7 +129,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-teaser-unternehmen.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-teaser-unternehmen.jpg" >
-                    <img src="img/biltec-cnc-profis-teaser-unternehmen.jpg" alt="biltec cnc profis teaser unternehmen" loading="lazy">
+                    <img src="img/biltec-cnc-profis-teaser-unternehmen.jpg" alt="CNC-Fertigungsanlage mit einer Auswahl verschiedener Bohrköpfe für rotative und kubische Bearbeitungsverfahren." loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
@@ -148,7 +148,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.webp" >
                     <source type="image/jpg" srcset="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.jpg" >
-                    <img src="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.jpg" alt="biltec-cnc-profis-ansprechperson-miodrag-kostic" loading="lazy">
+                    <img src="img/biltec-cnc-profis-ansprechperson-miodrag-kostic.jpg" alt="Miodrag Kostic, Fachverantwortlicher für rotative Fertigung bei Biltec CNC-Profis" loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
@@ -157,7 +157,7 @@
                     Fachverantwortlicher rotativ <br><br>
                     <a href="tel:+41717201787">Telefon +41 71 720 17 87</a><br>
                     <a href="mailto:miodrag.kostic@biltec.ch">miodrag.kostic(at)biltec.ch</a><br>
-                    <a href="https://www.linkedin.com/in/.............../">Linkedin</a><br>
+                    <a href="https://www.linkedin.com/in/miodrag-kostic-b417332a3/">Linkedin</a><br>
                 </p>
             </div>
         </div>

@@ -18,10 +18,20 @@ $( document ).ready(function() {
     });
 
     // Nav Submenu
-    $('.menu').mouseenter(function() {
-      $(this).find('.submenu').stop(true).slideDown(300, 'linear');
-    }).mouseleave(function() {
-      $(this).find('.submenu').stop(true).slideUp(300, 'linear');
+    function handleSubmenu() {
+      if ($(window).width() > 960) {
+          $('.menu').mouseenter(function() {
+              $(this).find('.submenu').stop(true).slideDown(300, 'linear');
+          }).mouseleave(function() {
+              $(this).find('.submenu').stop(true).slideUp(300, 'linear');
+          });
+      } else {
+          $('.menu').off('mouseenter mouseleave');
+      }
+    }
+    handleSubmenu();
+    $(window).resize(function() {
+        handleSubmenu();
     });
 
     // Nav Bookmark 
@@ -32,6 +42,13 @@ $( document ).ready(function() {
       $('body').removeClass('noscroll');
       $('.dropdown').slideUp();
       $('#kontakt').html("Kontakt");
+    });
+
+    // Nav Mobile
+    $(".burger-icon").click(function() {
+      $(this).children().toggleClass("spread");
+      $(".nav-list").stop(true,true).slideToggle(800);
+      $("body").toggleClass("fixed");
     });
 
     /////////// Fadin Function /////////////  

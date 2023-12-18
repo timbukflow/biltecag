@@ -1,10 +1,6 @@
 /* @license | MyFonts Webfont Build ID 3867246 */
 
 @font-face {
-  font-family: "AllianceNo2Light";
-  src: url('font/AllianceNo2Light/font.woff2') format('woff2'), url('webFonts/AllianceNo2Light/font.woff') format('woff');
-}
-@font-face {
   font-family: "AllianceNo2Regular";
   src: url('font/AllianceNo2Regular/font.woff2') format('woff2'), url('webFonts/AllianceNo2Regular/font.woff') format('woff');
 }
@@ -16,11 +12,6 @@
   font-family: "AllianceNo2SemiBold";
   src: url('font/AllianceNo2SemiBold/font.woff2') format('woff2'), url('webFonts/AllianceNo2SemiBold/font.woff') format('woff');
 }
-@font-face {
-  font-family: "AllianceNo2Bold";
-  src: url('font/AllianceNo2Bold/font.woff2') format('woff2'), url('webFonts/AllianceNo2Bold/font.woff') format('woff');
-}
-
 
 :root {
   --darkblue: #002155;
@@ -239,10 +230,15 @@ nav {
   letter-spacing: 1.5px;
 }
 .navbar {
-  padding-top: 10px;
+  padding-top: 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
 }
+
 .nav-list {
   margin: 0;
+  padding: 0;
   display: flex;
   text-align: right;
 }
@@ -272,6 +268,18 @@ nav {
 
 .konlang {
   padding-left: 55px;
+}
+
+.burger-icon {
+  display: none;
+  margin-top: 5px;
+}
+
+.burger-icon .bar {
+  width: 30px;
+  height: 2px;
+  margin-bottom: 6px;
+  background-color: white;
 }
 
 /*----------------------------------
@@ -433,26 +441,16 @@ img {
 /*----------------------------------
   Produkte
 -----------------------------------*/
-.pcadcont {
-  display: flex;
-  gap: 40px;
-  margin: 150px auto;
-  align-items: center;
+.prosubnavC {
+  margin: 120px 0;
 }
-.pcadcont div {
-  flex-basis: 100%;
- }
-.pcadcont picture {
- padding: 50px;
-}
-
 .prosubnav {
   display: flex;
   flex-direction: row;
   background-color: white;
   border-radius: 20px 0 20px 0;
   align-items: flex-start;
-  margin-bottom: 120px;
+  margin-bottom: 90px;
 }
 
 .prosubnavcontent {
@@ -464,7 +462,7 @@ img {
   flex-basis: 60%;
   display: flex;
   overflow: hidden;
-  height: 420px;
+  height: 500px;
   justify-content: center;
   align-items: center;
 }
@@ -705,13 +703,14 @@ footer ul {
   margin: 60px 0 0;
   padding-bottom: 20px;
   border-bottom: 1px solid white;
-  width: 50%;
+  width: 75%;
 }
 .datenschutz p {
-  width: 50%;
+  width: 75%;
 }
 .datenschutz li {
   padding: 10px 0;
+  list-style: disc;
 }
 /*----------------------------------
     Cookiebanner
@@ -720,69 +719,72 @@ footer ul {
 #cookiebanner {
   position: fixed;
   bottom: -300px;
-  left: 40px;
-  border-radius: 5px;
-  width: 350px;
+  right: 40px;
+  border-radius: 10px;
+  width: 420px;
   background-color: white;
-  padding: 15px;
+  padding: 20px 30px;
   z-index: 9999;
   transition: bottom 0.5s cubic-bezier(0.2, 0.8, 0.3, 2);
 }
 
 #cookiebanner p {
-  color: var(--funkblue);
-  margin: 0;
+  color: var(--fontcolor);
+  margin: 0 0 25px;
+  line-height: 1.4;
 }
 
 #cookiebanner.visible {
   bottom: 40px;
 }
 
-#cookiebanner button {
-  
-  letter-spacing: 0;
-  text-decoration: none; 
+.buttonC {
+  display: flex;
+  gap: 10px;
 }
 
 #declineBtn, #acceptBtn {
-  border-radius: 5px;
-  margin-top: 20px;
+  border-radius: 50px;
+  padding: 15px 20px;
+  margin: 0;
 }
 
 #declineBtn {
-  padding: 10px 20px;
   background:none;
-  border: 1px solid var(--funkblue); 
-  color: var(--funkblue);
-  opacity: 0.5;
+  border: 1px solid var(--lightblue); 
+  color: var(--lightblue);
 }
 
 #acceptBtn {
   border: none;
-  padding: 10px 40px;
-  background: var(--funkblue);
+  background: var(--lightblue);
   color: white;
-  margin-right: 5px;
 }
 
 #acceptBtn:hover,
 #declineBtn:hover {
-  transition: opacity 0.5s ease-in-out;
-  opacity: 0.75; ;
+  transition: padding 0.5s, background-color 0.5s;
+  padding: 15px 40px;
 }
-
 
 /*----------------------------------
   Responsiv
 -----------------------------------*/
 
-
-@media (max-width: 1200px) {
-  
+@media (max-width: 1100px) {
+  /* Nav */
+  nav {padding: 20px 20px;}
 }
 
 @media (max-width: 960px) {
-  
+  /* Nav */
+  .burger-icon, .submenu {display: block;}
+  .nav-list {display: none; margin-top: 20px;}
+  .navbar {width: 100%;}
+  .menu {width: auto;}
+  .konlang {padding-bottom: 5px;}
+  .submenu {opacity: 0.5;}
+  .logoC {position: absolute;}
 }
 
 @media (max-width: 768px) {

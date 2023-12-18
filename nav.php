@@ -25,7 +25,7 @@
                 </ul>
             </li>
             <li class="konlang"><a href="kontakt">Kontakt</a></li>
-            <li class="konlang"><a href="index">DE</a>  |  <a class="passiv" href="en/">EN</a></li>
+            <li class="konlang"><a href="">DE</a>  |  <a class="passiv" href="en/">EN</a></li>
         </ul>
     </div>
 </nav>

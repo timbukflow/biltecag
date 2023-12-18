@@ -37,7 +37,7 @@
                 </li>
                 <li class="group">
                     <ul>
-                        <li><a href="mailto:info@biltec.ch" target="_blank">Mail info@biltec.ch</a></li>
+                        <li><a href="mailto:info@biltec.ch" target="_blank">Mail info(at)biltec.ch</a></li>
                         <li><a href="tel:+41717201787">Telefon +41 71 720 17 87</a></li>
                     </ul>
                 </li>
@@ -51,7 +51,6 @@
         </div>
     </div>
     <div class="footercopy">
-        <p>© Copyright 2024 BILTEC AG | Realisierung <a class="ssweb" href="https://schwizerdesign.ch/" target="_blank">schwizerdesign.ch</a></p>
+        <p>© Copyright 2024 BILTEC AG | Realisierung <a href="https://schwizerdesign.ch/" target="_blank">schwizerdesign.ch</a></p>
     </div>
-    
 </footer>
