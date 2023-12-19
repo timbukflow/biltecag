@@ -12,8 +12,8 @@
     <meta name="author" content="Biltec AG">
     <link rel="canonical" href="https://biltec.ch/unternehmen" />
 
-    <link rel="alternate" hreflang="de" href="https://www.biltec.ch/unternehmen" />
-    <link rel="alternate" hreflang="en" href="https://www.biltec.ch/en/company" />
+    <link rel="alternate" hreflang="de" href="https://biltec.ch/unternehmen" />
+    <link rel="alternate" hreflang="en" href="https://biltec.ch/en/company" />
 
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="public, max-age=3600" />
@@ -53,6 +53,7 @@
         "@context": "http://schema.org",
         "@type": "Organization",
         "name": "Biltec AG Unternehmen",
+        "description": "Entdecken Sie hochwertige CNC-Fertigungslösungen von Biltec AG. Wir bieten präzise Entwicklung, Produktion und Montage mechanischer Teile. Unser Engagement für Qualität, das Null-Fehler-Prinzip und kundenspezifische Lösungen garantiert eine effektive Wertschöpfung für Unternehmen jeder Größe, sowohl in der Schweiz als auch international.",
         "url": "https://biltec.ch/unternehmen",
         "contactPoint": [{
             "@type": "ContactPoint",

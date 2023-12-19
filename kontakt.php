@@ -12,8 +12,8 @@
     <meta name="author" content="Biltec AG">
     <link rel="canonical" href="https://biltec.ch/kontakt" />
 
-    <link rel="alternate" hreflang="de" href="https://www.biltec.ch/kontakt" />
-    <link rel="alternate" hreflang="en" href="https://www.biltec.ch/en/contact" />
+    <link rel="alternate" hreflang="de" href="https://biltec.ch/kontakt" />
+    <link rel="alternate" hreflang="en" href="https://biltec.ch/en/contact" />
 
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="public, max-age=3600" />

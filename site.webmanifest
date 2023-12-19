@@ -1,7 +1,99 @@
 {
     "name": "Biltec AG | Ihre CNC-Profis",
     "short_name": "Biltec AG",
-    "description": "BILTEC AG - CNC-Fertigungsexperten. Wir bieten umfassende Lösungen in den Bereichen Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und innovative, wirtschaftliche und nachhaltige Technologien.",
+    "description": "BILTEC AG - CNC-Fertigungsexperten. Wir bieten umfassende Lösungen in den Bereichen CNC-Fertigung, Konstruktion, Messtechnik, Baugruppenmontage, Druckzubehör, Rotative Lösungen und Kubische Lösungen. Spezialisiert auf Druckzubehör und innovative, wirtschaftliche und nachhaltige Technologien.",
+    "categories": ["CNC-Fertigung", "Konstruktion", "Messtechnik", "Baugruppenmontage", "Druckzubehör", "Rotative Lösungen", "Kubische Lösungen"],
+    "author": {
+        "name": "Dietmar Thöny",
+        "email": "dietmar.thoeny@biltec.ch",
+        "url": "https://biltec.ch/kontakt"
+    },
+    "shortcuts": [
+        {
+            "name": "Produkte",
+            "short_name": "Produkte",
+            "description": "Entdecken Sie unsere hochwertigen Produkte bei Biltec AG. Wir bieten Präzisionskomponenten aus einer Vielzahl metallischer Werkstoffe, maßgefertigte Lösungen, CAD / CAM-Konstruktion, rotative und kubische Fertigung sowie effiziente Baugruppenmontage.",
+            "url": "https://biltec.ch/produkte",
+            "lang": "de-CH"
+        },
+        {
+            "name": "Rotative Lösungen",
+            "short_name": "Rotative",
+            "description": "Experte für rotative Lösungen und Druckzubehör in der CNC-Fertigung. Spezialisiert auf die präzise Produktion von Druckzylindern und Siebringen für Flexo-, Offset- und Buchdrucktechnik.",
+            "url": "https://biltec.ch/rotative-loesungen",
+            "lang": "de-CH"
+        },
+        {
+            "name": "Kubische Lösungen",
+            "short_name": "Kubische",
+            "description": "Nutzen Sie unsere hochmodernen 4- und 5-Achs-Fräszentren für kubische Bearbeitung mit Pallettenbahnhöfen für präzise Bauteile. Unsere Horizontalcenter garantieren Leistungsfähigkeit und Wirtschaftlichkeit im Stahl- und Edelstahlbereich.",
+            "url": "https://biltec.ch/kubische-loesungen",
+            "lang": "de-CH"
+        },
+        {
+            "name": "Baugruppenmontage",
+            "short_name": "Baugruppenmontage",
+            "description": "Steigern Sie Effizienz und Wirtschaftlichkeit Ihres Unternehmens mit unserer Baugruppenmontage. Profitieren Sie von unserem Alles-aus-einer-Hand-Ansatz, der Kosten und administrativen Aufwand reduziert, während wir komplexe Aufträge termingerecht und in höchster Qualität umsetzen.",
+            "url": "https://biltec.ch/baugruppenmontage",
+            "lang": "de-CH"
+        },
+        {
+            "name": "Unternehmen",
+            "short_name": "Unternehmen",
+            "description": "Entdecken Sie hochwertige CNC-Fertigungslösungen von Biltec AG. Wir bieten präzise Entwicklung, Produktion und Montage mechanischer Teile. Unser Engagement für Qualität, das Null-Fehler-Prinzip und kundenspezifische Lösungen garantiert eine effektive Wertschöpfung für Unternehmen jeder Größe, sowohl in der Schweiz als auch international.",
+            "url": "https://biltec.ch/unternehmen",
+            "lang": "de-CH"
+        },
+        {
+            "name": "Kontakt",
+            "short_name": "Kontakt",
+            "description": "BILTEC AG - Ihr verlässlicher Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und kreative Lösungen mit modernster Technologie, Wirtschaftlichkeit und Nachhaltigkeit.",
+            "url": "https://biltec.ch/kontakt",
+            "lang": "de-CH"
+        },
+        {
+            "name": "Products",
+            "short_name": "Products",
+            "description": "Discover our high-quality products at Biltec AG. We offer precision components made from a variety of metallic materials, customized solutions, CAD / CAM design, rotary and cubic machining, and efficient assembly.",
+            "url": "https://biltec.ch/en/products",
+            "lang": "en"
+        },
+        {
+            "name": "Rotary Solutions",
+            "short_name": "Rotary",
+            "description": "Expert in rotary solutions and printing accessories in CNC manufacturing. Specialized in the precise production of printing cylinders and screens for flexo, offset, and letterpress printing technology.",
+            "url": "https://biltec.ch/en/rotary-solutions",
+            "lang": "en"
+        },
+        {
+            "name": "Cubic Solutions",
+            "short_name": "Cubic",
+            "description": "Utilize our state-of-the-art 4- and 5-axis milling centers for cubic machining with pallet stations for precise components. Our horizontal centers guarantee performance and cost-effectiveness in the steel and stainless steel sector.",
+            "url": "https://biltec.ch/en/cubic-solutions",
+            "lang": "en"
+        },
+        {
+            "name": "Component Assembly" ,
+            "short_name": "Component Assembly",
+            "description": "Enhance efficiency and cost-effectiveness of your company with our assembly services. Benefit from our one-stop-shop approach that reduces costs and administrative overhead while delivering complex orders on time and in high quality.",
+            "url": "https://biltec.ch/en/component-assembly",
+            "lang": "en"
+        },
+        {
+            "name": "Company",
+            "short_name": "Company",
+            "description": "Explore high-quality CNC manufacturing solutions from Biltec AG. We offer precise development, production, and assembly of mechanical parts. Our commitment to quality, the zero-defect principle, and custom solutions ensures effective value creation for businesses of all sizes, both in Switzerland and internationally.",
+            "url": "https://biltec.ch/en/company",
+            "lang": "en"
+        },
+        {
+            "name": "Contact",
+            "short_name": "Contact",
+            "description": "BILTEC AG - Your reliable partner for CNC manufacturing, design, metrology, and assembly. Specialized in printing accessories and creative solutions with state-of-the-art technology, cost-effectiveness, and sustainability.",
+            "url": "https://biltec.ch/en/contact",
+            "lang": "en"
+        }
+    ],        
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -21,5 +113,6 @@
     "orientation": "any",
     "scope": "/",
     "lang": "de-CH",
-    "dir": "ltr"
+    "dir": "ltr",
+    "version": "1.0"
 }

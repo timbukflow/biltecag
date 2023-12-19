@@ -11,8 +11,8 @@
     <meta name="author" content="Biltec AG">
     <link rel="canonical" href="https://biltec.ch" />
 
-    <link rel="alternate" hreflang="de" href="https://www.biltec.ch/" />
-    <link rel="alternate" hreflang="en" href="https://www.biltec.ch/en" />
+    <link rel="alternate" hreflang="de" href="https://biltec.ch/" />
+    <link rel="alternate" hreflang="en" href="https://biltec.ch/en" />
 
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="public, max-age=3600" />
@@ -93,8 +93,12 @@
                 Mit Hilfe unseres Dreh- und Fräscenters sowie unseren CNC-Rundschleifmaschinen fertigen wir Bauteile von hoher Komplexität – und zwar in einem wirtschaftlich attraktiven Rahmen.
             </h3>
             <div class="teaserBtn fadein">
-                <button><a href="rotative-loesungen">Rotative Lösungen</a></button>
-                <button class="white"><a href="rotative-loesungen#druckzubehoer">Druckzubehör</a></button>
+                <a href="rotative-loesungen">
+                    <button>Rotative Lösungen</button>
+                </a>
+                <a href="rotative-loesungen#druckzubehoer">
+                    <button class="white">Druckzubehör</button>
+                </a>
             </div>
         </article>
 
@@ -108,7 +112,9 @@
                 Dank unseren 4- und 5-Achs-Fräszentren fertigen wir sämtliche gewünschten Bauteile in der zugesicherten Qualität – eine für Sie auch wirtschaftlich höchst attraktive Lösung.
             </h3>
             <div class="teaserBtn fadein">
-                <button><a href="kubische-loesungen">Kubische Lösungen</a></button>
+                <a href="kubische-loesungen">
+                    <button>Kubische Lösungen</button>
+                </a>
             </div>
         </article>
     </header>
@@ -200,9 +206,9 @@
                     Seit über zwanzig Jahren sind wir am Markt. Heute sind wir weit über die Schweiz hinaus bekannt als renommierter Anbieter von mechanischen Fertigungsteilen höchster Güteklasse.
                 </p>
             </div>
-            <button>
-                <a href="unternehmen">Unternehmen</a>
-            </button>
+            <a href="unternehmen">
+                <button>Unternehmen</button>
+            </a>
         </div>
         <div class="subnav fadein">
             <div class="subnavimg">
@@ -218,9 +224,9 @@
                     Wir setzen vor Ort auf eine Reihe von Horizontalmaschinen, mit denen wir Präzisionskomponenten aus praktisch allen wichtigen metallischen Werkstoffen herstellen. Von der Konstruktion/CAD/CAM bis zur Baugruppenmontage.
                 </p>
             </div>
-            <button>
-                <a href="produkte">Produkte</a>
-            </button>
+            <a href="produkte">
+                <button>Produkte</button>
+            </a>
         </div>
     </div>
 

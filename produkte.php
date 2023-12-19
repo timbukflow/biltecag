@@ -12,8 +12,8 @@
     <meta name="author" content="Biltec AG">
     <link rel="canonical" href="https://biltec.ch/produkte" />
 
-    <link rel="alternate" hreflang="de" href="https://www.biltec.ch/produkte" />
-    <link rel="alternate" hreflang="en" href="https://www.biltec.ch/en/products" />
+    <link rel="alternate" hreflang="de" href="https://biltec.ch/produkte" />
+    <link rel="alternate" hreflang="en" href="https://biltec.ch/en/products" />
 
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="public, max-age=3600" />
@@ -117,9 +117,9 @@
                     <p>
                         Mit Hilfe unseres Dreh- und Fräscenters sowie unseren CNC-Rundschleifmaschinen fertigen wir Bauteile von hoher Komplexität – und zwar in einem wirtschaftlich attraktiven Rahmen.
                     </p>
-                    <button>
-                        <a href="rotative-loesungen">Rotative Lösungen</a>
-                    </button>
+                    <a href="rotative-loesungen">
+                        <button>Rotative Lösungen</button>
+                    </a>
                 </div>
                 <div class="prosubnavimg right">
                     <picture>
@@ -142,9 +142,9 @@
                     <p>
                         Dank unseren 4- und 5-Achs-Fräszentren fertigen wir sämtliche gewünschten Bauteile in der zugesicherten Qualität – eine für Sie auch wirtschaftlich höchst attraktive Lösung.
                     </p>
-                    <button class="right">
-                        <a href="kubische-loesungen">Kubische Lösungen</a>
-                    </button>
+                    <a href="kubische-loesungen">
+                        <button class="right">Kubische Lösungen</button>
+                    </a>
                 </div>
             </div>
             <div class="prosubnav fadein">
@@ -153,9 +153,9 @@
                     <p>
                         Indem Sie uns mit einer kompletten Baugruppenmontage beauftragen, sparen Sie Zeit und Geld, sodass sich Ihre Effizienz erhöht und Ihr Unternehmen wirtschaftlicher arbeitet.
                     </p>
-                    <button>
-                        <a href="baugruppenmontage">Baugruppenmontage</a>
-                    </button>
+                    <a href="baugruppenmontage">
+                        <button>Baugruppenmontage</button>
+                    </a>
                 </div>
                 <div class="prosubnavimg right">
                     <picture>
@@ -212,9 +212,9 @@
                     Seit über zwanzig Jahren sind wir am Markt. Heute sind wir weit über die Schweiz hinaus bekannt als renommierter Anbieter von mechanischen Fertigungsteilen höchster Güteklasse.
                 </p>
             </div>
-            <button>
-                <a href="unternehmen">Unternehmen</a>
-            </button>
+            <a href="unternehmen">
+                <button>Unternehmen</button>
+            </a>
         </div>
         <div class="subnav fadein">
             <div class="subnavimg">
@@ -230,9 +230,9 @@
                     Sie haben Fragen zu unseren Leistungen oder möchten von der hohen Qualität unserer Produkte und Lösungen profitieren? Dann melden Sie sich bei uns – wir freuen uns!
                 </p>
             </div>
-            <button>
-                <a href="kontakt">Ansprechpartner</a>
-            </button>
+            <a href="kontakt">
+                <button>Ansprechpartner</button>
+            </a>
         </div>
     </div>
     

@@ -1,18 +1,18 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Biltec AG | Ihre CNC-Profis</title>
+    <title>Biltec AG | Your CNC professionals</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="BILTEC AG - Ihr verlässlicher Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und kreative Lösungen mit modernster Technologie, Wirtschaftlichkeit und Nachhaltigkeit.">
-    <meta name="keywords" content="CNC-Fertigung, Konstruktion, Messtechnik, Baugruppenmontage, Druckzubehör, kreative Lösungen, moderne Technologie, Wirtschaftlichkeit, Nachhaltigkeit, Verlässlichkeit, Flexibilität, Biltec">
+    <meta name="description" content="BILTEC AG - Your reliable partner for CNC manufacturing, construction, metrology, and assembly of modules. Specialized in printing accessories and creative solutions with state-of-the-art technology, economic efficiency, and sustainability.">
+    <meta name="keywords" content="CNC manufacturing, construction, metrology, assembly of modules, printing accessories, creative solutions, modern technology, economic efficiency, sustainability, reliability, flexibility, Biltec.">
     <meta name="author" content="Biltec AG">
-    <link rel="canonical" href="https://biltec.ch" />
+    <link rel="canonical" href="https://biltec.ch/en" />
 
-    <link rel="alternate" hreflang="de" href="https://www.biltec.ch/" />
-    <link rel="alternate" hreflang="en" href="https://www.biltec.ch/en" />
+    <link rel="alternate" hreflang="de" href="https://biltec.ch/" />
+    <link rel="alternate" hreflang="en" href="https://biltec.ch/en" />
 
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="public, max-age=3600" />
@@ -26,16 +26,16 @@
     <meta name="msapplication-TileColor" content="#002155">
     <meta name="theme-color" content="#ffffff">
 
-    <meta property="og:title" content="Biltec AG | Ihre CNC-Profis">
-    <meta property="og:description" content="BILTEC AG - Ihr verlässlicher Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und kreative Lösungen mit modernster Technologie, Wirtschaftlichkeit und Nachhaltigkeit.">
+    <meta property="og:title" content="Biltec AG | Your CNC professionals">
+    <meta property="og:description" content="BILTEC AG - Your reliable partner for CNC manufacturing, construction, metrology, and assembly of modules. Specialized in printing accessories and creative solutions with state-of-the-art technology, economic efficiency, and sustainability.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://biltec.ch">
+    <meta property="og:url" content="https://biltec.ch/en">
     <meta property="og:image" content="https://biltec.ch/img/og-image.jpg">
-    <meta property="og:locale" content="de_CH">
+    <meta property="og:locale" content="en">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Biltec AG | Ihre CNC-Profis">
-    <meta name="twitter:description" content="BILTEC AG - Ihr verlässlicher Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage. Spezialisiert auf Druckzubehör und kreative Lösungen mit modernster Technologie, Wirtschaftlichkeit und Nachhaltigkeit.">
+    <meta name="twitter:title" content="Biltec AG | Your CNC professionals">
+    <meta name="twitter:description" content="BILTEC AG - Your reliable partner for CNC manufacturing, construction, metrology, and assembly of modules. Specialized in printing accessories and creative solutions with state-of-the-art technology, economic efficiency, and sustainability.">
     <meta name="twitter:image" content="https://biltec.ch/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
@@ -52,8 +52,8 @@
         "@context": "http://schema.org",
         "@type": "Organization",
         "name": "Biltec AG",
-        "description": "BILTEC AG - Ihr Partner für CNC-Fertigung, Konstruktion, Messtechnik und Baugruppenmontage.",
-        "url": "https://biltec.ch",
+        "description": "BILTEC AG - Your partner for CNC manufacturing, design, metrology, and assembly of modules.",
+        "url": "https://biltec.ch/en",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+41717201787",
@@ -73,113 +73,119 @@
         ]
     }
     </script>
-
 </head>
 
 <body>
     <header class="main fadein">
-        <h1 class="big">Ihre CNC-<br>Profis</h1>
+        <h1 class="big">Your CNC professionals</h1>
         <h2 class="headline">
-            Die <strong>BILTEC AG</strong> ist Ihr vielseitiger Partner, wenn es um CNC-Fertigung, Konstruktion, Messtechnik und Montage von Baugruppen geht. Wir sind nicht nur Spezialisten für Druckzubehör, sondern übernehmen auch gerne Aufträge, bei denen kreative Ideen und technisches Know-how gefragt sind.
+           <strong>BILTEC AG</strong> is your versatile partner when it comes to CNC manufacturing, design, metrology and assembly of components. We are not only specialists in printing accessories, but are also happy to take on orders where creative ideas and technical expertise are required.
         </h2>
 
         <article class="teaser">
             <div id="rotativ" class="animatC fadein">
-                <img id="rotativImg" src="img/rotativ0.webp" alt="Plattenzylinder für die Druckindustrie, gefertigt durch Biltec CNC-Fertigung. Abmessungen: Durchmesser 200mm x Länge 630mm, aus Wälzlagerstahl. Teil der rotativen Lösungen.">
-                <p>Plattenzylinder - Druckindustrie<br>Abmasse: Ø200x630 <br> Material: Wälzlagerstahl</p>
+                <img id="rotativImg" src="../img/rotativ0.webp" alt="Plate cylinder for the printing industry, manufactured by Biltec CNC manufacturing. Dimensions: Diameter 200mm x Length 630mm, made of bearing steel. Part of the rotary solutions.">
+                <p>Plate cylinder - Printing industry<br>Dimensions: Ø200x630 <br> Material: Rolling bearing steel Enquiry & order</p>
             </div>
-            <h2 class="big fadein">Rotativ</h2>
+            <h2 class="big fadein">Rotary</h2>
             <h3 class="headline fadein">
-                Mit Hilfe unseres Dreh- und Fräscenters sowie unseren CNC-Rundschleifmaschinen fertigen wir Bauteile von hoher Komplexität – und zwar in einem wirtschaftlich attraktiven Rahmen.
+                With the help of our turning and milling centre and our CNC cylindrical grinding machines, we manufacture highly complex components - and do so within an economically attractive framework.
             </h3>
             <div class="teaserBtn fadein">
-                <button><a href="rotative-loesungen">Rotative Lösungen</a></button>
-                <button class="white"><a href="rotative-loesungen#druckzubehoer">Druckzubehör</a></button>
+                <a href="rotary-solutions">
+                    <button>Rotary solutions</button>
+                </a>
+                <a href="rotary-solutions#printing-accessories">
+                    <button class="white">Printing accessories</button>
+                </a>
             </div>
         </article>
 
         <article class="teaser">
             <div id="kubisch" class="animatC fadein">
-                <img id="kubischImg" src="img/kubisch0.webp" alt="Dualadapter für die Optikindustrie, hergestellt durch Biltecs kubische CNC-Fertigung. Gefertigt aus hochfestem Aluminium. Spezialisiertes Bauteil für präzise Anwendungen.">
-                <p>Behandlung: induktionsgehärtet<br>chemisch vernickelt</p>
+                <img id="kubischImg" src="../img/kubisch0.webp" alt="Dual adapter for the optics industry, produced by Biltec's cubic CNC manufacturing. Made from high-strength aluminum. Specialized component for precise applications.">
+                <p>Dual adapter - Optics industry <br>Dimensions: 25x150x350 <br> Material: High-strength aluminium
+            </p>
             </div>
-            <h2 class="big fadein">Kubisch</h2>
+            <h2 class="big fadein">Cubic</h2>
             <h3 class="headline fadein">
-                Dank unseren 4- und 5-Achs-Fräszentren fertigen wir sämtliche gewünschten Bauteile in der zugesicherten Qualität – eine für Sie auch wirtschaftlich höchst attraktive Lösung.
+                Thanks to our 4-axis and 5-axis milling centres, we can produce all the components you require in the guaranteed quality - a solution that is also highly attractive for you in economic terms.
             </h3>
             <div class="teaserBtn fadein">
-                <button><a href="kubische-loesungen">Kubische Lösungen</a></button>
+                <a href="cubic-solutions">
+                    <button>Cubic solutions</button>
+                </a>
             </div>
         </article>
     </header>
 
     <div class="mainfull">
         <div class="numbers fadein">
-            <div><h3><span class="counter" data-target="100">0</span>Tonnen Stahl</h3></div>
-            <div><h3><span class="counter" data-target="300">0</span>Tonnen Aluminium</h3></div>
-            <div><h3><span class="counter" data-target="40">0</span>Tonnen Edelstahl</h3></div>
+            <div><h3><span class="counter" data-target="100">0</span>tonnes of steel</h3></div>
+            <div><h3><span class="counter" data-target="300">0</span>tonnes of aluminium</h3></div>
+            <div><h3><span class="counter" data-target="40">0</span>tonnes of stainless steel</h3></div>
         </div>
         <div class="imgC fadein">
             <picture>
-                <source type="image/webp" srcset="img/biltec-cnc-profis-kubisch-werkstoffe-stahl-aluminium-edelstahl.webp" >
-                <source type="image/jpg" srcset="img/biltec-cnc-profis-kubisch-werkstoffe-stahl-aluminium-edelstahl.jpg" >
-                <img src="img/biltec-cnc-profis-kubisch-werkstoffe-stahl-aluminium-edelstahl.jpg" alt="Verschiedene Werkstoffe für kubische CNC-Fertigung bei Biltec: Stahl, Aluminium und Edelstahl. Die Materialien symbolisieren die Vielseitigkeit und Qualität der Bearbeitungsmöglichkeiten." loading="lazy">
+                <source type="image/webp" srcset="../img/biltec-cnc-profis-kubisch-werkstoffe-stahl-aluminium-edelstahl.webp" >
+                <source type="image/jpg" srcset="../img/biltec-cnc-profis-kubisch-werkstoffe-stahl-aluminium-edelstahl.jpg" >
+                <img src="../img/biltec-cnc-profis-kubisch-werkstoffe-stahl-aluminium-edelstahl.jpg" alt="Various materials for cubic CNC manufacturing at Biltec: steel, aluminum, and stainless steel. The materials symbolize the versatility and quality of the processing options." loading="lazy">
             </picture>
         </div>
         <div class="description">
             <p>
-                Dies ist die durchschnittliche Menge an Metallen, die wir in unseren Werkhallen pro Jahr verarbeiten.
+                This is the average quantity of metals that we process in our workshops each year.
             </p>
         </div>
     </div>
 
     <main class="mainwhite">
         <div class="subtitle fadein">
-            <h2>Was Sie alles von uns haben</h2>
+            <h2>What you get from us</h2>
         </div>
         <div class="gridC fadein">
             <div class="iconC">
-                <img src="img/biltec-icon-spitzentechnologie.svg" alt="biltec icon spitzentechnologie">
-                <h3>Spitzentechnologie</h3>
+                <img src="../img/biltec-icon-spitzentechnologie.svg" alt="biltec icon Cutting-edge technology">
+                <h3>Cutting-edge technology</h3>
                 <p>
-                    Die <strong>BILTEC AG</strong> steht nie still. So integrieren wir ständig die modernsten Technologien in unseren Fertigungspark und entwickeln uns laufend weiter, damit unsere Produkte jederzeit dem aktuellsten Stand entsprechen.
+                    <strong>BILTEC AG</strong> never stands still. We constantly integrate the latest technologies into our production facilities and continuously develop to ensure that our products are always state-of-the-art.
                 </p>
             </div>
             <div class="iconC">
-                <img src="img/biltec-icon-wirtschaftlichkeit.svg" alt="biltec icon wirtschaftlichkeit">
-                <h3>Wirtschaftlichkeit</h3>
+                <img src="../img/biltec-icon-wirtschaftlichkeit.svg" alt="biltec icon Economic efficiency">
+                <h3>Economic efficiency</h3>
                 <p>
-                    Die <strong>BILTEC AG</strong> steht für eine effiziente Produktion – dank hoher Verfügbar-keit, durchdachten Prozessen, einem modernen Maschinenpark sowie Energieeffizienz.
+                    <strong>BILTEC AG</strong> stands for efficient production - thanks to high availability, well thought-out processes, modern machinery and energy efficiency.
                 </p>
             </div>
             <div class="iconC">
-                <img src="img/biltec-icon-partnerschaft.svg" alt="biltec icon partnerschaft">
-                <h3>Partnerschaft</h3>
+                <img src="../img/biltec-icon-partnerschaft.svg" alt="biltec icon Partnership">
+                <h3>Partnership</h3>
                 <p>
-                    Die <strong>BILTEC AG</strong> steht Kunden als starker Partner zur Seite, vom ersten Kontakt bis zur Auslieferung und darüber hinaus. Unsere vielen langjährigen Beziehungen sind der Beweis.
+                    <strong>BILTEC AG</strong> stands by its customers as a strong partner, from initial contact to delivery and beyond. Our many long-standing relationships are proof of this.
                 </p>
             </div>
         </div>
         <div class="gridC fadein">
             <div class="iconC">
-                <img src="img/biltec-icon-verantwortung.svg" alt="biltec icon verantwortung">
-                <h3>Verantwortung</h3>
+                <img src="../img/biltec-icon-verantwortung.svg" alt="biltec icon Responsibility">
+                <h3>Responsibility</h3>
                 <p>
-                    Die <strong>BILTEC AG</strong> ist sich der Verantwortung gegenüber ihren Stakeholdern, der Gesellschaft sowie der Umwelt bewusst. Nachhaltigkeit haben wir deshalb fest in unserem Unternehmen verankert und unser tägliches Handeln darauf abgestimmt.
+                    <strong>BILTEC AG</strong> is aware of its responsibility towards its stakeholders, society and the environment. We have therefore firmly anchored sustainability in our company and aligned our daily actions accordingly.
                 </p>
             </div>
             <div class="iconC">
-                <img src="img/biltec-icon-zuverlaessigkeit.svg" alt="biltec icon zuverlässigkeit">
-                <h3>Zuverlässigkeit</h3>
+                <img src="../img/biltec-icon-zuverlaessigkeit.svg" alt="biltec icon Reliability">
+                <h3>Reliability</h3>
                 <p>
-                    Auf die <strong>BILTEC AG</strong> ist Verlass. Als erfahrener und kompetenter Partner liefern wir in höchster Qualität – termingerecht und zu den vereinbarten Konditionen.
+                    You can rely on <strong>BILTEC AG</strong>. As an experienced and competent partner, we deliver the highest quality - on time and on the agreed terms.
                 </p>
             </div>
             <div class="iconC">
-                <img src="img/biltec-icon-flexibilitaet.svg" alt="biltec icon flexibilität">
-                <h3>Flexibilität</h3>
+                <img src="../img/biltec-icon-flexibilitaet.svg" alt="biltec icon Flexibility">
+                <h3>Flexibility</h3>
                 <p>
-                    Die <strong>BILTEC AG</strong> steht für eine klare Haltung: Wir loten die Grenzen des Machbaren immer wieder neu aus. Das heisst, unsere Spezialisten setzen immer alles daran, die Wünsche der Kunden zu erfüllen.
+                    <strong>BILTEC AG</strong> stands for a clear attitude: We constantly test the limits of what is possible. This means that our specialists always do their utmost to fulfil our customers' wishes.
                 </p>
             </div>
         </div>
@@ -189,45 +195,46 @@
         <div class="subnav fadein">
             <div class="subnavimg">
                 <picture>
-                    <source type="image/webp" srcset="img/biltec-cnc-profis-teaser-unternehmen.webp" >
-                    <source type="image/jpg" srcset="img/biltec-cnc-profis-teaser-unternehmen.jpg" >
-                    <img src="img/biltec-cnc-profis-teaser-unternehmen.jpg" alt="CNC-Fertigungsanlage mit einer Auswahl verschiedener Bohrköpfe für rotative und kubische Bearbeitungsverfahren." loading="lazy">
+                    <source type="image/webp" srcset="../img/biltec-cnc-profis-teaser-unternehmen.webp" >
+                    <source type="image/jpg" srcset="../img/biltec-cnc-profis-teaser-unternehmen.jpg" >
+                    <img src="../img/biltec-cnc-profis-teaser-unternehmen.jpg" alt="CNC manufacturing plant featuring a selection of various drill heads for both rotary and cubic machining processes." loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
-                <h2 >Biltec AG - Ihr CNC-Profis</h2>
+                <h2>Biltec AG - Your CNC professionals</h2>
                 <p>
-                    Seit über zwanzig Jahren sind wir am Markt. Heute sind wir weit über die Schweiz hinaus bekannt als renommierter Anbieter von mechanischen Fertigungsteilen höchster Güteklasse.
+                    We have been on the market for over twenty years. Today we are known far beyond Switzerland as a renowned supplier of mechanical production parts of the highest quality.
                 </p>
             </div>
-            <button>
-                <a href="unternehmen">Unternehmen</a>
-            </button>
+            <a href="company">
+                <button>Company</button>
+            </a>
         </div>
         <div class="subnav fadein">
             <div class="subnavimg">
                 <picture>
-                    <source type="image/webp" srcset="img/biltec-cnc-profis-teaser-prudukte.webp" >
-                    <source type="image/jpg" srcset="img/biltec-cnc-profis-teaser-prudukte.jpg" >
-                    <img src="img/biltec-cnc-profis-teaser-prudukte.jpg" alt="Innenansicht einer CNC-Maschine bei Biltec, spezialisiert auf rotative Fertigungen. Detailaufnahme zeigt Präzisionswerkzeuge und -komponenten in Aktion, verdeutlicht die technologische Expertise und Fertigungskompetenz im Bereich der rotativen CNC-Bearbeitung." loading="lazy">
+                    <source type="image/webp" srcset="../img/biltec-cnc-profis-teaser-prudukte.webp" >
+                    <source type="image/jpg" srcset="../img/biltec-cnc-profis-teaser-prudukte.jpg" >
+                    <img src="../img/biltec-cnc-profis-teaser-prudukte.jpg" alt="Interior view of a CNC machine at Biltec, specialized in rotary fabrications. Close-up shows precision tools and components in action, highlighting the technological expertise and manufacturing competence in the field of rotary CNC processing." loading="lazy">
                 </picture>
             </div>
             <div class="subnavcontent">
-                <h2>Wir haben Ihnen viel zu bieten</h2>
+                <h2>We have a lot to offer you</h2>
                 <p>
-                    Wir setzen vor Ort auf eine Reihe von Horizontalmaschinen, mit denen wir Präzisionskomponenten aus praktisch allen wichtigen metallischen Werkstoffen herstellen. Von der Konstruktion/CAD/CAM bis zur Baugruppenmontage.
+                    We rely on a range of horizontal machines on site, with which we manufacture precision components from practically all important metallic materials. From design/CAD/CAM to component assembly.
                 </p>
             </div>
-            <button>
-                <a href="produkte">Produkte</a>
-            </button>
+            <a href="products">
+                <button>Products</button>
+            </a>
         </div>
     </div>
 
-    <?php require_once '../en/nav.php'; ?>
-    <?php require_once 'en/footer.php'; ?>
-    <?php require_once 'script.php'; ?>
+    <?php require_once 'nav.php'; ?>
+    <?php require_once 'footer.php'; ?>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="../main.js"></script>
     <script src="animation.js"></script>
-    <?php require_once 'googleanalytics.php'; ?>
+    <?php require_once '../googleanalytics.php'; ?>
 </body>
 </html>

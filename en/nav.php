@@ -17,15 +17,15 @@
                     <li><a href="component-assembly">Component assembly</a></li>
                 </ul>
             </li>
-            <li class="menu"><a href="unternehmen">Unternehmen</a>
+            <li class="menu"><a href="company">Company</a>
                 <ul class="submenu">
-                    <li><a href="unternehmen#qualitaet-first" class="bookmark" data-target="#qualitaet-first">Qualität first</a></li>
-                    <li><a href="unternehmen#maschinenpark" class="bookmark" data-target="#maschinenpark">Maschinenpark</a></li>
-                    <li><a href="unternehmen#ansprechpersonen" class="bookmark" data-target="#ansprechpersonen">Ansprechpersonen</a></li>
+                    <li><a href="company#quality-first" class="bookmark" data-target="#quality-first">Quality first</a></li>
+                    <li><a href="company#machinery" class="bookmark" data-target="#machinery">Machinery</a></li>
+                    <li><a href="company#contact-persons" class="bookmark" data-target="#contact-persons">Contact persons</a></li>
                 </ul>
             </li>
-            <li class="konlang"><a href="kontakt">Kontakt</a></li>
-            <li class="konlang"><a href="../">DE</a>  |  <a class="passiv" href="">EN</a></li>
+            <li class="konlang"><a href="contact">Contact</a></li>
+            <li class="konlang"><a class="passiv" href="../">DE</a>  |  <a href="">EN</a></li>
         </ul>
     </div>
 </nav>

@@ -12,8 +12,8 @@
     <meta name="author" content="Biltec AG">
     <link rel="canonical" href="https://biltec.ch/rotative-loesungen" />
 
-    <link rel="alternate" hreflang="de" href="https://www.biltec.ch/rotative-loesungen" />
-    <link rel="alternate" hreflang="en" href="https://www.biltec.ch/en/rotary-solutions" />
+    <link rel="alternate" hreflang="de" href="https://biltec.ch/rotative-loesungen" />
+    <link rel="alternate" hreflang="en" href="https://biltec.ch/en/rotary-solutions" />
 
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="public, max-age=3600" />
@@ -180,8 +180,7 @@
                 <picture>
                     <source type="image/webp" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-brille.webp" >
                     <source type="image/png" srcset="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-brille.png" >
-                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-brille.png" alt="oer-aufnahme.png" >
-                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-aufnahme.png" alt="Biltec Produkt 'Brille' für den Maschinenbau, gefertigt aus Chromstahl, illustriert Biltecs Fähigkeiten in rotativer Lösung und Fertigung." loading="lazy">
+                    <img src="img/biltec-cnc-profis-produkte-rotative-loesungen-druckzubehoer-brille.png" alt="Biltec Produkt 'Brille' für den Maschinenbau, gefertigt aus Chromstahl, illustriert Biltecs Fähigkeiten in rotativer Lösung und Fertigung." loading="lazy">
                 </picture>
                 <h3>Brille</h3>
                 <p>
@@ -259,7 +258,7 @@
                     Abmasse: Ø250x500<br>
                     Material: Chromstahl<br>
                 </p>
-                <a href="mailto:marcel.grueninger(at)biltec.ch?subject=Anfrage%20Pumpengehäuse">
+                <a href="mailto:miodrag.kostic@biltec.ch?subject=Anfrage%20Pumpengehäuse">
                     <button>Anfrage & Bestellung</button> 
                 </a>
             </div>
@@ -281,9 +280,9 @@
                     Seit über zwanzig Jahren sind wir am Markt. Heute sind wir weit über die Schweiz hinaus bekannt als renommierter Anbieter von mechanischen Fertigungsteilen höchster Güteklasse.
                 </p>
             </div>
-            <button>
-                <a href="unternehmen">Unternehmen</a>
-            </button>
+            <a href="unternehmen">
+                <button>Unternehmen</button>
+            </a>
         </div>
         <!-- Kontakt - Miodrag Kostic< -->
         <div class="subnav subcontact fadein">

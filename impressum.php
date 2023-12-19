@@ -8,8 +8,8 @@
     <meta name="author" content="Biltec AG ">
     <meta name="robots" content="noindex">
     
-    <link rel="alternate" hreflang="de" href="https://www.biltec.ch/impressum" />
-    <link rel="alternate" hreflang="en" href="https://www.biltec.ch/en/legal-notice" />
+    <link rel="alternate" hreflang="de" href="https://biltec.ch/impressum" />
+    <link rel="alternate" hreflang="en" href="https://biltec.ch/en/legal-notice" />
 
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -26,7 +26,7 @@
 <body>
     <section class="datenschutz main">
         <h1 class="big">Impressum</h1>
-        <h3 class="">Verantwortlich für den Inhalt:</h3>
+        <h3>Verantwortlich für den Inhalt:</h3>
         <p>
             Biltec AG <br>
             Unterlettenstrasse 10<br>
@@ -36,12 +36,12 @@
             <a href="https://biltec.ch">www.biltec.ch</a>
         </p>
 
-        <h3 class="">Copyright</h3>
+        <h3>Copyright</h3>
         <p>
             Das Copyright für sämtliche Inhalte dieser Website liegt bei Biltec AG, 9443 Widnau.
         </p>
 
-        <h3 class="">Webdesign und Code</h3>
+        <h3>Webdesign und Code</h3>
         <p>Schwizer Design GmbH<br>
         Gallusstrasse 43<br>
         CH-9000 St. Gallen<br>
@@ -53,10 +53,10 @@
         CH-9000 St. Gallen<br>
         <a href="https://at-eberhard.ch/" target="_blank">at-eberhard.ch</a></p>
 
-        <h3 class="">Haftungshinweis</h3>
+        <h3>Haftungshinweis</h3>
         <p>Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschliesslich deren Betreiber verantwortlich.</p>
 
-        <h3 class="">Urheberrecht</h3>
+        <h3>Urheberrecht</h3>
         <p>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem schweizerischen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung ausserhalb der Grenzen des Urheberrechts bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.</p>
     </section>
       

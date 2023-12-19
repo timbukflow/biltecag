@@ -12,8 +12,8 @@
     <meta name="author" content="Biltec AG">
     <link rel="canonical" href="https://biltec.ch/baugruppenmontage" />
 
-    <link rel="alternate" hreflang="de" href="https://www.biltec.ch/baugruppenmontage" />
-    <link rel="alternate" hreflang="en" href="https://www.biltec.ch/en/component-assembly" />
+    <link rel="alternate" hreflang="de" href="https://biltec.ch/baugruppenmontage" />
+    <link rel="alternate" hreflang="en" href="https://biltec.ch/en/component-assembly" />
 
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="public, max-age=3600" />
@@ -104,24 +104,24 @@
                 </picture>
             </div>
         </section>
-            
-        <section class="main imgdesc fadein">
-            <p>
-                Setzen Sie auf unseren «Alles-aus-einer-Hand»-Ansatz – und sparen Sie nicht nur Kosten, sondern auch Zeit, indem Sie Ihren administrativen Aufwand minimieren und Sie sich so auf Ihr Kerngeschäft konzentrieren können. Oder anders: Verlassen Sie sich mit uns auf einen Anbieter, der selbst komplexe und dringende Aufträge termingerecht realisiert und in höchster Qualität für Sie umsetzt.
-            </p>
-        </section>
+    </main>       
+    <section class="main imgdesc fadein">
+        <p>
+            Setzen Sie auf unseren «Alles-aus-einer-Hand»-Ansatz – und sparen Sie nicht nur Kosten, sondern auch Zeit, indem Sie Ihren administrativen Aufwand minimieren und Sie sich so auf Ihr Kerngeschäft konzentrieren können. Oder anders: Verlassen Sie sich mit uns auf einen Anbieter, der selbst komplexe und dringende Aufträge termingerecht realisiert und in höchster Qualität für Sie umsetzt.
+        </p>
+    </section>
 
-        <section class="main spacer">
-            <div class="fadein">
-                <h2 class="big quote">«Die Grenzen des Mach&shy;baren immer wieder neu auszuloten, empfinden wir als hoch&shy;faszi&shy;nierend!»</h2>
-            </div>
-            <div class="fadein">
-                <p class="headline">
-                    <strong>Miodrag Kostic </strong> <br>
-                    Fachverantwortlicher rotativ
-                </p>
-            </div>
-        </section>
+    <section class="main spacer">
+        <div class="fadein">
+            <h2 class="big quote">«Die Grenzen des Mach&shy;baren immer wieder neu auszuloten, empfinden wir als hoch&shy;faszi&shy;nierend!»</h2>
+        </div>
+        <div class="fadein">
+            <p class="headline">
+                <strong>Miodrag Kostic </strong> <br>
+                Fachverantwortlicher rotativ
+            </p>
+        </div>
+    </section>
 
     <div class="mainsubnav">
         <div class="subnav fadein">
@@ -138,9 +138,9 @@
                     Seit über zwanzig Jahren sind wir am Markt. Heute sind wir weit über die Schweiz hinaus bekannt als renommierter Anbieter von mechanischen Fertigungsteilen höchster Güteklasse.
                 </p>
             </div>
-            <button>
-                <a href="unternehmen">Unternehmen</a>
-            </button>
+            <a href="unternehmen">
+                <button>Unternehmen</button>
+            </a>
         </div>
         <!-- Kontakt - Miodrag Kostic< -->
         <div class="subnav subcontact fadein">

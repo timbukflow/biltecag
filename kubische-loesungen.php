@@ -12,8 +12,8 @@
     <meta name="author" content="Biltec AG">
     <link rel="canonical" href="https://biltec.ch/kubische-loesungen" />
 
-    <link rel="alternate" hreflang="de" href="https://www.biltec.ch/kubische-loesungen" />
-    <link rel="alternate" hreflang="en" href="https://www.biltec.ch/en/cubic-solutions" />
+    <link rel="alternate" hreflang="de" href="https://biltec.ch/kubische-loesungen" />
+    <link rel="alternate" hreflang="en" href="https://biltec.ch/en/cubic-solutions" />
 
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="public, max-age=3600" />
@@ -125,7 +125,7 @@
                     Abmasse: 25x150x350<br>
                     Material: Hochfestes Aluminium<br>
                 </p>
-                <a href="mailto:marcel.grueninger(at)biltec.ch?subject=Anfrage%20Dualadapter">
+                <a href="mailto:marcel.grueninger@biltec.ch?subject=Anfrage%20Dualadapter">
                     <button>Anfrage & Bestellung</button> 
                 </a>
             </div>
@@ -142,7 +142,7 @@
                     Abmasse: 150x200x500<br>
                     Material: Aluminium<br>
                 </p>
-                <a href="mailto:marcel.grueninger(at)biltec.ch?subject=Anfrage%20Flansch">
+                <a href="mailto:marcel.grueninger@biltec.ch?subject=Anfrage%20Flansch">
                     <button>Anfrage & Bestellung</button> 
                 </a>
             </div>
@@ -159,7 +159,7 @@
                     Abmasse: 250x350x450<br>
                     Material: Aluminium<br>
                 </p>
-                <a href="mailto:marcel.grueninger(at)biltec.ch?subject=Anfrage%20TWIN-X-Gehäuse">
+                <a href="mailto:marcel.grueninger@biltec.ch?subject=Anfrage%20TWIN-X-Gehäuse">
                     <button>Anfrage & Bestellung</button> 
                 </a>
             </div>
@@ -178,7 +178,7 @@
                     Abmasse: 80x130x500 <br>
                     Material: Aluminium<br>
                 </p>
-                <a href="mailto:marcel.grueninger(at)biltec.ch?subject=Anfrage%20Farbkammer">
+                <a href="mailto:marcel.grueninger@biltec.ch?subject=Anfrage%20Farbkammer">
                     <button>Anfrage & Bestellung</button> 
                 </a>
             </div>
@@ -195,7 +195,7 @@
                     Abmasse: Ø250x500<br>
                     Material: Chromstahl<br>
                 </p>
-                <a href="mailto:marcel.grueninger(at)biltec.ch?subject=Anfrage%20Pumpengehäuse">
+                <a href="mailto:marcel.grueninger@biltec.ch?subject=Anfrage%20Pumpengehäuse">
                     <button>Anfrage & Bestellung</button> 
                 </a>
             </div>
@@ -212,7 +212,7 @@
                     Abmasse: Ø90x650<br>
                     Material: Vergütungsstahl<br>
                 </p>
-                <a href="mailto:marcel.grueninger(at)biltec.ch?subject=Anfrage%20Monvat-Sitz-Typ-c">
+                <a href="mailto:marcel.grueninger@biltec.ch?subject=Anfrage%20Monvat-Sitz-Typ-c">
                     <button>Anfrage & Bestellung</button> 
                 </a>
             </div>
@@ -234,9 +234,9 @@
                     Seit über zwanzig Jahren sind wir am Markt. Heute sind wir weit über die Schweiz hinaus bekannt als renommierter Anbieter von mechanischen Fertigungsteilen höchster Güteklasse.
                 </p>
             </div>
-            <button>
-                <a href="unternehmen">Unternehmen</a>
-            </button>
+            <a href="unternehmen">
+                <button>Unternehmen</button>
+            </a>
         </div>
         <!-- Kontakt - Marcel Grüninger -->
         <div class="subnav subcontact fadein">
