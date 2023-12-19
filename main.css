@@ -46,6 +46,11 @@ body {
   padding: 0;
   background: var(--darkblue);
 }
+body.fixed {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
 
 /*----------------------------------
   Font
@@ -197,6 +202,7 @@ nav {
   position: fixed;
   z-index: 10;
   width: 100%;
+  height: auto;
   margin: 0 auto;
   padding: 20px 60px;
   top: 0;
@@ -256,6 +262,9 @@ nav {
   flex-direction: column;
   gap: 5px;
   width: 190px;
+}
+.menu.en{
+  width: 165px;
 }
 
 .submenu {
@@ -786,6 +795,7 @@ footer ul {
   .konlang {padding-bottom: 5px;}
   .submenu {opacity: 0.5;}
   .logoC {position: absolute;}
+  .menu, .menu.en {width: 100%;}
 }
 
 @media (max-width: 768px) {
