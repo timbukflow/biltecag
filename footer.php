@@ -29,7 +29,7 @@
                 <li class="group">
                     <ul>
                         <li>
-                            <a href="https://maps.app.goo.gl/yMd1G9bChF2DQpmYA" target="_blank">Biltec AG<br>
+                            <a href="https://maps.app.goo.gl/ZHc5n5xiEurBCFQa9" target="_blank">Biltec AG<br>
                             Unterlettenstrasse 10<br>
                             CH-9443 Widnau</a>
                         </li>
