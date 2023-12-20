@@ -812,6 +812,7 @@ footer li a {
   /* product */
   .prosubnav {margin-bottom: 70px;}
   .subtitle {margin: 0 auto;}
+  .iconC {margin-top: 30px; margin-bottom: 50px;}
   .nprod h3 {margin: 10px 0;}
 
   /* Footer */
@@ -837,12 +838,16 @@ footer li a {
   /* Grid */
   .mainfull {padding: 0 15px; margin: 50px auto 80px;}
   .mainwhite {padding: 40px 50px 0;}
+  .spacer {margin: 60px 0 90px;}
+  .gridC {gap: 20px;}
+
 
   /* Start */
   h2.headline, h3.headline, .teaserBtn {margin-left: 0;}
   h2.headline {margin-bottom: 0;}
   .numbers {padding: 0 30px;}
   .teaser {padding-bottom: 80px;}
+  .iconC {margin: 30px 0;}
 
   /* Subnav */
   .subnavimg {height: 210px;}
@@ -895,6 +900,12 @@ footer li a {
   .numbers span {line-height: 1.2;}
   .numbers h3 {margin: 5px 0;}
 
+  /* product */
+  .proC {margin-bottom: 20px;}
+  .imgdescD {flex-direction: column; gap: 0;}
+
+  /* subpage */
+  .imgdesc {margin: 50px 0 90px 0;}
 
   /* Footer */
   .footercont {flex-direction: column; margin: 0 15px 15px;}
@@ -908,9 +919,9 @@ footer li a {
   /* Roots */
   :root {
     --fontnr: 100px;
-    --fontbig: 60px;
-    --fontquote: 50%;
-    --fonttitle: 21px;
+    --fontbig: 50px;
+    --fontquote: 40px;
+    --fonttitle: 20px;
     --fonttext: 17px;
     --fontsmall: 17px;
   }
@@ -938,26 +949,30 @@ footer li a {
   .teaserBtn button {margin-bottom: 15px;}
   .teaser {padding-bottom: 0px;}
   .imgC {border-radius: 80px 0 20px 0;}
-  picture, img {width: 150%;}
+  picture, img {width: 140%;}
   .description {padding: 0 5px;}
   .description p {margin-left: 0;}
   
   /* Subnav */
   .subnavcontent { padding: 15px 25px 40px;}
   .subnav button {left: 20px; bottom: -25px;}
-  .subnavimg picture img {width: 100%;}
+  .subnavimg picture, .subnavimg picture img  {width: 105%;}
+
+  /* subpage */
+  .imgdesc {margin: 0;}
 
   /* product */
   .prosubnavcontent {padding: 15px 30px 25px;}
   .prosubnavimg picture {height: auto;}
   .prosubnavimg img {width: 100%;}
   .prosubnav button {left: 20px;}
+  .proC {margin-bottom: 0;}
+  .proC picture {width: 100%;}
+  .proC picture img {width: 100%;}
 
   /* footer */
   .footernav {flex-direction: column; gap: 20px;}
-  .footercopy span {display: block;}
+  .footercopy span {display: block; padding-top: 5px;}
   .totop {font-size: 30px;}
-  
-
   
 }
