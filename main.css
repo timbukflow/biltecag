@@ -958,9 +958,6 @@ footer li a {
   .subnav button {left: 20px; bottom: -25px;}
   .subnavimg picture, .subnavimg picture img  {width: 105%;}
 
-  /* subpage */
-  .imgdesc {margin: 0;}
-
   /* product */
   .prosubnavcontent {padding: 15px 30px 25px;}
   .prosubnavimg picture {height: auto;}
