@@ -143,22 +143,22 @@
         <div class="subtitle fadein">
             <h2>Was Sie alles von uns haben</h2>
         </div>
-        <div class="gridC fadein">
-            <div class="iconC">
+        <div class="gridC">
+            <div class="iconC fadein">
                 <img src="img/biltec-icon-spitzentechnologie.svg" alt="biltec icon spitzentechnologie">
                 <h3>Spitzentechnologie</h3>
                 <p>
                     Die <strong>BILTEC AG</strong> steht nie still. So integrieren wir ständig die modernsten Technologien in unseren Fertigungspark und entwickeln uns laufend weiter, damit unsere Produkte jederzeit dem aktuellsten Stand entsprechen.
                 </p>
             </div>
-            <div class="iconC">
+            <div class="iconC fadein">
                 <img src="img/biltec-icon-wirtschaftlichkeit.svg" alt="biltec icon wirtschaftlichkeit">
                 <h3>Wirtschaftlichkeit</h3>
                 <p>
                     Die <strong>BILTEC AG</strong> steht für eine effiziente Produktion – dank hoher Verfügbar-keit, durchdachten Prozessen, einem modernen Maschinenpark sowie Energieeffizienz.
                 </p>
             </div>
-            <div class="iconC">
+            <div class="iconC fadein">
                 <img src="img/biltec-icon-partnerschaft.svg" alt="biltec icon partnerschaft">
                 <h3>Partnerschaft</h3>
                 <p>
@@ -166,22 +166,22 @@
                 </p>
             </div>
         </div>
-        <div class="gridC fadein">
-            <div class="iconC">
+        <div class="gridC">
+            <div class="iconC fadein">
                 <img src="img/biltec-icon-verantwortung.svg" alt="biltec icon verantwortung">
                 <h3>Verantwortung</h3>
                 <p>
                     Die <strong>BILTEC AG</strong> ist sich der Verantwortung gegenüber ihren Stakeholdern, der Gesellschaft sowie der Umwelt bewusst. Nachhaltigkeit haben wir deshalb fest in unserem Unternehmen verankert und unser tägliches Handeln darauf abgestimmt.
                 </p>
             </div>
-            <div class="iconC">
+            <div class="iconC fadein">
                 <img src="img/biltec-icon-zuverlaessigkeit.svg" alt="biltec icon zuverlässigkeit">
                 <h3>Zuverlässigkeit</h3>
                 <p>
                     Auf die <strong>BILTEC AG</strong> ist Verlass. Als erfahrener und kompetenter Partner liefern wir in höchster Qualität – termingerecht und zu den vereinbarten Konditionen.
                 </p>
             </div>
-            <div class="iconC">
+            <div class="iconC fadein">
                 <img src="img/biltec-icon-flexibilitaet.svg" alt="biltec icon flexibilität">
                 <h3>Flexibilität</h3>
                 <p>

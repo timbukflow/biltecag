@@ -51,6 +51,6 @@
         </div>
     </div>
     <div class="footercopy">
-        <p>© Copyright 2024 BILTEC AG | Realization <a href="https://schwizerdesign.ch/" target="_blank">schwizerdesign.ch</a></p>
+        <p>© Copyright 2024 BILTEC AG | <span>Realization <a href="https://schwizerdesign.ch/" target="_blank">schwizerdesign.ch</a></span></p>
     </div>
 </footer>

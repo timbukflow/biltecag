@@ -77,7 +77,7 @@
 
 <body>
     <header class="main fadein">
-        <h1 class="big">Your CNC professionals</h1>
+        <h1 class="big">Your CNC profes&shy;sionals</h1>
         <h2 class="headline">
            <strong>BILTEC AG</strong> is your versatile partner when it comes to CNC manufacturing, design, metrology and assembly of components. We are not only specialists in printing accessories, but are also happy to take on orders where creative ideas and technical expertise are required.
         </h2>
@@ -85,7 +85,7 @@
         <article class="teaser">
             <div id="rotativ" class="animatC fadein">
                 <img id="rotativImg" src="../img/rotativ0.webp" alt="Plate cylinder for the printing industry, manufactured by Biltec CNC manufacturing. Dimensions: Diameter 200mm x Length 630mm, made of bearing steel. Part of the rotary solutions.">
-                <p>Plate cylinder - Printing industry<br>Dimensions: Ø200x630 <br> Material: Rolling bearing steel Enquiry & order</p>
+                <p>Plate cylinder - Printing industry<br>Dimensions: Ø200x630 <br> Material: Rolling bearing steel</p>
             </div>
             <h2 class="big fadein">Rotary</h2>
             <h3 class="headline fadein">
@@ -143,22 +143,22 @@
         <div class="subtitle fadein">
             <h2>What you get from us</h2>
         </div>
-        <div class="gridC fadein">
-            <div class="iconC">
+        <div class="gridC">
+            <div class="iconC fadein">
                 <img src="../img/biltec-icon-spitzentechnologie.svg" alt="biltec icon Cutting-edge technology">
                 <h3>Cutting-edge technology</h3>
                 <p>
                     <strong>BILTEC AG</strong> never stands still. We constantly integrate the latest technologies into our production facilities and continuously develop to ensure that our products are always state-of-the-art.
                 </p>
             </div>
-            <div class="iconC">
+            <div class="iconC fadein">
                 <img src="../img/biltec-icon-wirtschaftlichkeit.svg" alt="biltec icon Economic efficiency">
                 <h3>Economic efficiency</h3>
                 <p>
                     <strong>BILTEC AG</strong> stands for efficient production - thanks to high availability, well thought-out processes, modern machinery and energy efficiency.
                 </p>
             </div>
-            <div class="iconC">
+            <div class="iconC fadein">
                 <img src="../img/biltec-icon-partnerschaft.svg" alt="biltec icon Partnership">
                 <h3>Partnership</h3>
                 <p>
@@ -166,22 +166,22 @@
                 </p>
             </div>
         </div>
-        <div class="gridC fadein">
-            <div class="iconC">
+        <div class="gridC">
+            <div class="iconC fadein">
                 <img src="../img/biltec-icon-verantwortung.svg" alt="biltec icon Responsibility">
                 <h3>Responsibility</h3>
                 <p>
                     <strong>BILTEC AG</strong> is aware of its responsibility towards its stakeholders, society and the environment. We have therefore firmly anchored sustainability in our company and aligned our daily actions accordingly.
                 </p>
             </div>
-            <div class="iconC">
+            <div class="iconC fadein">
                 <img src="../img/biltec-icon-zuverlaessigkeit.svg" alt="biltec icon Reliability">
                 <h3>Reliability</h3>
                 <p>
                     You can rely on <strong>BILTEC AG</strong>. As an experienced and competent partner, we deliver the highest quality - on time and on the agreed terms.
                 </p>
             </div>
-            <div class="iconC">
+            <div class="iconC fadein">
                 <img src="../img/biltec-icon-flexibilitaet.svg" alt="biltec icon Flexibility">
                 <h3>Flexibility</h3>
                 <p>
