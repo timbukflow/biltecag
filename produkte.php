@@ -80,7 +80,7 @@
     <header class="main fadein">
         <h1 class="big">Pro&shy;dukte</h1>
         <h2 class="headline">
-                Wir sind in der Schweiz zuhause und setzen vor Ort auf eine Reihe von Horizontalmaschinen, mit denen wir Präzisionskomponenten aus praktisch allen wichtigen metallischen Werkstoffen herstellen. Um die hohe Qualität unserer Erzeugnisse sicherzustellen, nutzen wir einen modernen <a class="textlink" href="unternehmen#maschinenpark">Maschinenpark</a>.
+            Wir sind in der Schweiz zuhause und setzen vor Ort auf eine Reihe von Horizontalmaschinen, mit denen wir Präzisionskomponenten aus praktisch allen wichtigen metallischen Werkstoffen herstellen. Um die hohe Qualität unserer Erzeugnisse sicherzustellen, nutzen wir einen modernen <a class="textlink" href="unternehmen#maschinenpark">Maschinenpark</a>.
         </h2>
     </header>
 
