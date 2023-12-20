@@ -80,7 +80,7 @@
 
 <body>
     <header class="main fadein">
-        <h1 class="big">Produkte</h1>
+        <h1 class="big">Pro&shy;dukte</h1>
         <h2 class="headline">
                 Wir sind in der Schweiz zuhause und setzen vor Ort auf eine Reihe von Horizontalmaschinen, mit denen wir Präzisionskomponenten aus praktisch allen wichtigen metallischen Werkstoffen herstellen. Um die hohe Qualität unserer Erzeugnisse sicherzustellen, nutzen wir einen modernen <a class="textlink" href="unternehmen#maschinenpark">Maschinenpark</a>.
         </h2>
@@ -105,7 +105,7 @@
                     </picture>
                 </div> 
                 <div class="prosubnavcontent">
-                    <h2>Konstruktion/CAD/CAM</h2>
+                    <h2>Konstruktion / CAD / CAM</h2>
                     <p>
                         In der CAD / CAM Konstruktion setzen wir auf Top Solid – so können wir auf jeden Wunsch eingehen. Die freie Modellierung ist dabei die Basis massgefertigter Lösungen, die wir gezielt nach Ihrem Anspruch und Ihrem Bedarf umsetzen. Vertrauen Sie auf unsere langjährige Erfahrung in der Konstruktion von CAD / CAM.
                     </p>
@@ -149,7 +149,7 @@
             </div>
             <div class="prosubnav fadein">
                 <div class="prosubnavcontent">
-                    <h2>Baugruppenmontage</h2>
+                    <h2>Baugruppen&shy;montage</h2>
                     <p>
                         Indem Sie uns mit einer kompletten Baugruppenmontage beauftragen, sparen Sie Zeit und Geld, sodass sich Ihre Effizienz erhöht und Ihr Unternehmen wirtschaftlicher arbeitet.
                     </p>
@@ -171,7 +171,7 @@
             <div class="subtitle fadein">
                 <h2 class="white">Fakten</h2>
             </div>
-            <div class="numbers fadein">
+            <div class="numbers nresp fadein">
                 <div class="nprod">
                     <h3><span class="counter" data-target="18">0</span></h3>
                     <h2>Mitarbeitende</h2>

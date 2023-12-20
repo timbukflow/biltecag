@@ -78,7 +78,7 @@
 
 <body>
     <header class="main fadein">
-        <h1 class="big">Products</h1>
+        <h1 class="big">Pro&shy;ducts</h1>
         <h2 class="headline">
         We are based in Switzerland and use a range of horizontal machines on site to manufacture precision components from practically all important metallic materials. We utilise modern <a class="textlink" href="company#machinery">machinery</a> to ensure the high quality of our products.
         </h2>
@@ -103,7 +103,7 @@
                     </picture>
                 </div> 
                 <div class="prosubnavcontent">
-                    <h2>Design/CAD/CAM</h2>
+                    <h2>Design / CAD / CAM</h2>
                     <p>
                         In CAD / CAM design, we rely on Top Solid - This enables us to fulfil every wish. Free modelling is the basis for customised solutions, which we implement according to your requirements and needs. You can rely on our many years of experience in CAD / CAM design.
                     </p>
@@ -169,7 +169,7 @@
             <div class="subtitle fadein">
                 <h2 class="white">facts</h2>
             </div>
-            <div class="numbers fadein">
+            <div class="numbers nresp fadein">
                 <div class="nprod">
                     <h3><span class="counter" data-target="18">0</span></h3>
                     <h2>employees</h2>
