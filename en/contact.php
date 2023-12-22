@@ -139,7 +139,7 @@
         </div>
     </section>
     
-    <div class="mainsubnav">
+    <div class="mainsubnav mainsubnavcontact">
         <!-- Contact - Intro -->
         <div class="subtext subcontact fadein">
             <p>
@@ -184,7 +184,7 @@
             </div>
         </div>
     </div>
-    <div class="mainsubnav">
+    <div class="mainsubnav mainsubnavcontact">
         <!-- Contact - Miodrag Kostic -->
         <div class="subnav subcontact fadein">
             <div class="subnavimg">

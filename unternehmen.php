@@ -193,7 +193,7 @@
     <!-- Maschinenpark Liste Rotativ -->
     <div class="mpC">
         <div class="mpList fadein">
-            <p>Rotative Produktion</p>
+            <p class="mpLtitle">Rotative Produktion</p>
         </div>
         <div class="mpList fadein">
             <h3>WFL M40G</h3>
@@ -226,7 +226,7 @@
     <!-- Maschinenpark Liste Kubisch -->
     <div class="mpC">
         <div class="mpList fadein">
-            <p>Kubische Produktion</p>
+            <p class="mpLtitle">Kubische Produktion</p>
         </div>
         <div class="mpList fadein">
             <h3>Makino a81nx</h3>
@@ -255,7 +255,7 @@
     <!-- Maschinenpark Liste Messtechnik -->
     <div class="mpC">
         <div class="mpList fadein">
-            <p>Messtechnik</p>
+            <p class="mpLtitle">Messtechnik</p>
         </div>
         <div class="mpList fadein">
             <h3 class="mt">Mitutoyo Crystal Apex S-9168</h3>
@@ -273,7 +273,7 @@
         </h2>
     </div>
 
-    <div class="mainsubnav">
+    <div class="mainsubnav mainsubnavcontact">
         <!-- Kontakt - Intro -->
         <div class="subtext subcontact fadein">
             <p>
@@ -318,7 +318,7 @@
             </div>
         </div>
     </div>
-    <div class="mainsubnav">
+    <div class="mainsubnav mainsubnavcontact">
         <!-- Kontakt - Miodrag Kostic -->
         <div class="subnav subcontact fadein">
             <div class="subnavimg">
