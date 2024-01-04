@@ -136,7 +136,8 @@ color: var(--fontcolor);
 }
 
 strong {
-  font-family: var(--fontsemibold)
+  font-family: var(--fontsemibold);
+  font-weight: normal;
 }
 
 a {
