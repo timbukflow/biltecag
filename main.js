@@ -34,22 +34,27 @@ $( document ).ready(function() {
         handleSubmenu();
     });
 
-    // Nav Bookmark 
-    $('.scroll').click(function() {
-      var superscroll = $(this).attr('data-scroll');
-      $('html,body').animate({scrollTop:$(superscroll).offset().top}, 1000, 'easeInOutExpo');
-      $('.navigation').removeClass('navigation_toggled');
-      $('body').removeClass('noscroll');
-      $('.dropdown').slideUp();
-      $('#kontakt').html("Kontakt");
-    });
-
     // Nav Mobile
     $(".burger-icon").click(function() {
       $(this).children().toggleClass("spread");
       $(".nav-list").stop(true,true).slideToggle(800);
       $("body").toggleClass("fixed");
     });
+
+    // Nav Bookmark 
+    $('.bookmark').click(function(e) {
+        
+        $('body').removeClass('fixed');
+        $('.nav-list').slideUp();
+
+        var target = $(this).data('target');
+        var offset = $(target).offset().top - 50;
+
+        $('html, body').animate({
+            scrollTop: offset
+        }, 1000);
+    });
+  
 
     /////////// Fadin Function /////////////  
     const fadeInElements = $('.fadein');
@@ -100,22 +105,5 @@ $( document ).ready(function() {
           $(this).closest('.proC').find('picture').find('img').removeClass('img-rotate');
       }
     );
-
-    /////////// Bookmark Animation /////////////
-    $(".bookmark").click(function(e) {
-      var currentPage = window.location.pathname.split("/").pop();
-      var targetPage = $(this).attr('href').split("#")[0];
-      var targetId = $(this).data('target');
-
-      if (targetId && targetPage) {
-          if (currentPage === targetPage || targetPage === '') {
-              e.preventDefault();
-              $('html, body').animate({
-                  scrollTop: $(targetId).offset().top - 200
-              }, 1000);
-          }
-      }
-    });
-      
 
 });
