@@ -847,7 +847,6 @@ footer li a {
   .spacer {margin: 60px 0 90px;}
   .gridC {gap: 20px;}
 
-
   /* Start */
   h2.headline, h3.headline, .teaserBtn {margin-left: 0;}
   h2.headline {margin-bottom: 0;}
@@ -1013,5 +1012,8 @@ footer li a {
   .footernav {flex-direction: column; gap: 20px;}
   .footercopy span {display: block; padding-top: 5px;}
   .totop {font-size: 30px;}
+
+  /* cookiebanner */
+  #cookiebanner { right: 15px; left: 15px; width: auto;}
   
 }
