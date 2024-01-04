@@ -155,7 +155,7 @@
                 <img src="img/biltec-icon-wirtschaftlichkeit.svg" alt="biltec icon wirtschaftlichkeit">
                 <h3>Wirtschaftlichkeit</h3>
                 <p>
-                    Die <strong>BILTEC AG</strong> steht für eine effiziente Produktion – dank hoher Verfügbar-keit, durchdachten Prozessen, einem modernen Maschinenpark sowie Energieeffizienz.
+                    Die <strong>BILTEC AG</strong> steht für eine effiziente Produktion – dank hoher Verfügbarkeit, durchdachten Prozessen, einem modernen Maschinenpark sowie Energieeffizienz.
                 </p>
             </div>
             <div class="iconC fadein">
