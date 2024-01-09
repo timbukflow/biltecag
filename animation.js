@@ -45,6 +45,6 @@ $( document ).ready(function() {
     
     // Animationen für 'rotativ' und 'kubisch'
     animateOnScroll('rotativ', 'rotativImg', 39, 'rotativ');
-    animateOnScroll('kubisch', 'kubischImg', 36, 'kubisch');
+    animateOnScroll('kubisch', 'kubischImg', 41, 'kubisch');
 
 });
