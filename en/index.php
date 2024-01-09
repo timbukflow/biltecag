@@ -104,7 +104,7 @@
         <article class="teaser">
             <div id="kubisch" class="animatC fadein">
                 <img id="kubischImg" src="../img/kubisch0.webp" alt="Dual adapter for the optics industry, produced by Biltec's cubic CNC manufacturing. Made from high-strength aluminum. Specialized component for precise applications.">
-                <p>Dualadapter - Optikindustrie <br>Abmasse: 25x150x350 <br> Material: Hochfestes Aluminium</p>
+                <p>Dual adapter - Optics industry <br>Dimensions: 25x150x350 <br> Material: High-strength aluminium</p>
             </div>
             <h2 class="big fadein">Cubic</h2>
             <h3 class="headline fadein">
