@@ -3,18 +3,30 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f 
 RewriteRule ^(.*)$ $1.php
 
-Redirect 301 /unternehmen/leitbild/ https://biltec.ch/unternehmen/
-Redirect 301 /unternehmen/geschichte/ https://biltec.ch/unternehmen/
-Redirect 301 /unternehmen/news/ https://biltec.ch/unternehmen/
-Redirect 301 /unternehmen/karriere/ https://biltec.ch/unternehmen/
+Redirect 301 /unternehmen/ https://biltec.ch/unternehmen
+Redirect 301 /unternehmen/leitbild/ https://biltec.ch/unternehmen
+Redirect 301 /unternehmen/geschichte/ https://biltec.ch/unternehmen
+Redirect 301 /unternehmen/news/ https://biltec.ch/unternehmen
+Redirect 301 /unternehmen/karriere/ https://biltec.ch/unternehmen
 Redirect 301 /produktion/ https://biltec.ch/ 
 Redirect 301 /produktion/maschinenpark/ https://biltec.ch/
-Redirect 301 /bereiche/ https://biltec.ch/produkte/
-Redirect 301 /bereiche/konstruktion-cad-cam/ https://biltec.ch/produkte/
-Redirect 301 /bereiche/fertigung-kubisch/ https://biltec.ch/kubische-loesungen/
-Redirect 301 /bereiche/fertigung-rotativ/ https://biltec.ch/rotative-loesungen/
-Redirect 301 /bereiche/baugruppenmontage/ https://biltec.ch/baugruppenmontage/
-Redirect 301 /bereiche/druckzubehoer/ https://biltec.ch/rotative-loesungen/
-Redirect 301 /bereiche/qualitaet/ https://biltec.ch/unternehmen/
-Redirect 301 /kontakt/ansprechspartner/ https://biltec.ch/kontakt/
+Redirect 301 /bereiche/ https://biltec.ch/produkte
+Redirect 301 /bereiche/konstruktion-cad-cam/ https://biltec.ch/produkte
+Redirect 301 /bereiche/fertigung-kubisch/ https://biltec.ch/kubische-loesungen
+Redirect 301 /bereiche/fertigung-rotativ/ https://biltec.ch/rotative-loesungen
+Redirect 301 /bereiche/baugruppenmontage/ https://biltec.ch/baugruppenmontage
+Redirect 301 /bereiche/druckzubehoer/ https://biltec.ch/rotative-loesungen
+Redirect 301 /bereiche/qualitaet/ https://biltec.ch/unternehmen
+Redirect 301 /kontakt/ansprechspartner/ https://biltec.ch/kontakt
 Redirect 301 /downloads/ https://biltec.ch/
+Redirect 301 /produktedruckzubehoer/ https://biltec.ch/
+Redirect 301 /unternehmenleitbild/ https://biltec.ch/
+Redirect 301 /kontakt/ https://biltec.ch/kontakt
+Redirect 301 /produktebaugruppenmontage/ https://biltec.ch/baugruppenmontage
+Redirect 301 /produktequalitaet/ https://biltec.ch/unternehmen
+Redirect 301 /maschinenpark/ https://biltec.ch/unternehmen
+Redirect 301 /produktefertigung-rotativ/ https://biltec.ch/rotative-loesungen
+Redirect 301 /unternehmennews/ https://biltec.ch/unternehmen
+Redirect 301 /produktefertigung-kubisch/ https://biltec.ch/kubische-loesungen
+Redirect 301 /produktekonstruktion-cad-cam/ https://biltec.ch/produkte
+Redirect 301 /unternehmengeschichte/ https://biltec.ch/unternehmen

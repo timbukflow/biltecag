@@ -1,3 +1,11 @@
+<!-- 
+
+Made by Schwizer Design GmbH
+Say hello @ schwizerdesign.ch
+Version 1.0
+
+-->
+
 <!DOCTYPE html>
 <html lang="de">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
