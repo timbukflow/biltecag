@@ -71,10 +71,10 @@
         },
         "sameAs": [
             "https://www.linkedin.com/in/dietmar-thoeny-63bb3482/",
-            "https://www.linkedin.com/in/miodrag-kostic-b417332a3/",
+            "https://www.linkedin.com/in/miodrag-kostic-b417332a3/"
         ],
         "founder": "Dietmar Thöny",
-        "foundingDate": "2002",
+        "foundingDate": "2002"
     }
     </script>
 </head>
