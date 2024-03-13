@@ -109,9 +109,9 @@
                 <h2>Öffnungszeiten</h2>
                 <p>
                     <strong>Montag - Donnerstag</strong><br>
-                    7.30 - 11.30 und 12.30 - 16.30 Uhr<br><br>
+                    7.30 - 11.30 und 13.30 - 16.30 Uhr<br><br>
                     <strong>Freitag</strong><br>
-                    7.30 - 11.30 und 12.30 - 16.00 Uhr
+                    7.30 - 11.30 und 13.30 - 16.00 Uhr
                 </p>
             </div>
         </div>
