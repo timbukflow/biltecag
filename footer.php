@@ -2,7 +2,7 @@
     <div class="footercont fadein">
         <div class="footerfirst">
             <a class="totop" href="index">BILTEC AG <br> Ihre CNC-Profis</a>
-            <a href="download/biltec-ag-sqs-zertifikat-de.pdf" target="_blank"> Wir sind SQS-zertifiziert.</a>
+            <a href="download/biltec-ag-sqs-zertifikat-de.pdf" target="_blank"> Wir sind ISO-9001 zertifiziert.</a>
         </div>
         <div class="footernav">
             <ul>
