@@ -128,7 +128,7 @@
             </div>
             <div class="fadein">
                 <h2 class="headline">
-                Alle unsere Kundenaufträge führen wir in höchster Präzision aus. Uns ist es sehr wichtig, dass die Produkte, die wir für Sie entwickelt und gefertigt haben, Sie effektiv unterstützen und sich positiv auf die Wertschöpfung Ihres Unternehmens auswirken.
+                Alle unsere Kundenaufträge führen wir in höchster Präzision aus. Die von uns entwickelten und gefertigten Produkte unterstützen Sie effektiv und steigern die Wertschöpfung Ihres Unternehmens. Als ISO 9001 zertifiziertes Unternehmen garantieren wir höchste Qualitätsstandards.
                 </h2>
             </div>
         </section>

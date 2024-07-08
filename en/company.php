@@ -130,7 +130,7 @@
             </div>
             <div class="fadein">
                 <h2 class="headline">
-                    We fulfil all our customer orders with the highest precision. It is very important to us that the products we develop and manufacture for you, support you effectively and have a positive impact on your company's added value.
+                    We execute all our customer orders with the highest precision. The products we develop and manufacture effectively support you and enhance your company's value creation. As an ISO 9001 certified company, we guarantee the highest quality standards.
                 </h2>
             </div>
         </section>

@@ -45,7 +45,7 @@ $( document ).ready(function() {
     $('.bookmark').click(function(e) {
         
         $('body').removeClass('fixed');
-        $('.nav-list').slideUp();
+        $('.submenu').slideUp();
 
         var target = $(this).data('target');
         var offset = $(target).offset().top - 50;

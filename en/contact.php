@@ -110,9 +110,9 @@
                 <h2>Opening Hours</h2>
                 <p>
                     <strong>Monday - Thursday</strong><br>
-                    7.30 - 11.30 and 12.30 - 16.30<br><br>
+                    7.30 - 11.30 and 13.30 - 16.30<br><br>
                     <strong>Friday</strong><br>
-                    7.30 - 11.30 and 12.30 - 16.00
+                    7.30 - 11.30 and 13.30 - 16.00
                 </p>
             </div>
         </div>
